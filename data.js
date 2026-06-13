@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-13T14:35:00+02:00",
+  "lastUpdate": "2026-06-13T14:42:48+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -279,11 +279,11 @@ window.WM_DATA = {
     "confidence": "mittel",
     "reasons": [
      "Schottland klarer Favorit; Haiti als WM-Rueckkehrer (52 Jahre Pause) ohne Erfahrung auf dieser Ebene",
-     "Gilmour (Knieband, WM-Ausfall) raus; zusaetzlich McTominay (Magenprobleme) und McKenna zweifelhaft - Mittelfeld geschwaeacht",
-     "Che Adams (Oberschenkel) voraussichtlich doch dabei, Shankland als Sturmduo-Partner",
-     "Trotz Ausfaellen hoehere Klasse reicht: Haiti defensiv ueberfordert, Quoten klar pro SCO"
+     "Gilmour (Knieband, WM-Ausfall) fehlt; McTominay & McKenna (Magenprobleme Do) im erwarteten Lineup - Einsatz wahrscheinlich",
+     "Che Adams fit und in Startelf bestaetigt; Shankland als Sturmduo-Partner",
+     "Trotz Fragezeichen: Klasse klar dominierend, Haiti defensiv ueberfordert, Quoten klar pro SCO"
     ],
-    "updatedAt": "2026-06-13T14:35:00+02:00",
+    "updatedAt": "2026-06-13T14:42:48+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -330,19 +330,19 @@ window.WM_DATA = {
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
-    "scoreAway": 2,
-    "winnerCode": "TUR",
-    "outcome": "2",
-    "confidence": "mittel",
+    "scoreAway": 1,
+    "winnerCode": "X",
+    "outcome": "X",
+    "confidence": "niedrig",
     "reasons": [
-     "Tuerkei in Topform (4:0, 2:1) und FIFA-Rang 22 vor Australien (27); Quote sieht TUR knapp vorn",
-     "Arda Gueler (vollfit) als Spielmacher gesetzt; Kenan Yildiz (Wadenmuskelfaserriss) faellt fuer den Auftakt aus",
-     "Calhanoglu im Zentrum gibt TUR Qualitaetsvorsprung; Australien ohne Verletzungssorgen und kompakt",
-     "Australien Standards als Trumpf - aber TUR-Klasse mit Gueler/Calhanoglu setzt sich knapp durch"
+     "Calhanoglu (Wadenmuskel) als game-time decision sehr fraglich - TUR verliert wichtigsten Mittelfeldmotor",
+     "Kenan Yildiz (Wadenverletzung) trainiert nur individuell, Auftakteinsatz ueberraschend - TUR stark geschwaeacht",
+     "Arda Gueler fit und als Spielmacher gesetzt; Australien komplett ohne Verletzungssorgen",
+     "TUR-Qualitaetsvorsprung ohne Calhanoglu/Yildiz schwindet - enges Spiel, Remis realistisches Ergebnis"
     ],
-    "updatedAt": "2026-06-13T14:35:00+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-06-13T14:42:48+02:00",
+    "changed": true,
+    "changeNote": "Calhanoglu (Wadenmuskel) game-time decision + Yildiz Einzeltraining -> TUR Mittelfeld geschwaeacht, Tipp von 1:2 TUR auf 1:1"
    },
    "history": [
     {
@@ -357,6 +357,20 @@ window.WM_DATA = {
      ],
      "at": "2026-06-13T12:00:00+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 1,
+     "winnerCode": "X",
+     "confidence": "niedrig",
+     "reasons": [
+      "Calhanoglu (Wadenmuskel) als game-time decision sehr fraglich - TUR verliert wichtigsten Mittelfeldmotor",
+      "Kenan Yildiz (Wadenverletzung) trainiert nur individuell, Auftakteinsatz ueberraschend - TUR stark geschwaeacht",
+      "Arda Gueler fit und als Spielmacher gesetzt; Australien komplett ohne Verletzungssorgen",
+      "TUR-Qualitaetsvorsprung ohne Calhanoglu/Yildiz schwindet - enges Spiel, Remis realistisches Ergebnis"
+     ],
+     "at": "2026-06-13T14:42:48+02:00",
+     "changeNote": "Calhanoglu (Wadenmuskel) game-time decision + Yildiz Einzeltraining -> TUR Mittelfeld geschwaeacht, Tipp von 1:2 TUR auf 1:1"
     }
    ],
    "result": null,
@@ -392,11 +406,11 @@ window.WM_DATA = {
     "confidence": "mittel",
     "reasons": [
      "Quote BRA ~1.60, FIFA-Rang 6 vs 7 - leichter Favorit im engen Topspiel der Gruppe",
-     "Brasiliens Offensive: Vinicius/Raphinha/Cunha starten; Neymar (Muskelverletzung) faellt fuer den Auftakt aus",
-     "Marokko mit Hakimi FIT (Oberschenkel-Entwarnung, Kapitaen); Ezzalzouli WM-Ausfall (Knie), Mazraoui (Schulter) fraglich",
-     "Hakimi einflussreich auf Rechts - MAR staerker als befuerchtet, BRA-Sieg dennoch knapp erwartet"
+     "Brasiliens Startelf bestaetigt: Vinicius/Raphinha/Cunha; Neymar (Muskelverletzung) faellt aus, nur Ibanez fehlt zusaetzlich",
+     "Marokko mit Hakimi (Kapitaen) fit; Ezzalzouli WM-Ausfall (Knie), Mazraoui (Schulter) spielt doch - MAR nahezu komplett",
+     "Enger Hochkaraeter: MAR nahezu vollstaendig, BRA mit klarer Offensive - knapper BRA-Sieg erwartet"
     ],
-    "updatedAt": "2026-06-13T14:35:00+02:00",
+    "updatedAt": "2026-06-13T14:42:48+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -449,11 +463,11 @@ window.WM_DATA = {
     "confidence": "hoch",
     "reasons": [
      "Quote SUI klar favorisiert (Markt ~81% Sieg), FIFA-Rang 19 vs Katar deutlich unterlegen",
-     "Schweizer Achse Akanji/Xhaka/Embolo (Visum-Problem geloest, einsatzbereit) qualitativ ueberlegen",
-     "Vargas (Muskelproblem, fraglich) - Rieder als Ersatz kompensiert; Katar nur mit Afif gefaehrlich",
+     "Schweizer Startelf vollstaendig: Akanji/Xhaka/Embolo fit, Vargas (zuvor fraglich) jetzt bestaetigt in der XI",
+     "Katar ohne Verletzungssorgen, aber individuell klar unterlegen; Afif einzige echte Gefahr",
      "Katar defensiv ordentlich organisiert, daher kein Kantersieg sondern kontrollierter 0:2-Erfolg"
     ],
-    "updatedAt": "2026-06-13T14:35:00+02:00",
+    "updatedAt": "2026-06-13T14:42:48+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -562,11 +576,11 @@ window.WM_DATA = {
     "confidence": "hoch",
     "reasons": [
      "Quote GER ~1.03 - krasser Favorit, FIFA #10 gegen kleinste je qualifizierte Nation",
-     "GER trotz Ausfaellen (Gnabry, ter Stegen, L. Karl) mit Wirtz, Musiala, Havertz offensiv klar ueberlegen",
-     "Neuer bestaetigt als Starter (fit, 40 Jahre); Abwehrachse Kimmich/Tah/Schlotterbeck zuverlaessig",
-     "Curacao WM-Debuet, aber chancenlos gegen diese Qualitaet; klarer Auftaktsieg fuer Deutschland erwartet"
+     "Startelf bestaetigt: Neuer, Kimmich, Wirtz, Musiala, Havertz, Sane alle dabei - starke Offensive trotz Gnabry/ter Stegen-Ausfaelle",
+     "Abwehrachse Kimmich/Tah/Schlotterbeck/Brown stabil; Curacao WM-Debuet ohne realistische Siegchance",
+     "Tipp 4:0: DFB schiesst sich warm, Curacao chancenlos gegen diese Qualitaet"
     ],
-    "updatedAt": "2026-06-13T14:35:00+02:00",
+    "updatedAt": "2026-06-13T14:42:48+02:00",
     "changed": false,
     "changeNote": null
    },
