@@ -16,8 +16,8 @@ es → dein **Handy** zeigt die frischen Tipps.
 ## Auf dem Handy nutzen
 
 1. Im Handy-Browser (Chrome) die Adresse öffnen:
-   **`https://<DEIN-GITHUB-NAME>.github.io/wm-tipps/`**
-   (die genaue URL bekommst du beim Einrichten von GitHub Pages; sie wird hier eingetragen).
+   **`https://mintberry1628.github.io/wm-tipps/`**
+   (funktioniert, sobald GitHub Pages aktiviert ist – siehe Einrichtung unten).
 2. **„Zum Startbildschirm hinzufügen"** → die App bekommt ein Icon und öffnet sich
    wie eine echte App (Vollbild). Der PC muss dafür nicht laufen.
 3. Beim Öffnen werden automatisch die neuesten Tipps geladen (Cache-Bust eingebaut).
