@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-13T14:42:48+02:00",
+  "lastUpdate": "2026-06-13T16:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -279,11 +279,11 @@ window.WM_DATA = {
     "confidence": "mittel",
     "reasons": [
      "Schottland klarer Favorit; Haiti als WM-Rueckkehrer (52 Jahre Pause) ohne Erfahrung auf dieser Ebene",
-     "Gilmour (Knieband, WM-Ausfall) fehlt; McTominay & McKenna (Magenprobleme Do) im erwarteten Lineup - Einsatz wahrscheinlich",
+     "Gilmour (Knieband, WM-Ausfall) fehlt; McKenna (Wadenverletzung) ebenfalls raus; McTominay fit und startend bestaetigt",
      "Che Adams fit und in Startelf bestaetigt; Shankland als Sturmduo-Partner",
-     "Trotz Fragezeichen: Klasse klar dominierend, Haiti defensiv ueberfordert, Quoten klar pro SCO"
+     "Trotz Ausfaellen: SCO-Klasse klar dominierend, Haiti defensiv ueberfordert, Quoten klar pro SCO"
     ],
-    "updatedAt": "2026-06-13T14:42:48+02:00",
+    "updatedAt": "2026-06-13T16:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -330,19 +330,19 @@ window.WM_DATA = {
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
-    "scoreAway": 1,
-    "winnerCode": "X",
-    "outcome": "X",
-    "confidence": "niedrig",
+    "scoreAway": 2,
+    "winnerCode": "TUR",
+    "outcome": "2",
+    "confidence": "mittel",
     "reasons": [
-     "Calhanoglu (Wadenmuskel) als game-time decision sehr fraglich - TUR verliert wichtigsten Mittelfeldmotor",
-     "Kenan Yildiz (Wadenverletzung) trainiert nur individuell, Auftakteinsatz ueberraschend - TUR stark geschwaeacht",
-     "Arda Gueler fit und als Spielmacher gesetzt; Australien komplett ohne Verletzungssorgen",
-     "TUR-Qualitaetsvorsprung ohne Calhanoglu/Yildiz schwindet - enges Spiel, Remis realistisches Ergebnis"
+     "Calhanoglu erwartet spielend (game-time decision, Einsatz laut mehreren Quellen wahrscheinlich) - Mittelfeldachse wiederhergestellt",
+     "Kenan Yildiz (Wadenverletzung) weiterhin Wackelkandidat, fehlt voraussichtlich in der Startelf",
+     "Arda Gueler als Spielmacher fit; Tuerkei mit Calhanoglu/Gueler/Aktuerkoglu klar gefaehrlicher als ohne",
+     "TUR-Qualitaetsvorsprung (Rang 22 vs AUS) mit Calhanoglu wiederhergestellt, Tipp zurueck auf 1:2 TUR"
     ],
-    "updatedAt": "2026-06-13T14:42:48+02:00",
+    "updatedAt": "2026-06-13T16:00:00+02:00",
     "changed": true,
-    "changeNote": "Calhanoglu (Wadenmuskel) game-time decision + Yildiz Einzeltraining -> TUR Mittelfeld geschwaeacht, Tipp von 1:2 TUR auf 1:1"
+    "changeNote": "Calhanoglu nun erwartet spielend -> TUR-Mittelfeld wiederhergestellt, Tipp von 1:1 zurueck auf 1:2 TUR"
    },
    "history": [
     {
@@ -371,6 +371,20 @@ window.WM_DATA = {
      ],
      "at": "2026-06-13T14:42:48+02:00",
      "changeNote": "Calhanoglu (Wadenmuskel) game-time decision + Yildiz Einzeltraining -> TUR Mittelfeld geschwaeacht, Tipp von 1:2 TUR auf 1:1"
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "TUR",
+     "confidence": "mittel",
+     "reasons": [
+      "Calhanoglu erwartet spielend (game-time decision, Einsatz laut mehreren Quellen wahrscheinlich) - Mittelfeldachse wiederhergestellt",
+      "Kenan Yildiz (Wadenverletzung) weiterhin Wackelkandidat, fehlt voraussichtlich in der Startelf",
+      "Arda Gueler als Spielmacher fit; Tuerkei mit Calhanoglu/Gueler/Aktuerkoglu klar gefaehrlicher als ohne",
+      "TUR-Qualitaetsvorsprung (Rang 22 vs AUS) mit Calhanoglu wiederhergestellt, Tipp zurueck auf 1:2 TUR"
+     ],
+     "at": "2026-06-13T16:00:00+02:00",
+     "changeNote": "Calhanoglu nun erwartet spielend -> TUR-Mittelfeld wiederhergestellt, Tipp von 1:1 zurueck auf 1:2 TUR"
     }
    ],
    "result": null,
@@ -410,7 +424,7 @@ window.WM_DATA = {
      "Marokko mit Hakimi (Kapitaen) fit; Ezzalzouli WM-Ausfall (Knie), Mazraoui (Schulter) spielt doch - MAR nahezu komplett",
      "Enger Hochkaraeter: MAR nahezu vollstaendig, BRA mit klarer Offensive - knapper BRA-Sieg erwartet"
     ],
-    "updatedAt": "2026-06-13T14:42:48+02:00",
+    "updatedAt": "2026-06-13T16:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -467,7 +481,7 @@ window.WM_DATA = {
      "Katar ohne Verletzungssorgen, aber individuell klar unterlegen; Afif einzige echte Gefahr",
      "Katar defensiv ordentlich organisiert, daher kein Kantersieg sondern kontrollierter 0:2-Erfolg"
     ],
-    "updatedAt": "2026-06-13T14:42:48+02:00",
+    "updatedAt": "2026-06-13T16:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -580,7 +594,7 @@ window.WM_DATA = {
      "Abwehrachse Kimmich/Tah/Schlotterbeck/Brown stabil; Curacao WM-Debuet ohne realistische Siegchance",
      "Tipp 4:0: DFB schiesst sich warm, Curacao chancenlos gegen diese Qualitaet"
     ],
-    "updatedAt": "2026-06-13T14:42:48+02:00",
+    "updatedAt": "2026-06-13T16:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
