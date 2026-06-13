@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-13T14:18:00+02:00",
+  "lastUpdate": "2026-06-13T14:35:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -278,12 +278,12 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Quote klar pro Schottland; Haiti als WM-Rueckkehrer (52 Jahre Pause) ohne Erfahrung auf dieser Ebene",
-     "Schottland muss als Gruppen-Dritter punkten - Auftakt gegen schwaechsten Gegner ist der Muss-Sieg",
-     "SCO Schuetzenfeste zuletzt nur gegen schwache Teams - passt exakt zu diesem Spiel",
-     "Gilmour (Knieband, gesamte WM gesperrt) UND Che Adams (Oberschenkel, fraglich fuer Auftakt) - Shankland fuehrt Angriff an, Klasse reicht dennoch"
+     "Schottland klarer Favorit; Haiti als WM-Rueckkehrer (52 Jahre Pause) ohne Erfahrung auf dieser Ebene",
+     "Gilmour (Knieband, WM-Ausfall) raus; zusaetzlich McTominay (Magenprobleme) und McKenna zweifelhaft - Mittelfeld geschwaeacht",
+     "Che Adams (Oberschenkel) voraussichtlich doch dabei, Shankland als Sturmduo-Partner",
+     "Trotz Ausfaellen hoehere Klasse reicht: Haiti defensiv ueberfordert, Quoten klar pro SCO"
     ],
-    "updatedAt": "2026-06-13T14:18:00+02:00",
+    "updatedAt": "2026-06-13T14:35:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -340,7 +340,7 @@ window.WM_DATA = {
      "Calhanoglu im Zentrum gibt TUR Qualitaetsvorsprung; Australien ohne Verletzungssorgen und kompakt",
      "Australien Standards als Trumpf - aber TUR-Klasse mit Gueler/Calhanoglu setzt sich knapp durch"
     ],
-    "updatedAt": "2026-06-13T14:18:00+02:00",
+    "updatedAt": "2026-06-13T14:35:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -391,12 +391,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Quote BRA ~1.6, FIFA-Rang 6 vs 7 - leichter Favorit, aber kein Selbstlaeufer",
-     "Brasiliens Offensive trotz Ausfaellen (Rodrygo/Militao/Estevao) formstark: Vinicius/Raphinha/Cunha starten; Neymar nach 2,5 Jahren Verletzungspause zurueck im Kader",
-     "Marokko geschwaeacht: Hakimi (Oberschenkelverletzung, Einsatz ungewiss) - Kapitaen-Ausfall entscheidend; Ezzalzouli und Mazraoui fehlen ebenfalls",
-     "Trotz MAR-Ausfaellen bleibt es ein enges Topspiel: Brahim Diaz/El Khannouss tragen die Offensive, BRA-Sieg erwartet"
+     "Quote BRA ~1.60, FIFA-Rang 6 vs 7 - leichter Favorit im engen Topspiel der Gruppe",
+     "Brasiliens Offensive: Vinicius/Raphinha/Cunha starten; Neymar (Muskelverletzung) faellt fuer den Auftakt aus",
+     "Marokko mit Hakimi FIT (Oberschenkel-Entwarnung, Kapitaen); Ezzalzouli WM-Ausfall (Knie), Mazraoui (Schulter) fraglich",
+     "Hakimi einflussreich auf Rechts - MAR staerker als befuerchtet, BRA-Sieg dennoch knapp erwartet"
     ],
-    "updatedAt": "2026-06-13T14:18:00+02:00",
+    "updatedAt": "2026-06-13T14:35:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -453,7 +453,7 @@ window.WM_DATA = {
      "Vargas (Muskelproblem, fraglich) - Rieder als Ersatz kompensiert; Katar nur mit Afif gefaehrlich",
      "Katar defensiv ordentlich organisiert, daher kein Kantersieg sondern kontrollierter 0:2-Erfolg"
     ],
-    "updatedAt": "2026-06-13T14:18:00+02:00",
+    "updatedAt": "2026-06-13T14:35:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -566,7 +566,7 @@ window.WM_DATA = {
      "Neuer bestaetigt als Starter (fit, 40 Jahre); Abwehrachse Kimmich/Tah/Schlotterbeck zuverlaessig",
      "Curacao WM-Debuet, aber chancenlos gegen diese Qualitaet; klarer Auftaktsieg fuer Deutschland erwartet"
     ],
-    "updatedAt": "2026-06-13T14:18:00+02:00",
+    "updatedAt": "2026-06-13T14:35:00+02:00",
     "changed": false,
     "changeNote": null
    },
