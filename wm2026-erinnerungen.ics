@@ -1,0 +1,1463 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WM2026 KI-Tipps//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WM 2026 KI-Tipps
+BEGIN:VEVENT
+UID:wm2026-1@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:WM: Mexiko - Suedafrika (Tipp 2:0)
+DESCRIPTION:A\nAnpfiff 21:00 Uhr.\nKI-Tipp 2:0. Eroeffnungsspiel im Azteca: Mexiko mit massivem Heimvorteil und Hoehe (2240m) als bester Gastgeber der Tests (5:1 SRB)\; Suedafrika (FIFA-Rang ausserhalb Top30) defensiv und individuell klar unterlegen\; Erwartungswert klarer\, aber kontrollierter Heimsieg ohne Torflut beim Auftakt\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio Azteca\, Mexiko-Stadt
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Mexiko - Suedafrika
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-2@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:WM: Suedkorea - Tschechien (Tipp 2:1)
+DESCRIPTION:A\nAnpfiff 04:00 Uhr.\nKI-Tipp 2:1. Eng erwartetes Spiel zweier ebenbuertiger Teams (FIFA 25 vs 11)\, Tschechien nominell leicht hoeher\; Suedkoreas Tempo und Pressing als Faktor\, Tschechien anfaellig bei Kontern\; Knappes Resultat mit Tendenz Unentschieden/Ein-Tor-Spiel realistisch\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio Akron\, Guadalajara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Suedkorea - Tschechien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-3@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:WM: Kanada - Bosnien und Herzegowina (Tipp 1:1)
+DESCRIPTION:B\nAnpfiff 21:00 Uhr.\nKI-Tipp 1:1. Kanada nur mittelmaessig in Form und ohne Davies zum Auftakt\; Heimvorteil als Co-Gastgeber spricht aber fuer Punkte\; Bosnien defensiv kompakt\, aber offensiv limitiert ohne grosse Namen\; Auftaktspiel mit Respekt auf beiden Seiten\, enges Resultat erwartbar\; Tatsaechlich 1:1 durch spaeten Larin-Ausgleich\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BMO Field\, Toronto
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Kanada - Bosnien und Herzegowina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-4@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:WM: Vereinigte Staaten - Paraguay (Tipp 2:1)
+DESCRIPTION:D\nAnpfiff 03:00 Uhr.\nKI-Tipp 2:1. Co-Gastgeber USA mit Heimvorteil im ausverkauften SoFi Stadium und stabiler Defensive unter Tuchel-aehnlichem Kurs\; Saka-Vergleich n/a\, aber USA leicht favorisiert\; Paraguay defensiv kompakt\, offensiv limitiert\; Auftaktdruck spricht fuer engen\, aber knappen Heimsieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:SoFi Stadium\, Inglewood
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Vereinigte Staaten - Paraguay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-5@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:WM: Haiti - Schottland (Tipp 0:2)
+DESCRIPTION:C\nAnpfiff 03:00 Uhr.\nKI-Tipp 0:2. Quote klar pro Schottland\; Haiti als Aussenseiter ausserhalb der FIFA-Top30\; Schottland muss als Gruppen-Dritter punkten - Auftakt gegen schwaechsten Gegner ist der Muss-Sieg\; SCO Schuetzenfeste zuletzt nur gegen schwache Teams - passt exakt zu diesem Spiel\; Gilmour faellt aus\, dennoch deutlich hoehere individuelle Qualitaet als Haiti\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Gillette Stadium\, Foxborough
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Haiti - Schottland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-6@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260614T040000Z
+DTEND:20260614T060000Z
+SUMMARY:WM: Australien - Tuerkei (Tipp 1:2)
+DESCRIPTION:D\nAnpfiff 06:00 Uhr.\nKI-Tipp 1:2. Tuerkei in Topform (4:0\, 2:1) und FIFA-Rang 22 vor Australien (27)\; Quote sieht TUR knapp vorn\; Arda Gueler rechtzeitig fit und Spielmacher\, Calhanoglu im Zentrum gibt TUR Qualitaetsvorsprung\; Australien defensiv diszipliniert (Miller fehlt)\, Standards als Trumpf - reicht nur fuer ein Tor\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BC Place\, Vancouver
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Australien - Tuerkei
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-7@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:WM: Brasilien - Marokko (Tipp 2:1)
+DESCRIPTION:C\nAnpfiff 00:00 Uhr.\nKI-Tipp 2:1. Quote BRA ~1.6\, FIFA-Rang 6 vs 7 - leichter Favorit\, aber kein Selbstlaeufer\; Brasiliens Offensive trotz Ausfaellen (Rodrygo/Militao/Estevao\, Neymar Wade raus) formstark unter Ancelotti: Vinicius/Raphinha/Cunha starten\; Marokko top besetzt (Hakimi fit & Kapitaen\, Brahim Diaz\, El Khannouss)\, aber Abwehr ohne Aguerd & Ezzalzouli geschwaecht\; Topspiel der Gruppe: enges\, intensives Auftaktduell\, knapper BRA-Sieg erwartet\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:MetLife Stadium\, East Rutherford
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Brasilien - Marokko
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-8@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:WM: Katar - Schweiz (Tipp 0:2)
+DESCRIPTION:B\nAnpfiff 21:00 Uhr.\nKI-Tipp 0:2. Quote SUI klar favorisiert (Markt ~81% Sieg)\, FIFA-Rang 19 vs Katar deutlich unterlegen\; Schweizer Achse Akanji/Xhaka/Embolo qualitativ ueberlegen\, Katar nur mit Afif gefaehrlich\; Katar defensiv ordentlich organisiert\, daher kein Kantersieg sondern kontrollierter 0:2-Erfolg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Levi's Stadium\, Santa Clara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Katar - Schweiz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-9@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:WM: Elfenbeinkueste - Ecuador (Tipp 1:1)
+DESCRIPTION:E\nAnpfiff 01:00 Uhr.\nKI-Tipp 1:1. Quote ECU leicht favorisiert\, FIFA #23 gegen CIV ausserhalb der Top 30\; Ecuador defensiv stabil\, aber offensiv limitiert - enges Spiel zu erwarten\; Elfenbeinkueste athletisch/koerperlich stark\, ausgeglichene Partie\; Vorsichtiger Auftakt beider Teams\, tippe Remis\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lincoln Financial Field\, Philadelphia
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Elfenbeinkueste - Ecuador
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-10@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:WM: Deutschland - Curacao (Tipp 4:0)
+DESCRIPTION:E\nAnpfiff 19:00 Uhr.\nKI-Tipp 4:0. Quote GER ~1.03 - krasser Favorit\, FIFA #10 gegen kleinste je qualifizierte Nation\; GER trotz Ausfaellen (Gnabry\, ter Stegen\, L. Karl) mit Wirtz\, Musiala\, Havertz offensiv klar ueberlegen\; Curacao defensiv chancenlos gegen diese Qualitaet\, Auftakt-Muss-Sieg fuer GER\; Neuer laut Nagelsmann fit\, gute DFB-Ergebnisse trotz Ausfaellen\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:NRG Stadium\, Houston
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Deutschland - Curacao
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-11@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:WM: Niederlande - Japan (Tipp 2:1)
+DESCRIPTION:F\nAnpfiff 22:00 Uhr.\nKI-Tipp 2:1. Quote NED ~2.05 signalisiert enges Spiel – Japan unangenehmer Gegner\; NED massiv dezimiert: Xavi Simons\, Schouten\, de Ligt\, Timber aus\, TW Verbruggen (Huefte) fraglich -> evtl. Flekken\; Japan ohne Mitoma & Endo geschwaecht\, aber laufstark und gut organisiert\; NED individuell ueberlegen (Rang 8 vs 18)\, Depay/Malen geben am Ende den Ausschlag\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:AT&T Stadium\, Arlington
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Niederlande - Japan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-12@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:WM: Schweden - Tunesien (Tipp 2:0)
+DESCRIPTION:F\nAnpfiff 04:00 Uhr.\nKI-Tipp 2:0. Quote SWE ~1.95 trotz starkem Sturm-Duo Isak & Gyokeres (beide fit/in Form)\; Tunesien defensiv kompakt\, aber Schluesselspieler Hannibal Mejbri (Verletzung) fraglich\; Schweden mit klar mehr Offensivqualitaet\, Tunesien tut sich vorne schwer\; Klassischer 2:0-Auftaktsieg des Favoriten gegen tief stehenden Aussenseiter\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio BBVA\, Monterrey
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Schweden - Tunesien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-13@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:WM: Saudi-Arabien - Uruguay (Tipp 0:2)
+DESCRIPTION:H\nAnpfiff 00:00 Uhr.\nKI-Tipp 0:2. Quote URU ~1.45\, Uruguay als FIFA-16 klarer Favorit gegen Saudi-Arabien\; Uruguay individuell und koerperlich ueberlegen\, auch ohne den fraglichen Gimenez tief besetzt\; Saudi-Arabien defensiv eingestellt\, Uruguay setzt sich mit Standards/Routine durch\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Hard Rock Stadium\, Miami Gardens
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Saudi-Arabien - Uruguay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-14@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:WM: Spanien - Kap Verde (Tipp 3:0)
+DESCRIPTION:H\nAnpfiff 18:00 Uhr.\nKI-Tipp 3:0. Quoten extrem klar fuer Spanien\, FIFA-Rang 2 gegen WM-Debuetant Kap Verde\; Yamal und Nico Williams rechtzeitig fit\, Offensive um Rodri voll besetzt\; Kap Verde defensiv solide organisiert\, daher kein Kantersieg sondern kontrollierter 3:0-Auftakt\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Spanien - Kap Verde
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-15@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:WM: Iran - Neuseeland (Tipp 1:0)
+DESCRIPTION:G\nAnpfiff 03:00 Uhr.\nKI-Tipp 1:0. Iran FIFA-Rang 20 deutlich vor Neuseeland\, kompletter Kader ohne Ausfaelle\; Neuseeland verliert mit Chris Wood seinen wichtigsten Stuermer -> kaum Offensivdruck\; Iran defensiv stabil\, gewinnt zaehes Auftaktspiel knapp\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:SoFi Stadium\, Inglewood
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Iran - Neuseeland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-16@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:WM: Belgien - Aegypten (Tipp 2:1)
+DESCRIPTION:G\nAnpfiff 21:00 Uhr.\nKI-Tipp 2:1. Quoten klar fuer Belgien (BEL-EGY ~1.67)\, FIFA-Rang 9 vs 29\; Belgien in Topform (2:0 CRO\, 5:0 TUN)\, Ausfaelle Lukebakio/Trossard/Sels nur Rotationsspieler\; Aegyptens Salah als Konter-Joker haelt das Spiel offen -> ein Gegentor realistisch\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lumen Field\, Seattle
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Belgien - Aegypten
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-17@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:WM: Frankreich - Senegal (Tipp 2:1)
+DESCRIPTION:I\nAnpfiff 21:00 Uhr.\nKI-Tipp 2:1. FRA Favorit (Titelquote 6.0\, FIFA-3) mit Mbappe/Dembele/Doue\; Saliba laut Deschamps fit\; SEN physisch stark (Mane\, Koulibaly)\, kann FRA-Auftakt eng halten\; FRA-Form durchwachsen (1:2 Elfenbeinkueste)\, Auftakt-Nervositaet erwartbar\; Tipp 2:1: FRA-Qualitaet setzt sich knapp durch\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:MetLife Stadium\, East Rutherford
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Frankreich - Senegal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-18@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:WM: Irak - Norwegen (Tipp 0:2)
+DESCRIPTION:I\nAnpfiff 00:00 Uhr.\nKI-Tipp 0:2. Quote IRQ-NOR klar fuer NOR\; NOR (FIFA top\, Titelquote 34) deutlich staerker als IRQ\; Haaland-Offensive in Form (3:1 SWE)\, torgefaehrlich gegen tieferstehenden Gegner\; IRQ als WM-Aussenseiter defensiv orientiert -> niedriges\, kontrolliertes Ergebnis\; Tipp 0:2: NOR-Klassenunterschied\, IRQ haelt Schaden begrenzt\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Gillette Stadium\, Foxborough
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Irak - Norwegen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-19@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:WM: Argentinien - Algerien (Tipp 3:0)
+DESCRIPTION:J\nAnpfiff 03:00 Uhr.\nKI-Tipp 3:0. Argentinien Topfavorit (FIFA #1\, Titelquote 10.5)\, 7 Siege in Serie und Messi fit\; Quote ARG ~1.3 signalisiert klaren Favoriten im Auftaktspiel\; Algerien (#28) defensiv mit fraglichem TW L. Zidane anfaellig\; Romero & Molina fraglich daempfen kein offensives Uebergewicht\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Arrowhead Stadium\, Kansas City
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Argentinien - Algerien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-20@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260617T040000Z
+DTEND:20260617T060000Z
+SUMMARY:WM: Oesterreich - Jordanien (Tipp 2:0)
+DESCRIPTION:J\nAnpfiff 06:00 Uhr.\nKI-Tipp 2:0. Oesterreich (#24) klarer Favorit\, Quote ~1.3 gegen WM-Debuetant Jordanien\; Jordanien als Aussenseiter ohne WM-Erfahrung defensiv gefordert\; Muss-Sieg fuer AUT im Rennen um Platz 2 hinter Argentinien\; Jordanien duerfte tief stehen\, daher knapper aber sicherer AUT-Erfolg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Levi's Stadium\, Santa Clara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Oesterreich - Jordanien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-21@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:WM: Ghana - Panama (Tipp 1:1)
+DESCRIPTION:L\nAnpfiff 01:00 Uhr.\nKI-Tipp 1:1. Beide Aussenseiter etwa auf Augenhoehe\, Schluesselspiel um Platz 3 hinter ENG/CRO\; Ghana athletisch staerker\, aber Kudus fraglich - Offensivqualitaet leidet\; Panama defensiv diszipliniert\, in Endphase oft eng (vgl. CONCACAF)\; Remis realistisch\; Kein klarer Favorit laut Quoten\, vorsichtiger Tipp auf Unentschieden\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BMO Field\, Toronto
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Ghana - Panama
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-22@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:WM: England - Kroatien (Tipp 2:1)
+DESCRIPTION:L\nAnpfiff 22:00 Uhr.\nKI-Tipp 2:1. England FIFA-Rang 4\, defensiv stabil unter Tuchel\, Saka fit\; Favorit im Topspiel der Gruppe\; Kroatien (Rang 11) gealtert\, Modric nur fraglich (evtl. mit Maske) - Mittelfeld geschwaecht\; Auftaktspiel zweier Schwergewichte\, knappes Ergebnis erwartbar\, Englands Kaderbreite gibt Ausschlag\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:AT&T Stadium\, Arlington
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: England - Kroatien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-23@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:WM: Portugal - DR Kongo (Tipp 3:0)
+DESCRIPTION:K\nAnpfiff 19:00 Uhr.\nKI-Tipp 3:0. Portugal FIFA-Rang 5\, ohne relevante Ausfaelle und mit zwei knappen Vorbereitungssiegen stabil\; DR Kongo (kein Top30-Rang) deutlich unterlegen\, klarer Aussenseiter im Auftaktspiel\; Portugal als Gruppenfavorit unter Zugzwang fuer Tordifferenz -> ungefaehrdeter Auftaktsieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:NRG Stadium\, Houston
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Portugal - DR Kongo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-24@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:WM: Usbekistan - Kolumbien (Tipp 0:2)
+DESCRIPTION:K\nAnpfiff 04:00 Uhr.\nKI-Tipp 0:2. Kolumbien FIFA-Rang 13\, stabile Form und individuell klar staerker als WM-Debuetant Usbekistan\; Usbekistan erstmals bei einer WM\, defensiv solide aber offensiv limitiert\; Hoehenlage Mexiko-Stadt (Azteca) kann das Tempo druecken -> kontrollierter Auswaertssieg Kolumbiens\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio Azteca\, Mexiko-Stadt
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Usbekistan - Kolumbien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-25@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:WM: Tschechien - Suedafrika (Tipp 2:0)
+DESCRIPTION:A\nAnpfiff 18:00 Uhr.\nKI-Tipp 2:0. Beide nach Auftaktniederlage unter Zugzwang\, Tschechien als Favorit (FIFA 11 vs ausserhalb Top30)\; Suedafrika geschwaecht: Sithole und Zwane gesperrt\, dadurch dezimierter Kader\; Tschechische Standardstaerke und individuelle Klasse sollten im Hallenstadion Atlanta den Ausschlag geben\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Tschechien - Suedafrika
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-26@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:WM: Schweiz - Bosnien und Herzegowina (Tipp 2:0)
+DESCRIPTION:B\nAnpfiff 21:00 Uhr.\nKI-Tipp 2:0. Schweiz FIFA-Rang 19\, individuell klar staerker als Bosnien und nach erwartetem Auftaktsieg selbstbewusst\; Bosnien nach 1:1 gegen Kanada unter Druck\, muss offensiv mehr riskieren und oeffnet Raeume\; Routinierte Schweizer Defensive (Akanji/Elvedi) haelt Bosniens limitierte Offensive in Schach\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:SoFi Stadium\, Inglewood
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Schweiz - Bosnien und Herzegowina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-27@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:WM: Kanada - Katar (Tipp 2:0)
+DESCRIPTION:B\nAnpfiff 00:00 Uhr.\nKI-Tipp 2:0. Kanada als Co-Gastgeber mit Heimvorteil in Vancouver und nach Auftaktpunkt im Muss-Sieg-Modus\; Katar nach erwarteter Auftaktniederlage gegen Schweiz formschwach und Aussenseiter\; Rueckkehr von Davies koennte Kanadas Offensive zusaetzlich beleben\; Kanada offensiv mit David/Larin gefaehrlich genug fuer klaren Heimsieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BC Place\, Vancouver
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Kanada - Katar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-28@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:WM: Mexiko - Suedkorea (Tipp 2:1)
+DESCRIPTION:A\nAnpfiff 03:00 Uhr.\nKI-Tipp 2:1. Gastgeber Mexiko nach Auftaktsieg mit Heimvorteil und Aufstiegs-Momentum\, kann mit Sieg vorzeitig weiterkommen\; Suedkorea ebenfalls mit drei Punkten und offensiv gefaehrlich (Hwang In-beom) - kein Selbstlaeufer\; Montes (MEX) kehrt nach MD1-Sperre noch nicht zwingend zurueck\, dennoch knapper Heimsieg erwartet\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio Akron\, Guadalajara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Mexiko - Suedkorea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-29@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
+SUMMARY:WM: Brasilien - Haiti (Tipp 3:0)
+DESCRIPTION:C\nAnpfiff 02:30 Uhr.\nKI-Tipp 3:0. Riesiges Klassengefaelle: BRA FIFA-Rang 6 vs Haiti weit ausserhalb Top30\; Brasiliens Offensive klickt trotz Ausfaellen (6:2 vs Panama) - viele Chancen gegen schwache HAI-Abwehr\; BRA will Gruppensieg fruehzeitig sichern\, klarer Favorit\; Deutlicher\, ungefaehrdeter Sieg erwartet\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lincoln Financial Field\, Philadelphia
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Brasilien - Haiti
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-30@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:WM: Schottland - Marokko (Tipp 1:2)
+DESCRIPTION:C\nAnpfiff 00:00 Uhr.\nKI-Tipp 1:2. Marokko (FIFA-Rang 7) klar qualitativ ueberlegen\, torhungrig in Vorbereitung (5:0\, 4:0)\; Schottland defensiv solide\, aber gegen schnelle MAR-Offensive (Hakimi\, Brahim Diaz) anfaellig\; Fuer beide nach Spieltag 1 wohl Schluesselspiel ums Weiterkommen hinter Brasilien\; Knapper marokkanischer Sieg\, SCO trifft ueber Standards/Konter\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Gillette Stadium\, Foxborough
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Schottland - Marokko
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-31@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260620T030000Z
+DTEND:20260620T050000Z
+SUMMARY:WM: Tuerkei - Paraguay (Tipp 2:0)
+DESCRIPTION:D\nAnpfiff 05:00 Uhr.\nKI-Tipp 2:0. Tuerkei klar staerker besetzt (Rang 22 vs Paraguay) und torgefaehrlich\, Paraguay nach moeglicher Auftaktpleite unter Druck\; Paraguays Offensive bei USA-Spiel harmlos (nur 1 Tor)\; TUR-Pressing erzwingt Fehler\; Calhanoglu/Gueler-Achse kreiert genug Chancen fuer komfortablen Sieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Levi's Stadium\, Santa Clara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Tuerkei - Paraguay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-32@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:WM: Vereinigte Staaten - Australien (Tipp 2:0)
+DESCRIPTION:D\nAnpfiff 21:00 Uhr.\nKI-Tipp 2:0. USA als Co-Gastgeber mit Heimkulisse in Seattle und nach Auftaktsieg im Aufwind\, Selbstvertrauen hoch\; Australien defensiv orientiert\, offensiv harmlos und auf Standards angewiesen (Miller fehlt)\; Mittagsanstoss/Reisestrapazen beguenstigen das eingespielte Heimteam - sicherer Pflichtsieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lumen Field\, Seattle
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Vereinigte Staaten - Australien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-33@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:WM: Deutschland - Elfenbeinkueste (Tipp 2:0)
+DESCRIPTION:E\nAnpfiff 22:00 Uhr.\nKI-Tipp 2:0. GER klar favorisiert (FIFA #10)\, nach erwartetem Auftaktsieg im Flow\; CIV physisch unangenehm\, aber individuell deutlich unterlegen\; Deutschland mit gutem Formtrend\, Kontrolle ueber Ballbesitz\; Vorentscheidung Richtung Achtelfinale bei GER-Sieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BMO Field\, Toronto
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Deutschland - Elfenbeinkueste
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-34@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:WM: Ecuador - Curacao (Tipp 3:0)
+DESCRIPTION:E\nAnpfiff 02:00 Uhr.\nKI-Tipp 3:0. Ecuador klar favorisiert (FIFA #23) gegen Aussenseiter Curacao\; ECU defensiv stabil und gegen schwache Gegner zielstrebig\; Curacao individuell und koerperlich unterlegen\, kaum Offensivgefahr\; Muss-Sieg fuer ECU im Rennen um Platz 2 hinter Deutschland\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Arrowhead Stadium\, Kansas City
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Ecuador - Curacao
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-35@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:WM: Niederlande - Schweden (Tipp 2:1)
+DESCRIPTION:F\nAnpfiff 19:00 Uhr.\nKI-Tipp 2:1. Topspiel der Gruppe – NED (Rang 8) leicht favorisiert\, aber wacklig (0:1 vs ALG)\; Schweden mit Isak/Gyokeres brandgefaehrlich im Konter\, kann jederzeit treffen\; NED-Defensive durch Ausfaelle (de Ligt\, Timber) anfaellig -> Gegentor wahrscheinlich\; Mehr individuelle Klasse und Tiefe bei NED gibt knappen Ausschlag\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:NRG Stadium\, Houston
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Niederlande - Schweden
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-36@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260621T040000Z
+DTEND:20260621T060000Z
+SUMMARY:WM: Tunesien - Japan (Tipp 1:1)
+DESCRIPTION:F\nAnpfiff 06:00 Uhr.\nKI-Tipp 1:1. Sehr ausgeglichenes Duell – Tunesien defensiv stark\, Japan ballbesitzorientiert\; Japan ohne Mitoma & Endo offensiv limitiert\, tut sich gegen tiefe Abwehr schwer\; Tunesien spielnah (Rang ausserhalb Top30) und mit Mejbri-Fragezeichen auch nicht zwingend\; Beide unter Druck nach erwartbaren Auftaktniederlagen -> vorsichtiges\, enges 1:1\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio BBVA\, Monterrey
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Tunesien - Japan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-37@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:WM: Uruguay - Kap Verde (Tipp 2:0)
+DESCRIPTION:H\nAnpfiff 00:00 Uhr.\nKI-Tipp 2:0. Uruguay als FIFA-16 klar favorisiert gegen WM-Neuling Kap Verde\; Uruguays Erfahrung und Tiefe entscheiden\, Kap Verde offensiv harmlos gegen physische Abwehr\; Schluesselspiel um Platz 2: Uruguay braucht Sieg und gewinnt kontrolliert mit 2:0\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Hard Rock Stadium\, Miami Gardens
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Uruguay - Kap Verde
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-38@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:WM: Spanien - Saudi-Arabien (Tipp 2:0)
+DESCRIPTION:H\nAnpfiff 18:00 Uhr.\nKI-Tipp 2:0. Klasseunterschied Spanien (Rang 2) zu Saudi-Arabien deutlich\, Favoritenrolle eindeutig\; Spanien mit Ballbesitzdominanz\, Saudis stehen tief und verteidigen kompakt\; Spanien nach erwartetem Auftaktsieg auf Gruppensieg-Kurs\, kontrollierter 2:0-Pflichtsieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Spanien - Saudi-Arabien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-39@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:WM: Belgien - Iran (Tipp 2:0)
+DESCRIPTION:G\nAnpfiff 21:00 Uhr.\nKI-Tipp 2:0. Belgien klarer Favorit (FIFA 9 vs 20)\, spielstaerkste Offensive der Gruppe\; Iran tritt tief und defensiv auf -> Belgien braucht Geduld\, haelt aber hinten dicht\; Nach erwartetem Auftaktsieg geht Belgien als Gruppensieger-Kandidat mit Selbstvertrauen rein\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:SoFi Stadium\, Inglewood
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Belgien - Iran
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-40@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:WM: Neuseeland - Aegypten (Tipp 0:2)
+DESCRIPTION:G\nAnpfiff 03:00 Uhr.\nKI-Tipp 0:2. Aegypten mit Salah individuell ueberlegen\, FIFA-Rang 29 vs Neuseeland deutlich hoeher\; Neuseeland ohne Chris Wood offensiv harmlos\, muss nach Auftaktniederlage offener spielen\; Aegypten unter Druck (Muss-Sieg nach erwarteter Niederlage vs BEL) nutzt Konterraeume\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BC Place\, Vancouver
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Neuseeland - Aegypten
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-41@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:WM: Norwegen - Senegal (Tipp 1:1)
+DESCRIPTION:I\nAnpfiff 02:00 Uhr.\nKI-Tipp 1:1. Ausgeglichenes Schluesselspiel um Platz 2 hinter FRA -> beide brauchen Punkte\; NOR-Offensive (Haaland) vs SEN-Physis (Mane\, Koulibaly) auf Augenhoehe\; Beide vermutlich Auftakt-Niederlage/Remis gegen FRA verarbeitet -> vorsichtige Taktik\; Tipp 1:1: enge Partie\, kein klarer Favorit\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:MetLife Stadium\, East Rutherford
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Norwegen - Senegal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-42@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:WM: Frankreich - Irak (Tipp 3:0)
+DESCRIPTION:I\nAnpfiff 23:00 Uhr.\nKI-Tipp 3:0. Riesiger Klassenunterschied: FRA (FIFA-3\, Titelquote 6.0) gegen WM-Aussenseiter IRQ\; FRA-Offensivkader (Mbappe\, Dembele\, Olise\, Cherki) bricht tiefe IRQ-Defensive auf\; FRA will nach Auftakt Gruppensieg sichern -> hohe Motivation\, Rotation moeglich\; Tipp 3:0: deutlicher FRA-Sieg ohne Gegenwehr\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lincoln Financial Field\, Philadelphia
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Frankreich - Irak
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-43@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:WM: Argentinien - Oesterreich (Tipp 2:0)
+DESCRIPTION:J\nAnpfiff 19:00 Uhr.\nKI-Tipp 2:0. Argentinien (#1) als Titelkandidat deutlich vor Oesterreich (#24)\; ARG in Topform (7 Siege)\, Messi-gefuehrte Offensive ueberlegen\; Oesterreich vermutlich auf Konter angewiesen\, Chancen begrenzt\; Mittagsanstoss/Hitze in Arlington beguenstigt kontrollierte ARG-Spielweise\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:AT&T Stadium\, Arlington
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Argentinien - Oesterreich
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-44@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:WM: Jordanien - Algerien (Tipp 1:2)
+DESCRIPTION:J\nAnpfiff 05:00 Uhr.\nKI-Tipp 1:2. Algerien (#28) klar besser platziert als Jordanien\, individuell ueberlegen\; Beide vermutlich nach Auftakt punktlos -> direktes Duell um letzte Aufstiegschance\; Algerien torgefaehrlicher\, Jordanien defensiv aber nicht chancenlos\; Fraglicher ALG-Keeper L. Zidane laesst ein Gegentor zu\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Levi's Stadium\, Santa Clara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Jordanien - Algerien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-45@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:WM: Portugal - Usbekistan (Tipp 2:0)
+DESCRIPTION:K\nAnpfiff 19:00 Uhr.\nKI-Tipp 2:0. Klares Qualitaets- und Rang-Gefaelle (POR 5 vs UZB ausserhalb Top30)\; Portugal kann mit Sieg vorzeitig Achtelfinale sichern -> hohe Motivation\; Usbekistan tritt voraussichtlich defensiv-kompakt an\, Portugal bricht dies durch -> sicherer aber nicht zweistelliger Sieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:NRG Stadium\, Houston
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Portugal - Usbekistan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-46@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:WM: Kolumbien - DR Kongo (Tipp 2:0)
+DESCRIPTION:K\nAnpfiff 04:00 Uhr.\nKI-Tipp 2:0. Kolumbien (Rang 13) deutlich favorisiert gegen den Gruppen-Aussenseiter DR Kongo\; Mit Sieg waere Kolumbien dem Achtelfinale sehr nahe -> ergebnisorientiertes Auftreten\; DR Kongo athletisch\, aber gegen kolumbianische Klasse offensiv chancenarm\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio Akron\, Guadalajara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Kolumbien - DR Kongo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-47@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:WM: England - Ghana (Tipp 2:0)
+DESCRIPTION:L\nAnpfiff 22:00 Uhr.\nKI-Tipp 2:0. Klare Klassendifferenz: England Rang 4 vs Ghana Rang weit dahinter\; Englands Defensive unter Tuchel sehr stabil\, Ghana (Kudus fraglich) offensiv limitiert\; England voraussichtlich mit Sieg im Auftakt\, kann hier den Gruppensieg festigen\; Solider\, kontrollierter 2:0-Erfolg ohne grosses Risiko erwartbar\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Gillette Stadium\, Foxborough
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: England - Ghana
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-48@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:WM: Panama - Kroatien (Tipp 0:2)
+DESCRIPTION:L\nAnpfiff 01:00 Uhr.\nKI-Tipp 0:2. Kroatien (Rang 11) deutlich hoeher eingestuft als Panama\, individuelle Klasse entscheidet\; Nach moeglicher Auftaktniederlage gegen England steht Kroatien unter Zugzwang - Muss-Sieg\; Panama defensiv stark\, aber gegen kroatisches Mittelfeld auf Dauer unterlegen\; Kroatische Routine setzt sich in der zweiten Halbzeit durch\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BMO Field\, Toronto
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Panama - Kroatien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-49@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:WM: Schottland - Brasilien (Tipp 0:2)
+DESCRIPTION:C\nAnpfiff 00:00 Uhr.\nKI-Tipp 0:2. Brasilien (FIFA-Rang 6) individuell weit ueberlegen\, Offensive auch ohne Stars formstark\; Schottland braucht am 3. Spieltag voraussichtlich Punkte zum Weiterkommen - muss aufmachen\, das spielt BRA in die Karten\; BRA koennte bei bereits sicherem Achtelfinale leicht rotieren\, bleibt aber Favorit\; Kontrollierter Sieg der Selecao\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Hard Rock Stadium\, Miami Gardens
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Schottland - Brasilien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-50@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:WM: Marokko - Haiti (Tipp 3:0)
+DESCRIPTION:C\nAnpfiff 00:00 Uhr.\nKI-Tipp 3:0. Marokko (FIFA-Rang 7) klar ueberlegen\, in Vorbereitung treffsicher (5:0\, 4:0)\; Haiti chancenlos qualitativ\, schwaechstes Team der Gruppe\; Fuer MAR moeglicher Muss-Sieg ums Achtelfinale - volle Offensive gegen schwache HAI-Defensive\; Deutlicher marokkanischer Sieg erwartet\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Marokko - Haiti
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-51@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:WM: Schweiz - Kanada (Tipp 1:1)
+DESCRIPTION:B\nAnpfiff 21:00 Uhr.\nKI-Tipp 1:1. Spitzenspiel um Gruppensieg\; bei je 4-6 Punkten reicht beiden womoeglich ein Remis fuers Weiterkommen\; Schweiz qualitativ leicht ueberlegen\, Kanada mit Heimkulisse in Vancouver im Ruecken\; Kontext beguenstigt vorsichtiges Spiel\, enges Resultat wahrscheinlich\; Tipp Remis als Kompromiss zwischen Schweizer Klasse und kanadischem Heimvorteil\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BC Place\, Vancouver
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Schweiz - Kanada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-52@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:WM: Bosnien und Herzegowina - Katar (Tipp 2:1)
+DESCRIPTION:B\nAnpfiff 21:00 Uhr.\nKI-Tipp 2:1. Bosnien nach voraussichtlich zwei punktarmen Spielen im Muss-Sieg gegen den schwaechsten Gruppengegner\; Katar nach zwei erwarteten Niederlagen vermutlich ausgeschieden\, geringere Motivation\; Bosnien individuell staerker\, holt im direkten Aussenseiter-Duell den ersten Sieg\; Afif kann fuer Katar einen Treffer erzielen\, daher 2:1 statt zu Null\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lumen Field\, Seattle
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Bosnien und Herzegowina - Katar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-53@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:WM: Tschechien - Mexiko (Tipp 1:2)
+DESCRIPTION:A\nAnpfiff 03:00 Uhr.\nKI-Tipp 1:2. Trotz Heimrecht-Eintrag spielt Mexiko faktisch im heimischen Azteca - de-facto Heimspiel mit Hoehenvorteil\; Tschechien nach erwarteter Niederlage gegen Korea ggf. unter Aufstiegsdruck\, Mexiko evtl. schon durch\; Sollte Mexiko bereits qualifiziert sein\, Rotation moeglich - daher niedrige Konfidenz\, knappes Ergebnis\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio Azteca\, Mexiko-Stadt
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Tschechien - Mexiko
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-54@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:WM: Suedafrika - Suedkorea (Tipp 1:2)
+DESCRIPTION:A\nAnpfiff 03:00 Uhr.\nKI-Tipp 1:2. Suedkorea nominell staerker (FIFA 25) und nach Auftaktsieg mit besserer Ausgangslage\; Suedafrika nach zwei wahrscheinlichen Niederlagen vermutlich ohne Aufstiegschance\, Restmotivation als Faktor\; Korea braucht ggf. Punkte/Tordifferenz fuers Achtelfinale - knapper Auswaertssieg erwartet\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio BBVA\, Monterrey
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Suedafrika - Suedkorea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-55@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:WM: Curacao - Elfenbeinkueste (Tipp 0:2)
+DESCRIPTION:E\nAnpfiff 22:00 Uhr.\nKI-Tipp 0:2. Elfenbeinkueste individuell deutlich staerker als Curacao\; CIV wohl mit Achtelfinal-Druck (Muss-Sieg) - hohe Motivation\; Curacao als schwaechstes Gruppenteam ohne realistische Siegchance\; CIV nutzt athletische Ueberlegenheit zum kontrollierten Sieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lincoln Financial Field\, Philadelphia
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Curacao - Elfenbeinkueste
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-56@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:WM: Ecuador - Deutschland (Tipp 1:1)
+DESCRIPTION:E\nAnpfiff 22:00 Uhr.\nKI-Tipp 1:1. Bei GER-Siegen an MD1/2 ggf. Gruppensieg bereits gesichert - Rotation moeglich\; Ecuador defensiv sehr stabil\, schwer zu bespielen - haelt das Spiel eng\; GER individuell ueberlegen\, aber bei wenig Risiko Punkteteilung plausibel\; Potenziell um Platz 1 vs 2 - vorsichtiges Spiel\, tippe Remis\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:MetLife Stadium\, East Rutherford
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Ecuador - Deutschland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-57@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:WM: Japan - Schweden (Tipp 1:2)
+DESCRIPTION:F\nAnpfiff 01:00 Uhr.\nKI-Tipp 1:2. Schweden mit Isak & Gyokeres in K.o.-Reichweite\, voll auf Sieg/Aufstieg angewiesen\; Japan ohne Mitoma/Endo offensiv zu harmlos fuer ein Schuetzenfest\; Schwedens Sturmduo entscheidet enge Partien – mehr Durchschlagskraft\; Japan evtl. bereits unter Druck\, muss offen spielen -> Raeume fuer SWE-Konter\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:AT&T Stadium\, Arlington
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Japan - Schweden
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-58@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:WM: Tunesien - Niederlande (Tipp 0:2)
+DESCRIPTION:F\nAnpfiff 01:00 Uhr.\nKI-Tipp 0:2. NED klar individuell ueberlegen (Rang 8)\, Tunesien fuer K.o.-Runde wohl auf Sieg angewiesen\; Tunesien muss aufmachen -> Raeume fuer Depay/Malen und das NED-Mittelfeld\; Trotz NED-Ausfaellen reicht die Qualitaet gegen tunesische Offensivschwaeche\; Wenn NED-Aufstieg schon sicher: kontrollierter\, souveraener 2:0-Sieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Arrowhead Stadium\, Kansas City
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Tunesien - Niederlande
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-59@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:WM: Tuerkei - Vereinigte Staaten (Tipp 1:1)
+DESCRIPTION:D\nAnpfiff 04:00 Uhr.\nKI-Tipp 1:1. Topspiel um Gruppensieg zweier formstarker Teams\; bei je zwei Siegen koennte ein Remis beiden reichen\; USA mit Quasi-Heimvorteil (SoFi/LA viele US-Fans) gegen technisch starke\, aber abwartende Tuerkei\; Ausgeglichene Qualitaet (Rang 17 vs 22)\, enges Spiel mit Punkteteilung wahrscheinlich\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:SoFi Stadium\, Inglewood
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Tuerkei - Vereinigte Staaten
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-60@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:WM: Paraguay - Australien (Tipp 1:1)
+DESCRIPTION:D\nAnpfiff 04:00 Uhr.\nKI-Tipp 1:1. Direktes Duell der wohl punktschwaecheren Teams um Rang 3\; beide offensiv limitiert\; Australien defensiv kompakt\, Paraguay zaeh - beide spielen kein Risiko bei moeglichem Muss-Resultat\; Enges\, taktisch verschlossenes Spiel mit wenig Toren - Remis liegt nahe\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Levi's Stadium\, Santa Clara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Paraguay - Australien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-61@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:WM: Norwegen - Frankreich (Tipp 1:2)
+DESCRIPTION:I\nAnpfiff 21:00 Uhr.\nKI-Tipp 1:2. FRA als Gruppensieg-Anwaerter qualitativ klar ueberlegen (FIFA-3 vs NOR)\; Fuer NOR ggf. Muss-Sieg um Achtelfinale -> offensiv mit Haaland\, Risiko\; FRA evtl. schon qualifiziert -> Rotation moeglich\, daher kein Kantersieg\; Tipp 1:2: FRA-Tiefe entscheidet\, NOR trifft durch Haaland\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Gillette Stadium\, Foxborough
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Norwegen - Frankreich
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-62@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:WM: Senegal - Irak (Tipp 2:0)
+DESCRIPTION:I\nAnpfiff 21:00 Uhr.\nKI-Tipp 2:0. SEN (FIFA-15) deutlich staerker als IRQ\; vermutlich Muss-Sieg um Platz 2\; SEN-Physis und Tempo (Mane) gegen tiefstehenden IRQ druckvoll\; IRQ nach erwartbaren Niederlagen gegen NOR/FRA wohl bereits chancenlos\; Tipp 2:0: kontrollierter SEN-Sieg\, IRQ defensiv\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BMO Field\, Toronto
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Senegal - Irak
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-63@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:WM: Aegypten - Iran (Tipp 1:1)
+DESCRIPTION:G\nAnpfiff 05:00 Uhr.\nKI-Tipp 1:1. Direktes Duell um Platz 2 hinter Belgien -> hohe Brisanz\, beide brauchen Punkte\; Iran defensiv stark\, Aegypten mit Salah-Gefahr -> ausgeglichenes Kraefteverhaeltnis\; Spielstand abhaengig von Spieltag 1/2\; engste Begegnung der Gruppe\, Remis plausibel\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lumen Field\, Seattle
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Aegypten - Iran
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-64@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:WM: Neuseeland - Belgien (Tipp 0:2)
+DESCRIPTION:G\nAnpfiff 05:00 Uhr.\nKI-Tipp 0:2. Belgien (FIFA 9) klar ueberlegen\, Neuseeland Aussenseiter ohne Chris Wood\; Belgien moeglicherweise schon als Gruppensieger durch -> evtl. Rotation\, dennoch zu stark\; Neuseeland nach zwei erwarteten Niederlagen chancenlos\, Belgien kontrolliert souveraen\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BC Place\, Vancouver
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Neuseeland - Belgien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-65@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:WM: Kap Verde - Saudi-Arabien (Tipp 1:1)
+DESCRIPTION:H\nAnpfiff 02:00 Uhr.\nKI-Tipp 1:1. Direktes Duell der Aussenseiter um eventuellen 3. Platz\, sportlich offen und ausgeglichen\; Beide nach erwarteten Auftaktniederlagen vermutlich punktlos\, daher zerfahrenes Spiel\; Geringer Klasseunterschied\, knappes 1:1 als realistischstes Resultat\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:NRG Stadium\, Houston
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Kap Verde - Saudi-Arabien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-66@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:WM: Uruguay - Spanien (Tipp 1:1)
+DESCRIPTION:H\nAnpfiff 02:00 Uhr.\nKI-Tipp 1:1. Spitzenspiel um Gruppensieg\, beide bei erwarteten Vorsiegen evtl. schon qualifiziert\; Spanien favorisiert (Rang 2)\, aber bei wenig Druck und Rotation Punkteteilung plausibel\; Uruguay defensiv robust\, Spanien schont Schluesselspieler vor K.o.-Runde -> 1:1\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio Akron\, Guadalajara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Uruguay - Spanien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-67@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:WM: Panama - England (Tipp 0:2)
+DESCRIPTION:L\nAnpfiff 23:00 Uhr.\nKI-Tipp 0:2. England klarer Favorit\, Rang 4 vs Panama\; Qualitaetsvorsprung in jeder Mannschaftsteilen\; England womoeglich schon als Gruppensieger durch - evtl. Rotation\, daher kein Kantersieg\; Panama braucht Punkte fuer Platz 3\, spielt mutiger\, kassiert aber gegen Englands Defensive\; Kontrollierter englischer Sieg\, moderates Ergebnis durch moegliche Schonung\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:MetLife Stadium\, East Rutherford
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Panama - England
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-68@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:WM: Kroatien - Ghana (Tipp 2:1)
+DESCRIPTION:L\nAnpfiff 23:00 Uhr.\nKI-Tipp 2:1. Entscheidungsspiel um Platz 2/3 - beide brauchen wohl Punkte\, hohe Brisanz\; Kroatien individuell ueberlegen (Rang 11)\, Erfahrung in K.o.-aehnlichen Spielen\; Ghana athletisch und konternstark\, kann ein Tor erzielen - aber Kudus fraglich\; Kroatische Klasse gibt im engen Spiel den Ausschlag\, knapper 2:1-Sieg\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lincoln Financial Field\, Philadelphia
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Kroatien - Ghana
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-69@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:WM: Algerien - Oesterreich (Tipp 1:1)
+DESCRIPTION:J\nAnpfiff 04:00 Uhr.\nKI-Tipp 1:1. Beide Teams am 3. Spieltag voraussichtlich im Aufstiegskampf um Platz 2\; Oesterreich (#24) leicht favorisiert\, Algerien aber heimstark torhungrig\; Enges Duell\, Tabellensituation kann offensive Risikobereitschaft daempfen\; Ausgeglichene Kraefteverhaeltnisse sprechen fuer knappes Remis\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Arrowhead Stadium\, Kansas City
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Algerien - Oesterreich
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-70@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:WM: Jordanien - Argentinien (Tipp 0:2)
+DESCRIPTION:J\nAnpfiff 04:00 Uhr.\nKI-Tipp 0:2. Argentinien (#1) klar ueberlegen gegen Debuetant Jordanien (Aussenseiter)\; ARG bei wahrscheinlich bereits feststehendem Gruppensieg evtl. mit Rotation\; Messi & Co. auch in zweiter Reihe zu stark fuer Jordaniens Defensive\; Geringerer Toreabstand wegen moeglicher ARG-Schonung an Spieltag 3\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:AT&T Stadium\, Arlington
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Jordanien - Argentinien
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-71@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:WM: Kolumbien - Portugal (Tipp 1:1)
+DESCRIPTION:K\nAnpfiff 01:30 Uhr.\nKI-Tipp 1:1. Spitzenspiel der Gruppe: beide voraussichtlich bereits qualifiziert -> moeglicherweise um Platz 1 mit Rotation\; Ausgeglichenes Niveau (POR 5\, COL 13)\, beide Teams koennten Risiko vermeiden\; Bei wenig Brisanz und Kraefte-Schonung realistisches Remis\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Hard Rock Stadium\, Miami Gardens
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Kolumbien - Portugal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-72@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:WM: DR Kongo - Usbekistan (Tipp 1:1)
+DESCRIPTION:K\nAnpfiff 01:30 Uhr.\nKI-Tipp 1:1. Duell der beiden Gruppen-Aussenseiter um Platz 3\, vermutlich ohne Achtelfinal-Chance\; Sehr ausgeglichenes Kraefteverhaeltnis\, beide ausserhalb der Top30\; Bei moeglicherweise bereits gefallener Entscheidung offenes\, eng umkaempftes Remis am letzten Spieltag\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: DR Kongo - Usbekistan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-73@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+SUMMARY:WM: Zweiter Gruppe A - Zweiter Gruppe B
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 21:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:SoFi Stadium\, Inglewood
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Zweiter Gruppe A - Zweiter Gruppe B
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-74@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:WM: Sieger Gruppe E - Dritter Gruppe A/B/C/D/F
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 22:30 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Gillette Stadium\, Foxborough
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe E - Dritter Gruppe A/B/C/D/F
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-75@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260630T010000Z
+DTEND:20260630T030000Z
+SUMMARY:WM: Sieger Gruppe F - Zweiter Gruppe C
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 03:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio BBVA\, Monterrey
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe F - Zweiter Gruppe C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-76@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:WM: Sieger Gruppe C - Zweiter Gruppe F
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 19:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:NRG Stadium\, Houston
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe C - Zweiter Gruppe F
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-77@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:WM: Sieger Gruppe I - Dritter Gruppe C/D/F/G/H
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 23:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:MetLife Stadium\, East Rutherford
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe I - Dritter Gruppe C/D/F/G/H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-78@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260630T170000Z
+DTEND:20260630T190000Z
+SUMMARY:WM: Zweiter Gruppe E - Zweiter Gruppe I
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 19:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:AT&T Stadium\, Arlington
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Zweiter Gruppe E - Zweiter Gruppe I
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-79@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+SUMMARY:WM: Sieger Gruppe A - Dritter Gruppe C/E/F/H/I
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 03:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio Azteca\, Mexiko-Stadt
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe A - Dritter Gruppe C/E/F/H/I
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-80@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260701T160000Z
+DTEND:20260701T180000Z
+SUMMARY:WM: Sieger Gruppe L - Dritter Gruppe E/H/I/J/K
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 18:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe L - Dritter Gruppe E/H/I/J/K
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-81@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+SUMMARY:WM: Sieger Gruppe D - Dritter Gruppe B/E/F/I/J
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 02:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Levi's Stadium\, Santa Clara
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe D - Dritter Gruppe B/E/F/I/J
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-82@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260701T200000Z
+DTEND:20260701T220000Z
+SUMMARY:WM: Sieger Gruppe G - Dritter Gruppe A/E/H/I/J
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 22:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lumen Field\, Seattle
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe G - Dritter Gruppe A/E/H/I/J
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-83@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260702T230000Z
+DTEND:20260703T010000Z
+SUMMARY:WM: Zweiter Gruppe K - Zweiter Gruppe L
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 01:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BMO Field\, Toronto
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Zweiter Gruppe K - Zweiter Gruppe L
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-84@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260702T190000Z
+DTEND:20260702T210000Z
+SUMMARY:WM: Sieger Gruppe H - Zweiter Gruppe J
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 21:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:SoFi Stadium\, Inglewood
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe H - Zweiter Gruppe J
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-85@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260703T030000Z
+DTEND:20260703T050000Z
+SUMMARY:WM: Sieger Gruppe B - Dritter Gruppe E/F/G/I/J
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 05:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BC Place\, Vancouver
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe B - Dritter Gruppe E/F/G/I/J
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-86@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+SUMMARY:WM: Sieger Gruppe J - Zweiter Gruppe H
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 00:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Hard Rock Stadium\, Miami Gardens
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe J - Zweiter Gruppe H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-87@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:WM: Sieger Gruppe K - Dritter Gruppe D/E/I/J/L
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 03:30 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Arrowhead Stadium\, Kansas City
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Gruppe K - Dritter Gruppe D/E/I/J/L
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-88@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+SUMMARY:WM: Zweiter Gruppe D - Zweiter Gruppe G
+DESCRIPTION:Sechzehntelfinale\nAnpfiff 20:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:AT&T Stadium\, Arlington
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Zweiter Gruppe D - Zweiter Gruppe G
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-89@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:WM: Sieger Spiel 74 - Sieger Spiel 77
+DESCRIPTION:Achtelfinale\nAnpfiff 23:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lincoln Financial Field\, Philadelphia
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 74 - Sieger Spiel 77
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-90@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260704T170000Z
+DTEND:20260704T190000Z
+SUMMARY:WM: Sieger Spiel 73 - Sieger Spiel 75
+DESCRIPTION:Achtelfinale\nAnpfiff 19:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:NRG Stadium\, Houston
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 73 - Sieger Spiel 75
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-91@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260705T200000Z
+DTEND:20260705T220000Z
+SUMMARY:WM: Sieger Spiel 76 - Sieger Spiel 78
+DESCRIPTION:Achtelfinale\nAnpfiff 22:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:MetLife Stadium\, East Rutherford
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 76 - Sieger Spiel 78
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-92@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260706T000000Z
+DTEND:20260706T020000Z
+SUMMARY:WM: Sieger Spiel 79 - Sieger Spiel 80
+DESCRIPTION:Achtelfinale\nAnpfiff 02:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Estadio Azteca\, Mexiko-Stadt
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 79 - Sieger Spiel 80
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-93@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+SUMMARY:WM: Sieger Spiel 83 - Sieger Spiel 84
+DESCRIPTION:Achtelfinale\nAnpfiff 21:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:AT&T Stadium\, Arlington
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 83 - Sieger Spiel 84
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-94@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:WM: Sieger Spiel 81 - Sieger Spiel 82
+DESCRIPTION:Achtelfinale\nAnpfiff 02:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Lumen Field\, Seattle
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 81 - Sieger Spiel 82
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-95@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:WM: Sieger Spiel 86 - Sieger Spiel 88
+DESCRIPTION:Achtelfinale\nAnpfiff 18:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 86 - Sieger Spiel 88
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-96@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+SUMMARY:WM: Sieger Spiel 85 - Sieger Spiel 87
+DESCRIPTION:Achtelfinale\nAnpfiff 22:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:BC Place\, Vancouver
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 85 - Sieger Spiel 87
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-97@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260709T200000Z
+DTEND:20260709T220000Z
+SUMMARY:WM: Sieger Spiel 89 - Sieger Spiel 90
+DESCRIPTION:Viertelfinale\nAnpfiff 22:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Gillette Stadium\, Foxborough
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 89 - Sieger Spiel 90
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-98@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:WM: Sieger Spiel 93 - Sieger Spiel 94
+DESCRIPTION:Viertelfinale\nAnpfiff 21:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:SoFi Stadium\, Inglewood
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 93 - Sieger Spiel 94
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-99@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260711T210000Z
+DTEND:20260711T230000Z
+SUMMARY:WM: Sieger Spiel 91 - Sieger Spiel 92
+DESCRIPTION:Viertelfinale\nAnpfiff 23:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Hard Rock Stadium\, Miami Gardens
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 91 - Sieger Spiel 92
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-100@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:WM: Sieger Spiel 95 - Sieger Spiel 96
+DESCRIPTION:Viertelfinale\nAnpfiff 03:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Arrowhead Stadium\, Kansas City
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 95 - Sieger Spiel 96
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-101@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:WM: Sieger Spiel 97 - Sieger Spiel 98
+DESCRIPTION:Halbfinale\nAnpfiff 21:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:AT&T Stadium\, Arlington
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 97 - Sieger Spiel 98
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-102@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:WM: Sieger Spiel 99 - Sieger Spiel 100
+DESCRIPTION:Halbfinale\nAnpfiff 21:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 99 - Sieger Spiel 100
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-103@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260718T210000Z
+DTEND:20260718T230000Z
+SUMMARY:WM: Verlierer Spiel 101 - Verlierer Spiel 102
+DESCRIPTION:Spiel um Platz 3\nAnpfiff 23:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:Hard Rock Stadium\, Miami Gardens
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Verlierer Spiel 101 - Verlierer Spiel 102
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wm2026-104@kitipps
+DTSTAMP:20260613T100000Z
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+SUMMARY:WM: Sieger Spiel 101 - Sieger Spiel 102
+DESCRIPTION:Finale\nAnpfiff 21:00 Uhr.\n\nApp oeffnen und pruefen, ob der Tipp aktualisiert wurde!
+LOCATION:MetLife Stadium\, East Rutherford
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Tipp pruefen: Sieger Spiel 101 - Sieger Spiel 102
+END:VALARM
+END:VEVENT
+END:VCALENDAR

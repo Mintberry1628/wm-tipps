@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0b1020"/>
+  <circle cx="256" cy="256" r="150" fill="#161f3a" stroke="#4f8cff" stroke-width="14"/>
+  <text x="256" y="232" font-size="120" text-anchor="middle" dominant-baseline="middle">⚽</text>
+  <text x="256" y="360" font-size="92" font-family="Arial, sans-serif" font-weight="bold" fill="#ffd24a" text-anchor="middle">26</text>
+</svg>

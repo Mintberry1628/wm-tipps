@@ -1,0 +1,6 @@
+# lokale/interne Dateien, die nicht ins öffentliche Repo gehören
+.claude/
+_predictions_raw.json
+__pycache__/
+*.pyc
+*.log
