@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-13T12:00:00+02:00",
+  "lastUpdate": "2026-06-13T13:56:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -278,12 +278,12 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Quote klar pro Schottland; Haiti als Aussenseiter ausserhalb der FIFA-Top30",
+     "Quote klar pro Schottland; Haiti als WM-Rueckkehrer (52 Jahre Pause) ohne Erfahrung auf dieser Ebene",
      "Schottland muss als Gruppen-Dritter punkten - Auftakt gegen schwaechsten Gegner ist der Muss-Sieg",
      "SCO Schuetzenfeste zuletzt nur gegen schwache Teams - passt exakt zu diesem Spiel",
-     "Gilmour faellt aus, dennoch deutlich hoehere individuelle Qualitaet als Haiti"
+     "Gilmour (fehlt) UND Che Adams (Muskelproblem, fraglich) - Shankland fuehrt Angriff an, Klasse reicht"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-13T13:56:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -336,10 +336,11 @@ window.WM_DATA = {
     "confidence": "mittel",
     "reasons": [
      "Tuerkei in Topform (4:0, 2:1) und FIFA-Rang 22 vor Australien (27); Quote sieht TUR knapp vorn",
-     "Arda Gueler rechtzeitig fit und Spielmacher, Calhanoglu im Zentrum gibt TUR Qualitaetsvorsprung",
-     "Australien defensiv diszipliniert (Miller fehlt), Standards als Trumpf - reicht nur fuer ein Tor"
+     "Arda Gueler (vollfit) als Spielmacher gesetzt; Kenan Yildiz (Wade) trainiert separat und ist fraglich",
+     "Calhanoglu im Zentrum gibt TUR Qualitaetsvorsprung; Australien ohne Verletzungssorgen und kompakt",
+     "Australien Standards als Trumpf - aber TUR-Klasse mit Gueler setzt sich knapp durch"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-13T13:56:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -391,11 +392,11 @@ window.WM_DATA = {
     "confidence": "mittel",
     "reasons": [
      "Quote BRA ~1.6, FIFA-Rang 6 vs 7 - leichter Favorit, aber kein Selbstlaeufer",
-     "Brasiliens Offensive trotz Ausfaellen (Rodrygo/Militao/Estevao, Neymar Wade raus) formstark unter Ancelotti: Vinicius/Raphinha/Cunha starten",
-     "Marokko top besetzt (Hakimi fit & Kapitaen, Brahim Diaz, El Khannouss), aber Abwehr ohne Aguerd & Ezzalzouli geschwaecht",
+     "Brasiliens Offensive trotz Ausfaellen (Rodrygo/Militao/Estevao, Neymar/Wesley raus) formstark: Vinicius/Raphinha/Cunha starten",
+     "Marokko: Mazraoui (Schulter) wieder im Mannschaftstraining und einsatzbereit; Hakimi/Brahim Diaz/El Khannouss gesetzt; Abwehr ohne Aguerd & Ezzalzouli",
      "Topspiel der Gruppe: enges, intensives Auftaktduell, knapper BRA-Sieg erwartet"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-13T13:56:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -448,10 +449,11 @@ window.WM_DATA = {
     "confidence": "hoch",
     "reasons": [
      "Quote SUI klar favorisiert (Markt ~81% Sieg), FIFA-Rang 19 vs Katar deutlich unterlegen",
-     "Schweizer Achse Akanji/Xhaka/Embolo qualitativ ueberlegen, Katar nur mit Afif gefaehrlich",
+     "Schweizer Achse Akanji/Xhaka/Embolo (Visum-Problem geloest, einsatzbereit) qualitativ ueberlegen",
+     "Vargas (Muskelproblem, fraglich) - Rieder als Ersatz kompensiert; Katar nur mit Afif gefaehrlich",
      "Katar defensiv ordentlich organisiert, daher kein Kantersieg sondern kontrollierter 0:2-Erfolg"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-13T13:56:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -561,10 +563,10 @@ window.WM_DATA = {
     "reasons": [
      "Quote GER ~1.03 - krasser Favorit, FIFA #10 gegen kleinste je qualifizierte Nation",
      "GER trotz Ausfaellen (Gnabry, ter Stegen, L. Karl) mit Wirtz, Musiala, Havertz offensiv klar ueberlegen",
-     "Curacao defensiv chancenlos gegen diese Qualitaet, Auftakt-Muss-Sieg fuer GER",
-     "Neuer laut Nagelsmann fit, gute DFB-Ergebnisse trotz Ausfaellen"
+     "Neuer hat Wadenverletzung - Einsatz erst ab diesem Spiel moeglich; Baumann (Hoffenheim) als Backup",
+     "Curacao defensiv chancenlos; Ergebnis unveraendert auch mit Baumann im Tor"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-13T13:56:00+02:00",
     "changed": false,
     "changeNote": null
    },
