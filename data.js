@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-13T16:00:00+02:00",
+  "lastUpdate": "2026-06-14T06:10:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -269,7 +269,7 @@ window.WM_DATA = {
    "city": "Foxborough",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -283,7 +283,7 @@ window.WM_DATA = {
      "Che Adams fit und in Startelf bestaetigt; Shankland als Sturmduo-Partner",
      "Trotz Ausfaellen: SCO-Klasse klar dominierend, Haiti defensiv ueberfordert, Quoten klar pro SCO"
     ],
-    "updatedAt": "2026-06-13T16:00:00+02:00",
+    "updatedAt": "2026-06-14T06:10:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -303,8 +303,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 1,
+    "notes": "McGinn (28') erzielte das einzige Tor; Schottland gewinnt knappe WM-Premiere gegen Haiti",
+    "at": "2026-06-14T06:10:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-14T02:00:00+02:00"
   },
@@ -410,7 +418,7 @@ window.WM_DATA = {
    "city": "East Rutherford",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -424,7 +432,7 @@ window.WM_DATA = {
      "Marokko mit Hakimi (Kapitaen) fit; Ezzalzouli WM-Ausfall (Knie), Mazraoui (Schulter) spielt doch - MAR nahezu komplett",
      "Enger Hochkaraeter: MAR nahezu vollstaendig, BRA mit klarer Offensive - knapper BRA-Sieg erwartet"
     ],
-    "updatedAt": "2026-06-13T16:00:00+02:00",
+    "updatedAt": "2026-06-14T06:10:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -444,8 +452,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Saibari (21') traf fuer MAR, Vinicius Jr. (32') glich per Rechtsschuss aus; Top-Duell endet remis",
+    "at": "2026-06-14T06:10:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-13T23:00:00+02:00"
   },
@@ -467,7 +483,7 @@ window.WM_DATA = {
    "city": "Santa Clara",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -481,7 +497,7 @@ window.WM_DATA = {
      "Katar ohne Verletzungssorgen, aber individuell klar unterlegen; Afif einzige echte Gefahr",
      "Katar defensiv ordentlich organisiert, daher kein Kantersieg sondern kontrollierter 0:2-Erfolg"
     ],
-    "updatedAt": "2026-06-13T16:00:00+02:00",
+    "updatedAt": "2026-06-14T06:10:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -500,8 +516,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Embolo (17', Elfmeter) traf fuer SUI; Khoukhi (90+4', Kopfball) sicherte QAT historisch ersten WM-Punkt",
+    "at": "2026-06-14T06:10:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-13T20:00:00+02:00"
   },
@@ -594,7 +618,7 @@ window.WM_DATA = {
      "Abwehrachse Kimmich/Tah/Schlotterbeck/Brown stabil; Curacao WM-Debuet ohne realistische Siegchance",
      "Tipp 4:0: DFB schiesst sich warm, Curacao chancenlos gegen diese Qualitaet"
     ],
-    "updatedAt": "2026-06-13T16:00:00+02:00",
+    "updatedAt": "2026-06-14T06:10:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -647,11 +671,11 @@ window.WM_DATA = {
     "confidence": "niedrig",
     "reasons": [
      "Quote NED ~2.05 signalisiert enges Spiel – Japan unangenehmer Gegner",
-     "NED massiv dezimiert: Xavi Simons, Schouten, de Ligt, Timber aus, TW Verbruggen (Huefte) fraglich -> evtl. Flekken",
+     "NED massiv dezimiert: Xavi Simons, Schouten, de Ligt, Timber aus; Verbruggen bestaetigt im Tor",
      "Japan ohne Mitoma & Endo geschwaecht, aber laufstark und gut organisiert",
      "NED individuell ueberlegen (Rang 8 vs 18), Depay/Malen geben am Ende den Ausschlag"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-14T06:10:00+02:00",
     "changed": false,
     "changeNote": null
    },
