@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-15T07:00:00+02:00",
+  "lastUpdate": "2026-06-15T08:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -829,7 +829,7 @@ window.WM_DATA = {
      "Valverde, Nunez und de la Cruz bleiben stark genug fuer URU-Sieg, aber knapper als erwartet",
      "Saudi-Arabien nutzt URU-Abwehr-Chaos fuer ein Tor, Uruguay gewinnt trotzdem knapp"
     ],
-    "updatedAt": "2026-06-15T07:00:00+02:00",
+    "updatedAt": "2026-06-15T08:00:00+02:00",
     "changed": true,
     "changeNote": "Gimenez, Araujo, De Arrascaeta alle bestaetigt verletzt -> URU-Defensive stark geschwaeacht, Tipp von 0:2 auf 1:2, Konfidenz niedrig"
    },
@@ -895,11 +895,11 @@ window.WM_DATA = {
     "confidence": "hoch",
     "reasons": [
      "Quoten extrem klar fuer Spanien, FIFA-Rang 2 gegen WM-Debuetant Kap Verde",
-     "Yamal (Oberschenkel) NICHT startend - nur 'ein paar Minuten' laut Trainer de la Fuente; Nico Williams und Oyarzabal fuehren Offensive an",
-     "Auch ohne Yamal-Start klare Qualitaetsdominanz: Pedri, Rodri, Merino, Williams mehr als genug",
+     "Yamal UND Nico Williams beide nicht startend (Oberschenkelprobleme) - Torres und Baena auf den Aussen",
+     "Starke Alternativen: Pedri, Rodri, Merino, Oyarzabal, Torres, Baena liefern trotzdem klaren Qualitaetsvorsprung",
      "Kap Verde defensiv solide, daher kein Kantersieg - kontrollierter 3:0-Auftaktsieg"
     ],
-    "updatedAt": "2026-06-15T07:00:00+02:00",
+    "updatedAt": "2026-06-15T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -955,7 +955,7 @@ window.WM_DATA = {
      "NZL auch mit Wood Aussenseiter (Bell verletzt), Iran defensiv stabil und Rangvorteil klar",
      "Enges, zaehes Auftaktspiel - Iran gewinnt knapp 1:0"
     ],
-    "updatedAt": "2026-06-15T07:00:00+02:00",
+    "updatedAt": "2026-06-15T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1011,7 +1011,7 @@ window.WM_DATA = {
      "Belgien in Topform, klare Kadertiefe gegen Aegypten mit Salah als einzigem Weltklassespieler",
      "Aegyptens Salah per Konter gefaehrlich -> ein Gegentor realistisch, BEL gewinnt kontrolliert 2:1"
     ],
-    "updatedAt": "2026-06-15T07:00:00+02:00",
+    "updatedAt": "2026-06-15T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
