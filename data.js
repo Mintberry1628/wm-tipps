@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-15T08:00:00+02:00",
+  "lastUpdate": "2026-06-15T09:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -824,12 +824,12 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "niedrig",
     "reasons": [
-     "Gimenez, Araujo (beide Innenverteidiger) und De Arrascaeta BESTAETIGT VERLETZT - Uruguay massiv geschwaeacht",
-     "Ohne beide Stamm-IVs (Gimenez/Araujo) ist die URU-Abwehr anfaellig -> Saudi-Arabien kann treffen",
-     "Valverde, Nunez und de la Cruz bleiben stark genug fuer URU-Sieg, aber knapper als erwartet",
+     "Gimenez & Araujo (IV) sowie De Arrascaeta BESTAETIGT VERLETZT; Piquerez (LV, Knoechel) ebenfalls raus; Vina (LV, Muskel) fraglich - URU-Defensive extrem dezimiert",
+     "Ohne beide Stamm-IVs und beide Linksverteidiger ist URUs Abwehr massiv geschwaeacht -> KSA kann mindestens 1 Tor erzielen",
+     "Valverde, Nunez und de la Cruz bleiben stark genug fuer URU-Sieg trotz Defensiv-Chaos",
      "Saudi-Arabien nutzt URU-Abwehr-Chaos fuer ein Tor, Uruguay gewinnt trotzdem knapp"
     ],
-    "updatedAt": "2026-06-15T08:00:00+02:00",
+    "updatedAt": "2026-06-15T09:00:00+02:00",
     "changed": true,
     "changeNote": "Gimenez, Araujo, De Arrascaeta alle bestaetigt verletzt -> URU-Defensive stark geschwaeacht, Tipp von 0:2 auf 1:2, Konfidenz niedrig"
    },
@@ -899,7 +899,7 @@ window.WM_DATA = {
      "Starke Alternativen: Pedri, Rodri, Merino, Oyarzabal, Torres, Baena liefern trotzdem klaren Qualitaetsvorsprung",
      "Kap Verde defensiv solide, daher kein Kantersieg - kontrollierter 3:0-Auftaktsieg"
     ],
-    "updatedAt": "2026-06-15T08:00:00+02:00",
+    "updatedAt": "2026-06-15T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -955,7 +955,7 @@ window.WM_DATA = {
      "NZL auch mit Wood Aussenseiter (Bell verletzt), Iran defensiv stabil und Rangvorteil klar",
      "Enges, zaehes Auftaktspiel - Iran gewinnt knapp 1:0"
     ],
-    "updatedAt": "2026-06-15T08:00:00+02:00",
+    "updatedAt": "2026-06-15T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1011,7 +1011,7 @@ window.WM_DATA = {
      "Belgien in Topform, klare Kadertiefe gegen Aegypten mit Salah als einzigem Weltklassespieler",
      "Aegyptens Salah per Konter gefaehrlich -> ein Gegentor realistisch, BEL gewinnt kontrolliert 2:1"
     ],
-    "updatedAt": "2026-06-15T08:00:00+02:00",
+    "updatedAt": "2026-06-15T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
