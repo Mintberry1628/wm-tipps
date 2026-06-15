@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-14T06:10:00+02:00",
+  "lastUpdate": "2026-06-15T07:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -334,7 +334,7 @@ window.WM_DATA = {
    "city": "Vancouver",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -348,8 +348,8 @@ window.WM_DATA = {
      "Arda Gueler als Spielmacher fit; Tuerkei mit Calhanoglu/Gueler/Aktuerkoglu klar gefaehrlicher als ohne",
      "TUR-Qualitaetsvorsprung (Rang 22 vs AUS) mit Calhanoglu wiederhergestellt, Tipp zurueck auf 1:2 TUR"
     ],
-    "updatedAt": "2026-06-13T16:00:00+02:00",
-    "changed": true,
+    "updatedAt": "2026-06-15T07:00:00+02:00",
+    "changed": false,
     "changeNote": "Calhanoglu nun erwartet spielend -> TUR-Mittelfeld wiederhergestellt, Tipp von 1:1 zurueck auf 1:2 TUR"
    },
    "history": [
@@ -395,8 +395,16 @@ window.WM_DATA = {
      "changeNote": "Calhanoglu nun erwartet spielend -> TUR-Mittelfeld wiederhergestellt, Tipp von 1:1 zurueck auf 1:2 TUR"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 0,
+    "notes": "Australien sensationeller Auftaktsieg: Irankunda (27') und Metcalfe (75'); Tuerkei trotz 28 Schuessen chancenlos",
+    "at": "2026-06-15T07:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-14T05:00:00+02:00"
   },
@@ -547,7 +555,7 @@ window.WM_DATA = {
    "city": "Philadelphia",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -561,7 +569,7 @@ window.WM_DATA = {
      "Elfenbeinkueste athletisch/koerperlich stark, ausgeglichene Partie",
      "Vorsichtiger Auftakt beider Teams, tippe Remis"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-15T07:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -581,8 +589,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 0,
+    "notes": "Amad Diallo erlöste Elfenbeinkueste mit Siegtor kurz vor Schluss; Ecuador traf dreimal den Pfosten",
+    "at": "2026-06-15T07:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-15T00:00:00+02:00"
   },
@@ -604,7 +620,7 @@ window.WM_DATA = {
    "city": "Houston",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 4,
@@ -618,7 +634,7 @@ window.WM_DATA = {
      "Abwehrachse Kimmich/Tah/Schlotterbeck/Brown stabil; Curacao WM-Debuet ohne realistische Siegchance",
      "Tipp 4:0: DFB schiesst sich warm, Curacao chancenlos gegen diese Qualitaet"
     ],
-    "updatedAt": "2026-06-14T06:10:00+02:00",
+    "updatedAt": "2026-06-15T07:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -638,8 +654,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 7,
+    "away": 1,
+    "notes": "DFB-Raketenstart: Nmecha (6'), Schlotterbeck (38'), Havertz (45+5' Elf./88'), Musiala (46'), Brown (68'), Undav (78'); Comenencia (21') erstes WM-Tor Curacaos",
+    "at": "2026-06-15T07:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-14T18:00:00+02:00"
   },
@@ -661,7 +685,7 @@ window.WM_DATA = {
    "city": "Arlington",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -675,7 +699,7 @@ window.WM_DATA = {
      "Japan ohne Mitoma & Endo geschwaecht, aber laufstark und gut organisiert",
      "NED individuell ueberlegen (Rang 8 vs 18), Depay/Malen geben am Ende den Ausschlag"
     ],
-    "updatedAt": "2026-06-14T06:10:00+02:00",
+    "updatedAt": "2026-06-15T07:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -695,8 +719,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 2,
+    "notes": "Van Dijk (50') und Summerville (64') fuer NED; Nakamura (57') und Kamada (89') fuer JPN - Oranje verspielen Fuehrung spät",
+    "at": "2026-06-15T07:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-14T21:00:00+02:00"
   },
@@ -718,7 +750,7 @@ window.WM_DATA = {
    "city": "Monterrey",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -732,7 +764,7 @@ window.WM_DATA = {
      "Schweden mit klar mehr Offensivqualitaet, Tunesien tut sich vorne schwer",
      "Klassischer 2:0-Auftaktsieg des Favoriten gegen tief stehenden Aussenseiter"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-15T07:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -752,8 +784,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 5,
+    "away": 1,
+    "notes": "Schweden ueberwaetigend: Ayari (7'/90+6'), Isak (30'), Gyokeres (59'), Svanberg (84'); Rekik (43') fuer TUN - Gruppenspitze Gruppe F",
+    "at": "2026-06-15T07:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-15T03:00:00+02:00"
   },
@@ -778,19 +818,20 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 0,
+    "scoreHome": 1,
     "scoreAway": 2,
     "winnerCode": "URU",
     "outcome": "2",
-    "confidence": "mittel",
+    "confidence": "niedrig",
     "reasons": [
-     "Quote URU ~1.45, Uruguay als FIFA-16 klarer Favorit gegen Saudi-Arabien",
-     "Uruguay individuell und koerperlich ueberlegen, auch ohne den fraglichen Gimenez tief besetzt",
-     "Saudi-Arabien defensiv eingestellt, Uruguay setzt sich mit Standards/Routine durch"
+     "Gimenez, Araujo (beide Innenverteidiger) und De Arrascaeta BESTAETIGT VERLETZT - Uruguay massiv geschwaeacht",
+     "Ohne beide Stamm-IVs (Gimenez/Araujo) ist die URU-Abwehr anfaellig -> Saudi-Arabien kann treffen",
+     "Valverde, Nunez und de la Cruz bleiben stark genug fuer URU-Sieg, aber knapper als erwartet",
+     "Saudi-Arabien nutzt URU-Abwehr-Chaos fuer ein Tor, Uruguay gewinnt trotzdem knapp"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-06-15T07:00:00+02:00",
+    "changed": true,
+    "changeNote": "Gimenez, Araujo, De Arrascaeta alle bestaetigt verletzt -> URU-Defensive stark geschwaeacht, Tipp von 0:2 auf 1:2, Konfidenz niedrig"
    },
    "history": [
     {
@@ -805,6 +846,20 @@ window.WM_DATA = {
      ],
      "at": "2026-06-13T12:00:00+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "URU",
+     "confidence": "niedrig",
+     "reasons": [
+      "Gimenez, Araujo (beide Innenverteidiger) und De Arrascaeta BESTAETIGT VERLETZT - Uruguay massiv geschwaeacht",
+      "Ohne beide Stamm-IVs (Gimenez/Araujo) ist die URU-Abwehr anfaellig -> Saudi-Arabien kann treffen",
+      "Valverde, Nunez und de la Cruz bleiben stark genug fuer URU-Sieg, aber knapper als erwartet",
+      "Saudi-Arabien nutzt URU-Abwehr-Chaos fuer ein Tor, Uruguay gewinnt trotzdem knapp"
+     ],
+     "at": "2026-06-15T07:00:00+02:00",
+     "changeNote": "Gimenez, Araujo, De Arrascaeta alle bestaetigt verletzt -> URU-Defensive stark geschwaeacht, Tipp von 0:2 auf 1:2, Konfidenz niedrig"
     }
    ],
    "result": null,
@@ -840,10 +895,11 @@ window.WM_DATA = {
     "confidence": "hoch",
     "reasons": [
      "Quoten extrem klar fuer Spanien, FIFA-Rang 2 gegen WM-Debuetant Kap Verde",
-     "Yamal und Nico Williams rechtzeitig fit, Offensive um Rodri voll besetzt",
-     "Kap Verde defensiv solide organisiert, daher kein Kantersieg sondern kontrollierter 3:0-Auftakt"
+     "Yamal (Oberschenkel) NICHT startend - nur 'ein paar Minuten' laut Trainer de la Fuente; Nico Williams und Oyarzabal fuehren Offensive an",
+     "Auch ohne Yamal-Start klare Qualitaetsdominanz: Pedri, Rodri, Merino, Williams mehr als genug",
+     "Kap Verde defensiv solide, daher kein Kantersieg - kontrollierter 3:0-Auftaktsieg"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-15T07:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -892,13 +948,14 @@ window.WM_DATA = {
     "scoreAway": 0,
     "winnerCode": "IRN",
     "outcome": "1",
-    "confidence": "mittel",
+    "confidence": "niedrig",
     "reasons": [
-     "Iran FIFA-Rang 20 deutlich vor Neuseeland, kompletter Kader ohne Ausfaelle",
-     "Neuseeland verliert mit Chris Wood seinen wichtigsten Stuermer -> kaum Offensivdruck",
-     "Iran defensiv stabil, gewinnt zaehes Auftaktspiel knapp"
+     "Iran FIFA-Rang 20/21 vor Neuseeland, aber Azmoun wegen politischer Gruende nicht im Kader",
+     "Chris Wood VOLLSTAENDIG FIT und startet - war nach Knie-OP erfolgreich zurueck, Neuseeland hat doch offensiven Druckmittel",
+     "NZL auch mit Wood Aussenseiter (Bell verletzt), Iran defensiv stabil und Rangvorteil klar",
+     "Enges, zaehes Auftaktspiel - Iran gewinnt knapp 1:0"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-15T07:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -950,10 +1007,11 @@ window.WM_DATA = {
     "confidence": "mittel",
     "reasons": [
      "Quoten klar fuer Belgien (BEL-EGY ~1.67), FIFA-Rang 9 vs 29",
-     "Belgien in Topform (2:0 CRO, 5:0 TUN), Ausfaelle Lukebakio/Trossard/Sels nur Rotationsspieler",
-     "Aegyptens Salah als Konter-Joker haelt das Spiel offen -> ein Gegentor realistisch"
+     "Trossard SPIELT in Startelf (Courtois, Tielemans, De Bruyne, Doku, de Ketelaere); Debast verletzt aus",
+     "Belgien in Topform, klare Kadertiefe gegen Aegypten mit Salah als einzigem Weltklassespieler",
+     "Aegyptens Salah per Konter gefaehrlich -> ein Gegentor realistisch, BEL gewinnt kontrolliert 2:1"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-15T07:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
