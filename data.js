@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-16T08:00:00+02:00",
+  "lastUpdate": "2026-06-16T09:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -1095,11 +1095,11 @@ window.WM_DATA = {
     "confidence": "mittel",
     "reasons": [
      "FRA-Startelf bestaetigt: Maignan; Koundé, Upamecano, Saliba, Theo; Tchouameni/Rabiot; Olise, Dembele, Doue; Mbappé",
-     "Saliba fit und startend; Defensivachse Koundé/Upamecano/Saliba/Theo kompakt besetzt",
-     "Senegal mit Mané/Jackson/Sarr vorne; leichte Fragezeichen bei Diao und Gueye - weitgehend komplett",
-     "Tipp 2:1 bestaetigt: FRA-Klasse setzt sich knapp durch"
+     "FRA in starker Form: 12 Tore in 5 Testspielen, aber noch kein einziges Zu-Null - Gegentor realistisch",
+     "Senegal mit Mané/Jackson/N.Ndiaye; Diao (Prellung) und Gueye (angeschlagen) fraglich; Abwehr durchlaessig (7 Gegentore in 5 Tests)",
+     "Tipp 2:1 bestaetigt: FRA-Klasse setzt sich durch, Senegal trifft per Konter"
     ],
-    "updatedAt": "2026-06-16T08:00:00+02:00",
+    "updatedAt": "2026-06-16T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1152,11 +1152,11 @@ window.WM_DATA = {
     "confidence": "hoch",
     "reasons": [
      "NOR-Startelf bestaetigt: Nyland; Ryerson, Ajer, Heggem, Wolfe; Aursnes, Berge, Ødegaard; Sørloth, Haaland, Nusa",
-     "Haaland/Ødegaard/Nusa-Dreigestirn startend - NOR tritt mit voller Offensivstaerke in WM-Debuet an",
-     "IRQ in 4-4-2 kompakt, aber gegen NOR-Klasse auf Dauer ueberfordert",
-     "Tipp 0:2 bestaetigt: NOR-Klassenunterschied, Haaland hungrig auf WM-Tore"
+     "Haaland (55 Tore/50 LS)/Ødegaard/Nusa startend; NOR komplett und in Topform (u.a. 4:1 vs ITA) - WM-Debuet",
+     "IRQ vollstaendig fit (102-Caps-Keeper Jalal Hassan), aber 4-4-2-Block gegen NOR-Klasse dauerhaft ueberfordert",
+     "Tipp 0:2 bestaetigt: NOR-Klassenunterschied klar, Haaland holt ersten WM-Treffer"
     ],
-    "updatedAt": "2026-06-16T08:00:00+02:00",
+    "updatedAt": "2026-06-16T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1208,12 +1208,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Messi (Startelf!) schlaegt Hamstring-Bedenken nieder - 200. Laenderspiel erwartet; ARG fast komplett",
-     "Romero (Knie) fit und startend bestaetigt; Tagliafico (Wadenmuskel) einziger Ausfall",
-     "Algerien (Rang 28) klar unterlegen, fraglicher TW L. Zidane bleibt Schwachstelle",
-     "Tipp 3:0 ARG bestaetigt: volle Staerke gegen klaren Aussenseiter"
+     "Messi (200. LS!) startet; E. Martinez (gebrochener Finger Mai) nach Trainingsrueckkehr 12.6. wieder fit",
+     "Romero fit startend bestaetigt; Tagliafico (Soleus) fraglich, Medina Ersatz; ARG Topform (5 Siege, 14:1 Tore)",
+     "Algerien ohne Bensebaini (verletzt); TW L. Zidane als Unsicherheitsfaktor, Aussenseiter ohne WM-Erfahrung",
+     "Tipp 3:0 ARG bestaetigt: nahezu volle Weltklasse-Besetzung gegen klar unterlegenen Aussenseiter"
     ],
-    "updatedAt": "2026-06-16T08:00:00+02:00",
+    "updatedAt": "2026-06-16T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1266,11 +1266,11 @@ window.WM_DATA = {
     "confidence": "mittel",
     "reasons": [
      "AUT-Startelf bestaetigt: Schlager; Laimer, Danso, Lienhart, Mwene; Seiwald, X.Schlager; Sabitzer, Schmid, Wimmer; Arnautovic",
-     "Arnautovic STARTEND als Neuner - offensiver Druckmittel voll da, Muss-Sieg im Rennen um Platz 2 hinter ARG",
-     "Jordanien WM-Debuetant, defensiv orientiert, ohne Reichweite gegen AUT-Klasse",
-     "Tipp 2:0 bestaetigt: kontrollierter Favoriten-Sieg ohne grosse Gegenwehr"
+     "Arnautovic (47 LS-Tore) STARTEND; Baumgartner (Oberschenkel) fehlt - Muss-Sieg im Rennen um Platz 2 hinter ARG",
+     "Jordanien WM-Debuetant ohne Topstuermer Al-Naimat (Knie-Ausfall seit Dez.) - offensiv ohne echten Druckmittel",
+     "Tipp 2:0 AUT bestaetigt: kontrollierter Favoriten-Sieg gegen defensiv orientierten Neuling"
     ],
-    "updatedAt": "2026-06-16T08:00:00+02:00",
+    "updatedAt": "2026-06-16T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
