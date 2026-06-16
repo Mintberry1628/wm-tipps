@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-15T09:00:00+02:00",
+  "lastUpdate": "2026-06-16T08:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -815,7 +815,7 @@ window.WM_DATA = {
    "city": "Miami Gardens",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -829,8 +829,8 @@ window.WM_DATA = {
      "Valverde, Nunez und de la Cruz bleiben stark genug fuer URU-Sieg trotz Defensiv-Chaos",
      "Saudi-Arabien nutzt URU-Abwehr-Chaos fuer ein Tor, Uruguay gewinnt trotzdem knapp"
     ],
-    "updatedAt": "2026-06-15T09:00:00+02:00",
-    "changed": true,
+    "updatedAt": "2026-06-16T08:00:00+02:00",
+    "changed": false,
     "changeNote": "Gimenez, Araujo, De Arrascaeta alle bestaetigt verletzt -> URU-Defensive stark geschwaeacht, Tipp von 0:2 auf 1:2, Konfidenz niedrig"
    },
    "history": [
@@ -862,8 +862,16 @@ window.WM_DATA = {
      "changeNote": "Gimenez, Araujo, De Arrascaeta alle bestaetigt verletzt -> URU-Defensive stark geschwaeacht, Tipp von 0:2 auf 1:2, Konfidenz niedrig"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Al-Amri (KSA) nutzte Abpraller fuer 1:0; Araujo glich per Kopfball 10 Min. vor Ende fuer URU aus - Remis trotz dezimierter URU-Abwehr",
+    "at": "2026-06-16T08:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-15T23:00:00+02:00"
   },
@@ -885,7 +893,7 @@ window.WM_DATA = {
    "city": "Atlanta",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -899,7 +907,7 @@ window.WM_DATA = {
      "Starke Alternativen: Pedri, Rodri, Merino, Oyarzabal, Torres, Baena liefern trotzdem klaren Qualitaetsvorsprung",
      "Kap Verde defensiv solide, daher kein Kantersieg - kontrollierter 3:0-Auftaktsieg"
     ],
-    "updatedAt": "2026-06-15T09:00:00+02:00",
+    "updatedAt": "2026-06-16T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -918,8 +926,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 0,
+    "notes": "Mega-Sensation: TW Vozinha (40 J.) machte Spaniens 25 Schuesse zunichte; Yamal (71') und Williams konnten 0:0 nicht kippen",
+    "at": "2026-06-16T08:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-15T17:00:00+02:00"
   },
@@ -941,7 +957,7 @@ window.WM_DATA = {
    "city": "Inglewood",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -955,7 +971,7 @@ window.WM_DATA = {
      "NZL auch mit Wood Aussenseiter (Bell verletzt), Iran defensiv stabil und Rangvorteil klar",
      "Enges, zaehes Auftaktspiel - Iran gewinnt knapp 1:0"
     ],
-    "updatedAt": "2026-06-15T09:00:00+02:00",
+    "updatedAt": "2026-06-16T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -974,8 +990,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 2,
+    "notes": "Just (7'/55') historischer NZL-Doppelpack; Rezaeian (32') und Mohebi (64') egalisieren beide Male fuer IRN",
+    "at": "2026-06-16T08:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-16T02:00:00+02:00"
   },
@@ -997,7 +1021,7 @@ window.WM_DATA = {
    "city": "Seattle",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1011,7 +1035,7 @@ window.WM_DATA = {
      "Belgien in Topform, klare Kadertiefe gegen Aegypten mit Salah als einzigem Weltklassespieler",
      "Aegyptens Salah per Konter gefaehrlich -> ein Gegentor realistisch, BEL gewinnt kontrolliert 2:1"
     ],
-    "updatedAt": "2026-06-15T09:00:00+02:00",
+    "updatedAt": "2026-06-16T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1030,8 +1054,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Imam Aschur (19') traf fuer EGY; Lukaku (ab 66') erzwang Eigentor zum 1:1-Ausgleich - Belgien holt nur Punkt",
+    "at": "2026-06-16T08:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-15T20:00:00+02:00"
   },
@@ -1062,12 +1094,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "FRA Favorit (Titelquote 6.0, FIFA-3) mit Mbappe/Dembele/Doue; Saliba laut Deschamps fit",
-     "SEN physisch stark (Mane, Koulibaly), kann FRA-Auftakt eng halten",
-     "FRA-Form durchwachsen (1:2 Elfenbeinkueste), Auftakt-Nervositaet erwartbar",
-     "Tipp 2:1: FRA-Qualitaet setzt sich knapp durch"
+     "FRA-Startelf bestaetigt: Maignan; Koundé, Upamecano, Saliba, Theo; Tchouameni/Rabiot; Olise, Dembele, Doue; Mbappé",
+     "Saliba fit und startend; Defensivachse Koundé/Upamecano/Saliba/Theo kompakt besetzt",
+     "Senegal mit Mané/Jackson/Sarr vorne; leichte Fragezeichen bei Diao und Gueye - weitgehend komplett",
+     "Tipp 2:1 bestaetigt: FRA-Klasse setzt sich knapp durch"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-16T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1119,12 +1151,12 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "hoch",
     "reasons": [
-     "Quote IRQ-NOR klar fuer NOR; NOR (FIFA top, Titelquote 34) deutlich staerker als IRQ",
-     "Haaland-Offensive in Form (3:1 SWE), torgefaehrlich gegen tieferstehenden Gegner",
-     "IRQ als WM-Aussenseiter defensiv orientiert -> niedriges, kontrolliertes Ergebnis",
-     "Tipp 0:2: NOR-Klassenunterschied, IRQ haelt Schaden begrenzt"
+     "NOR-Startelf bestaetigt: Nyland; Ryerson, Ajer, Heggem, Wolfe; Aursnes, Berge, Ødegaard; Sørloth, Haaland, Nusa",
+     "Haaland/Ødegaard/Nusa-Dreigestirn startend - NOR tritt mit voller Offensivstaerke in WM-Debuet an",
+     "IRQ in 4-4-2 kompakt, aber gegen NOR-Klasse auf Dauer ueberfordert",
+     "Tipp 0:2 bestaetigt: NOR-Klassenunterschied, Haaland hungrig auf WM-Tore"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-16T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1176,12 +1208,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Argentinien Topfavorit (FIFA #1, Titelquote 10.5), 7 Siege in Serie und Messi fit",
-     "Quote ARG ~1.3 signalisiert klaren Favoriten im Auftaktspiel",
-     "Algerien (#28) defensiv mit fraglichem TW L. Zidane anfaellig",
-     "Romero & Molina fraglich daempfen kein offensives Uebergewicht"
+     "Messi (Startelf!) schlaegt Hamstring-Bedenken nieder - 200. Laenderspiel erwartet; ARG fast komplett",
+     "Romero (Knie) fit und startend bestaetigt; Tagliafico (Wadenmuskel) einziger Ausfall",
+     "Algerien (Rang 28) klar unterlegen, fraglicher TW L. Zidane bleibt Schwachstelle",
+     "Tipp 3:0 ARG bestaetigt: volle Staerke gegen klaren Aussenseiter"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-16T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1233,12 +1265,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Oesterreich (#24) klarer Favorit, Quote ~1.3 gegen WM-Debuetant Jordanien",
-     "Jordanien als Aussenseiter ohne WM-Erfahrung defensiv gefordert",
-     "Muss-Sieg fuer AUT im Rennen um Platz 2 hinter Argentinien",
-     "Jordanien duerfte tief stehen, daher knapper aber sicherer AUT-Erfolg"
+     "AUT-Startelf bestaetigt: Schlager; Laimer, Danso, Lienhart, Mwene; Seiwald, X.Schlager; Sabitzer, Schmid, Wimmer; Arnautovic",
+     "Arnautovic STARTEND als Neuner - offensiver Druckmittel voll da, Muss-Sieg im Rennen um Platz 2 hinter ARG",
+     "Jordanien WM-Debuetant, defensiv orientiert, ohne Reichweite gegen AUT-Klasse",
+     "Tipp 2:0 bestaetigt: kontrollierter Favoriten-Sieg ohne grosse Gegenwehr"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-16T08:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
