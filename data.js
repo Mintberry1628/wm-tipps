@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-16T09:00:00+02:00",
+  "lastUpdate": "2026-06-17T09:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -1085,7 +1085,7 @@ window.WM_DATA = {
    "city": "East Rutherford",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1099,7 +1099,7 @@ window.WM_DATA = {
      "Senegal mit Mané/Jackson/N.Ndiaye; Diao (Prellung) und Gueye (angeschlagen) fraglich; Abwehr durchlaessig (7 Gegentore in 5 Tests)",
      "Tipp 2:1 bestaetigt: FRA-Klasse setzt sich durch, Senegal trifft per Konter"
     ],
-    "updatedAt": "2026-06-16T09:00:00+02:00",
+    "updatedAt": "2026-06-17T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1119,8 +1119,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 1,
+    "notes": "Mbappé (66', 90+6') Doppelpack und Barcola (82') fuer FRA; Mbaye (90+5') Ehrentreffer fuer SEN",
+    "at": "2026-06-17T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-16T20:00:00+02:00"
   },
@@ -1142,7 +1150,7 @@ window.WM_DATA = {
    "city": "Foxborough",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -1156,7 +1164,7 @@ window.WM_DATA = {
      "IRQ vollstaendig fit (102-Caps-Keeper Jalal Hassan), aber 4-4-2-Block gegen NOR-Klasse dauerhaft ueberfordert",
      "Tipp 0:2 bestaetigt: NOR-Klassenunterschied klar, Haaland holt ersten WM-Treffer"
     ],
-    "updatedAt": "2026-06-16T09:00:00+02:00",
+    "updatedAt": "2026-06-17T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1176,8 +1184,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 4,
+    "notes": "Haaland (29', 43') Doppelpack und Østigård (76'/Kopfball) sowie OG (90+6') fuer NOR; Hussein (39') fuer IRQ",
+    "at": "2026-06-17T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-16T23:00:00+02:00"
   },
@@ -1199,7 +1215,7 @@ window.WM_DATA = {
    "city": "Kansas City",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -1213,7 +1229,7 @@ window.WM_DATA = {
      "Algerien ohne Bensebaini (verletzt); TW L. Zidane als Unsicherheitsfaktor, Aussenseiter ohne WM-Erfahrung",
      "Tipp 3:0 ARG bestaetigt: nahezu volle Weltklasse-Besetzung gegen klar unterlegenen Aussenseiter"
     ],
-    "updatedAt": "2026-06-16T09:00:00+02:00",
+    "updatedAt": "2026-06-17T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1233,8 +1249,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 0,
+    "notes": "Messi (17', 60', 76') Hattrick im 200. Laenderspiel - Tipp exakt getroffen; ARG souveraen gegen ALG",
+    "at": "2026-06-17T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-17T02:00:00+02:00"
   },
@@ -1256,7 +1280,7 @@ window.WM_DATA = {
    "city": "Santa Clara",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1270,7 +1294,7 @@ window.WM_DATA = {
      "Jordanien WM-Debuetant ohne Topstuermer Al-Naimat (Knie-Ausfall seit Dez.) - offensiv ohne echten Druckmittel",
      "Tipp 2:0 AUT bestaetigt: kontrollierter Favoriten-Sieg gegen defensiv orientierten Neuling"
     ],
-    "updatedAt": "2026-06-16T09:00:00+02:00",
+    "updatedAt": "2026-06-17T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1290,8 +1314,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 1,
+    "notes": "Schmid (21'), OG (77') und Arnautovic (90+12' Elf.) fuer AUT; Al Olwan (50') fuer JOR - Oesterreichs erste WM-Tore seit 1990",
+    "at": "2026-06-17T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-17T05:00:00+02:00"
   },
@@ -1322,12 +1354,12 @@ window.WM_DATA = {
     "outcome": "X",
     "confidence": "niedrig",
     "reasons": [
-     "Beide Aussenseiter etwa auf Augenhoehe, Schluesselspiel um Platz 3 hinter ENG/CRO",
-     "Ghana athletisch staerker, aber Kudus fraglich - Offensivqualitaet leidet",
-     "Panama defensiv diszipliniert, in Endphase oft eng (vgl. CONCACAF); Remis realistisch",
-     "Kein klarer Favorit laut Quoten, vorsichtiger Tipp auf Unentschieden"
+     "Kudus (Oberschenkel) bestaetigt verletzt - fehlt; Partey Einreiseverbot in Kanada wegen laufendem Gerichtsverfahren in GB - fehlt bis Spiel 2",
+     "Ghana ohne Kapitaen und Regisseur massiv geschwaeacht - Offensiv- und Mittelfeldqualitaet stark reduziert",
+     "Ghana laut Wettmarkt dennoch leichter Favorit (Quote ~1.95, Remis ~3.20, Panama ~3.90)",
+     "Fuenf Spiele ohne Sieg fuer GHA, neu installierter Trainer - vorsichtiger Tipp X bleibt realistisch"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-17T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1379,11 +1411,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "England FIFA-Rang 4, defensiv stabil unter Tuchel, Saka fit; Favorit im Topspiel der Gruppe",
-     "Kroatien (Rang 11) gealtert, Modric nur fraglich (evtl. mit Maske) - Mittelfeld geschwaecht",
-     "Auftaktspiel zweier Schwergewichte, knappes Ergebnis erwartbar, Englands Kaderbreite gibt Ausschlag"
+     "Saka nicht in Startelf (Fitnessfragen), Madueke startet auf rechts; Livramento verletzt raus, Chalobah eingewechselt",
+     "Modric (40 Jahre!) bestaetigt spielend fuer CRO - Erfahrung aber keine Kompensation fuer Alter und fehlende Pace",
+     "England trotz Saka-Fehlen mit Kaderbreite (Kane, Rice, Gordon) klar favorisiert - knapper Heimsieg erwartet"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-17T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1434,11 +1466,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Portugal FIFA-Rang 5, ohne relevante Ausfaelle und mit zwei knappen Vorbereitungssiegen stabil",
-     "DR Kongo (kein Top30-Rang) deutlich unterlegen, klarer Aussenseiter im Auftaktspiel",
-     "Portugal als Gruppenfavorit unter Zugzwang fuer Tordifferenz -> ungefaehrdeter Auftaktsieg"
+     "Ronaldo (39 J.) bestaetigt in Startelf; POR-Aufstellung: Diogo Costa; Cancelo, Araujo, Veiga, Mendes; Neves, Vitinha; Bernardo, Bruno Fernandes, Neto; Ronaldo",
+     "DR Kongo mit physisch starken Spielern (Wissa, Bakambu, Wan-Bissaka), aber Klasseunterschied zu gross",
+     "Portugal komplett fit, keine Verletzungssorgen - souveraener Auftaktsieg erwartet, Tipp 3:0 bestaetigt"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-17T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -1489,11 +1521,11 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Kolumbien FIFA-Rang 13, stabile Form und individuell klar staerker als WM-Debuetant Usbekistan",
-     "Usbekistan erstmals bei einer WM, defensiv solide aber offensiv limitiert",
-     "Hoehenlage Mexiko-Stadt (Azteca) kann das Tempo druecken -> kontrollierter Auswaertssieg Kolumbiens"
+     "Kolumbien (Rang 13) mit Luis Diaz, James Rodriguez komplett - kein Verletzungsausfall gemeldet",
+     "Usbekistan WM-Debuet im Azteca (2240m): Kolumbien als lateinamerikanisches Team besser an die Hoehe angepasst",
+     "Usbekistan defensiv solide, aber gegen Kolumbiens individuelle Klasse dauerhaft ueberfordert"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-17T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
