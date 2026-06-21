@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-17T09:00:00+02:00",
+  "lastUpdate": "2026-06-21T09:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -1345,7 +1345,7 @@ window.WM_DATA = {
    "city": "Toronto",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -1379,8 +1379,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 0,
+    "notes": "Ghana gewinnt trotz Kudus/Partey-Fehlen: 1:0 gegen defensiven Panama-Block; Sieg bringt Ghana in Aufstiegsposition",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-18T00:00:00+02:00"
   },
@@ -1402,7 +1410,7 @@ window.WM_DATA = {
    "city": "Arlington",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1434,8 +1442,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 4,
+    "away": 2,
+    "notes": "Kane (12' Elf., 42' Kopfball/Rice-Ecke) zieht mit Lineker gleich (10 WM-Tore); Bellingham (47'), Rashford (85'); CRO Baturina (36'), Musa (45+5') - spektakulaeres 4:2",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-17T21:00:00+02:00"
   },
@@ -1457,7 +1473,7 @@ window.WM_DATA = {
    "city": "Houston",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -1489,8 +1505,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Sensation: Portugal trotz Ronaldo und Topbesetzung nicht über 1:1 hinaus; DR Kongo überraschend stark und punktet beim WM-Debuet",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-17T18:00:00+02:00"
   },
@@ -1512,7 +1536,7 @@ window.WM_DATA = {
    "city": "Mexiko-Stadt",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -1544,8 +1568,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 3,
+    "notes": "Kolumbien siegt 3:1 in der Azteca-Hoehe; Usbekistan holt ehrenvolles Tor beim WM-Debuet; Luis Diaz und James Rodriguez ueberlegen",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-18T03:00:00+02:00"
   },
@@ -1567,7 +1599,7 @@ window.WM_DATA = {
    "city": "Atlanta",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1599,8 +1631,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Tschechien und Suedafrika trennen sich 1:1 trotz RSA-Sperren (Sithole/Zwane); beide Teams unter Druck im Aufstiegskampf",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-18T17:00:00+02:00"
   },
@@ -1622,7 +1662,7 @@ window.WM_DATA = {
    "city": "Inglewood",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1654,8 +1694,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 4,
+    "away": 1,
+    "notes": "Schweiz dominant: 4:1 gegen Bosnien nach schwachem Auftakt; Embolo und Xhaka fuehren SUI nach erstem Remis zu klarem Sieg",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-18T20:00:00+02:00"
   },
@@ -1677,7 +1725,7 @@ window.WM_DATA = {
    "city": "Vancouver",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1711,8 +1759,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 6,
+    "away": 0,
+    "notes": "Kanada-Gala in Vancouver: 6:0 gegen Katar; David, Larin & Co. feiern mit Heimfans, Katar chancenlos nach historisch erstem WM-Punkt (vs SUI)",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-18T23:00:00+02:00"
   },
@@ -1734,7 +1790,7 @@ window.WM_DATA = {
    "city": "Guadalajara",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1766,8 +1822,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 0,
+    "notes": "Mexiko bleibt Gruppenspitze: 1:0-Arbeitssieg in Guadalajara; Suedkorea trotz Hwang In-beom ohne Treffer",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-19T02:00:00+02:00"
   },
@@ -1789,7 +1853,7 @@ window.WM_DATA = {
    "city": "Philadelphia",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -1823,8 +1887,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 0,
+    "notes": "Brasilien souveraen zum 3:0: Cunha-Doppelpack (u.a. 36') und Vinicius Jr. noch vor der Pause; Haiti chancenlos - Tipp exakt getroffen",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-20T01:30:00+02:00"
   },
@@ -1846,7 +1918,7 @@ window.WM_DATA = {
    "city": "Foxborough",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -1880,8 +1952,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 1,
+    "notes": "Fruehschock fuer Schottland: Saibari trifft schon in der 2. Minute (Vorlage Brahim Diaz); Marokko verteidigt den knappen 1:0-Sieg clever",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-19T23:00:00+02:00"
   },
@@ -1903,7 +1983,7 @@ window.WM_DATA = {
    "city": "Santa Clara",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1935,8 +2015,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 1,
+    "notes": "Riesensensation: Paraguay gewinnt 1:0 durch Galarza-Blitztor nach 68 Sekunden! Tuerkei trotz Calhanoglu/Gueler ohne Durchschlagskraft - fruehes WM-Aus",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-20T04:00:00+02:00"
   },
@@ -1958,7 +2046,7 @@ window.WM_DATA = {
    "city": "Seattle",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -1990,8 +2078,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 0,
+    "notes": "USA zieht in K.o.-Runde ein: Burgess-Eigentor und Freeman-Kopfball; Australien trotz Auftaktsieg gegen Tuerkei in Seattle chancenlos",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-19T20:00:00+02:00"
   },
@@ -2013,7 +2109,7 @@ window.WM_DATA = {
    "city": "Toronto",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -2047,8 +2143,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 1,
+    "notes": "Joker Undav rettet Deutschland: Kessie brachte CIV in Front (30'), Undav egalisierte (68') und erzielte Siegtreffer kurz vor Schluss - dramatisches 2:1",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-20T21:00:00+02:00"
   },
@@ -2070,7 +2174,7 @@ window.WM_DATA = {
    "city": "Kansas City",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -2104,8 +2208,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 0,
+    "notes": "Grosse Überraschung: Ecuador kommt gegen Aussenseiter Curacao nicht über 0:0 hinaus; CUW-Abwehr mauernd und effektiv gegen druckvolles ECU",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-21T01:00:00+02:00"
   },
@@ -2127,7 +2239,7 @@ window.WM_DATA = {
    "city": "Houston",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -2161,8 +2273,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 5,
+    "away": 1,
+    "notes": "Niederlande-Gala in Houston: 5:1 gegen Schweden; Isak trifft fuer SWE, NED dreht Partie nach MD1-Remis mit Torflut",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-20T18:00:00+02:00"
   },
@@ -2184,7 +2304,7 @@ window.WM_DATA = {
    "city": "Monterrey",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -2218,8 +2338,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 4,
+    "notes": "Japan dominiert: 0:4 durch Kamada, Ueda (2x) und Ito; Tunesien chancenlos, WM-Ausscheiden praktisch besiegelt",
+    "at": "2026-06-21T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-21T05:00:00+02:00"
   },
@@ -2250,11 +2378,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Uruguay als FIFA-16 klar favorisiert gegen WM-Neuling Kap Verde",
-     "Uruguays Erfahrung und Tiefe entscheiden, Kap Verde offensiv harmlos gegen physische Abwehr",
-     "Schluesselspiel um Platz 2: Uruguay braucht Sieg und gewinnt kontrolliert mit 2:0"
+     "Kap Verde sensationelles 0:0 gegen Spanien (TW Vozinha ueberragend mit 7 Paraden) - defensive Staerke bewiesen",
+     "Uruguay nach 1:1 gegen Saudi-Arabien (ohne Araujo/De Arrascaeta verletzt) unter Druck, muss gewinnen",
+     "Valverde, Nunez und Ugarte bleiben qualitativ ueberlegen fuer Kap Verdes defensiv-kompaktes System",
+     "2:0 URU: individuelle Klasse entscheidet trotz erstarkendem Gegner"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-21T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2305,11 +2434,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Klasseunterschied Spanien (Rang 2) zu Saudi-Arabien deutlich, Favoritenrolle eindeutig",
-     "Spanien mit Ballbesitzdominanz, Saudis stehen tief und verteidigen kompakt",
-     "Spanien nach erwartetem Auftaktsieg auf Gruppensieg-Kurs, kontrollierter 2:0-Pflichtsieg"
+     "Spanien nach schockierendem 0:0 gegen Kap Verde (MD1) im totalen Pflicht-Sieg-Modus - Yamal UND Nico Williams jetzt in Startelf",
+     "Saudi-Arabien solid 1:1 gegen Uruguay, Al-Dawsari als Konter-Gefahr - aber qualitativ weit unterlegen",
+     "De la Fuente stellt offensiver auf; Spains kreativer Kader (Pedri, Rodri, Merino) bricht tiefe KSA-Abwehr auf",
+     "Klarer 2:0-Sieg: Yamls Individualklasse macht Unterschied, Spanien startet Aufholjagd in der Gruppe"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-21T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2360,11 +2490,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Belgien klarer Favorit (FIFA 9 vs 20), spielstaerkste Offensive der Gruppe",
-     "Iran tritt tief und defensiv auf -> Belgien braucht Geduld, haelt aber hinten dicht",
-     "Nach erwartetem Auftaktsieg geht Belgien als Gruppensieger-Kandidat mit Selbstvertrauen rein"
+     "Belgien nach enttauschendem 1:1 gegen Aegypten (MD1) unter echtem Druck - De Bruyne, Doku, Lukaku vollstaendig, Debast weiter verletzt",
+     "Iran ueberraschend 2:2 gegen Neuseeland (MD1), Taremi/Moghanlou kreativ - defensive Schwaechen vorhanden",
+     "Beide mit nur 1 Punkt nach MD1 - Belgien muss und wird gewinnen, individuelle Klasse entscheidet",
+     "2:0 BEL: belgische Kadertiefe und Lukaku-Joker-Qualitaet setzen sich letztlich durch"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-21T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2409,19 +2540,20 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 0,
+    "scoreHome": 1,
     "scoreAway": 2,
     "winnerCode": "EGY",
     "outcome": "2",
-    "confidence": "mittel",
+    "confidence": "niedrig",
     "reasons": [
-     "Aegypten mit Salah individuell ueberlegen, FIFA-Rang 29 vs Neuseeland deutlich hoeher",
-     "Neuseeland ohne Chris Wood offensiv harmlos, muss nach Auftaktniederlage offener spielen",
-     "Aegypten unter Druck (Muss-Sieg nach erwarteter Niederlage vs BEL) nutzt Konterraeume"
+     "Neuseeland ueberraschend 2:2 gegen Iran (Just 2x) - koennen offensiv treffen, besser als erwartet",
+     "Aegypten 1:1 gegen Belgien (Imam Aschur trifft) - beide Teams gleich 1 Punkt, echte Auseinandersetzung",
+     "Salah bleibt gefaehrlichster Spieler auf dem Platz, EGY als leichter Favorit",
+     "1:2 EGY: NZL-Offensivpotenzial reicht fuer ein Tor, Salah entscheidet dennoch fuer Aegypten"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-06-21T09:00:00+02:00",
+    "changed": true,
+    "changeNote": "NZL ueberraschend 2:2 vs Iran (Just 2x) - koennen treffen; Spiel enger als erwartet, Heimtreffer moeglich"
    },
    "history": [
     {
@@ -2436,6 +2568,20 @@ window.WM_DATA = {
      ],
      "at": "2026-06-13T12:00:00+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "EGY",
+     "confidence": "niedrig",
+     "reasons": [
+      "Neuseeland ueberraschend 2:2 gegen Iran (Just 2x) - koennen offensiv treffen, besser als erwartet",
+      "Aegypten 1:1 gegen Belgien (Imam Aschur trifft) - beide Teams gleich 1 Punkt, echte Auseinandersetzung",
+      "Salah bleibt gefaehrlichster Spieler auf dem Platz, EGY als leichter Favorit",
+      "1:2 EGY: NZL-Offensivpotenzial reicht fuer ein Tor, Salah entscheidet dennoch fuer Aegypten"
+     ],
+     "at": "2026-06-21T09:00:00+02:00",
+     "changeNote": "NZL ueberraschend 2:2 vs Iran (Just 2x) - koennen treffen; Spiel enger als erwartet, Heimtreffer moeglich"
     }
    ],
    "result": null,
