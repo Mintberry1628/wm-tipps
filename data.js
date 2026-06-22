@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-21T09:00:00+02:00",
+  "lastUpdate": "2026-06-22T09:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -2369,7 +2369,7 @@ window.WM_DATA = {
    "city": "Miami Gardens",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -2383,7 +2383,7 @@ window.WM_DATA = {
      "Valverde, Nunez und Ugarte bleiben qualitativ ueberlegen fuer Kap Verdes defensiv-kompaktes System",
      "2:0 URU: individuelle Klasse entscheidet trotz erstarkendem Gegner"
     ],
-    "updatedAt": "2026-06-21T09:00:00+02:00",
+    "updatedAt": "2026-06-22T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2402,8 +2402,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 2,
+    "notes": "Pina (21') Fuehrung CPV; Araujo (44') und Canobbio (45+6') drehen fuer URU; Varela (61') egalisiert - Kap Verde erkämpft sensationell Remis gegen Uruguay",
+    "at": "2026-06-22T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-21T23:00:00+02:00"
   },
@@ -2425,7 +2433,7 @@ window.WM_DATA = {
    "city": "Atlanta",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -2439,7 +2447,7 @@ window.WM_DATA = {
      "De la Fuente stellt offensiver auf; Spains kreativer Kader (Pedri, Rodri, Merino) bricht tiefe KSA-Abwehr auf",
      "Klarer 2:0-Sieg: Yamls Individualklasse macht Unterschied, Spanien startet Aufholjagd in der Gruppe"
     ],
-    "updatedAt": "2026-06-21T09:00:00+02:00",
+    "updatedAt": "2026-06-22T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2458,8 +2466,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 4,
+    "away": 0,
+    "notes": "Spanien-Reaktion nach 0:0-Schock: Yamal (10') erstes WM-Tor, Oyarzabal Doppelpack (21'/24'), Eigentor Altambakti (49') - klare Machtdemonstration",
+    "at": "2026-06-22T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-21T17:00:00+02:00"
   },
@@ -2481,7 +2497,7 @@ window.WM_DATA = {
    "city": "Inglewood",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -2495,7 +2511,7 @@ window.WM_DATA = {
      "Beide mit nur 1 Punkt nach MD1 - Belgien muss und wird gewinnen, individuelle Klasse entscheidet",
      "2:0 BEL: belgische Kadertiefe und Lukaku-Joker-Qualitaet setzen sich letztlich durch"
     ],
-    "updatedAt": "2026-06-21T09:00:00+02:00",
+    "updatedAt": "2026-06-22T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2514,8 +2530,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 0,
+    "notes": "Torfreies Desaster fuer Belgien: Ngoy (67') Rote Karte laehmte Team; Taremi-Treffer (25') wegen Abseits aberkannt - Belgien vor dem WM-Aus nach 0 Punkten",
+    "at": "2026-06-22T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-21T20:00:00+02:00"
   },
@@ -2537,7 +2561,7 @@ window.WM_DATA = {
    "city": "Vancouver",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -2551,8 +2575,8 @@ window.WM_DATA = {
      "Salah bleibt gefaehrlichster Spieler auf dem Platz, EGY als leichter Favorit",
      "1:2 EGY: NZL-Offensivpotenzial reicht fuer ein Tor, Salah entscheidet dennoch fuer Aegypten"
     ],
-    "updatedAt": "2026-06-21T09:00:00+02:00",
-    "changed": true,
+    "updatedAt": "2026-06-22T09:00:00+02:00",
+    "changed": false,
     "changeNote": "NZL ueberraschend 2:2 vs Iran (Just 2x) - koennen treffen; Spiel enger als erwartet, Heimtreffer moeglich"
    },
    "history": [
@@ -2584,8 +2608,16 @@ window.WM_DATA = {
      "changeNote": "NZL ueberraschend 2:2 vs Iran (Just 2x) - koennen treffen; Spiel enger als erwartet, Heimtreffer moeglich"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 3,
+    "notes": "Surman (15') Fuehrung NZL; Aegypten dreht durch Mostafa Zico (58'), Salah (67') und Trezeguet (82') - historisch erster WM-Sieg Aegyptens",
+    "at": "2026-06-22T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-22T02:00:00+02:00"
   },
@@ -2610,20 +2642,20 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 1,
+    "scoreHome": 2,
     "scoreAway": 1,
-    "winnerCode": "X",
-    "outcome": "X",
-    "confidence": "niedrig",
+    "winnerCode": "NOR",
+    "outcome": "1",
+    "confidence": "mittel",
     "reasons": [
-     "Ausgeglichenes Schluesselspiel um Platz 2 hinter FRA -> beide brauchen Punkte",
-     "NOR-Offensive (Haaland) vs SEN-Physis (Mane, Koulibaly) auf Augenhoehe",
-     "Beide vermutlich Auftakt-Niederlage/Remis gegen FRA verarbeitet -> vorsichtige Taktik",
-     "Tipp 1:1: enge Partie, kein klarer Favorit"
+     "NOR 4:1-Pflichtsieg vs IRQ (Haaland Doppelpack) - in Bestform und mit 3 Punkten klar vorne",
+     "SEN verlor 1:3 gegen FRA - defensive Schwaechen sichtbar, muss nun angreifen um 0-Punkte-Desaster zu vermeiden",
+     "SEN muss offensiv aufmachen -> Raeume fuer Haaland-Konter, NOR kann kontrolliert gewinnen",
+     "Kein Verletzungsausfall bei NOR (Haaland/Oedegaard/Soerloth fit), Mane/Koulibaly fuer SEN aber gefaehrlich - ein Gegentor moeglich"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-06-22T09:00:00+02:00",
+    "changed": true,
+    "changeNote": "NOR 4:1 vs IRQ (Haaland 2 Tore) + SEN 1:3 vs FRA: NOR in Topform mit 3 Punkten, SEN unter Zugzwang -> NOR klarer Favorit"
    },
    "history": [
     {
@@ -2639,6 +2671,20 @@ window.WM_DATA = {
      ],
      "at": "2026-06-13T12:00:00+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "NOR",
+     "confidence": "mittel",
+     "reasons": [
+      "NOR 4:1-Pflichtsieg vs IRQ (Haaland Doppelpack) - in Bestform und mit 3 Punkten klar vorne",
+      "SEN verlor 1:3 gegen FRA - defensive Schwaechen sichtbar, muss nun angreifen um 0-Punkte-Desaster zu vermeiden",
+      "SEN muss offensiv aufmachen -> Raeume fuer Haaland-Konter, NOR kann kontrolliert gewinnen",
+      "Kein Verletzungsausfall bei NOR (Haaland/Oedegaard/Soerloth fit), Mane/Koulibaly fuer SEN aber gefaehrlich - ein Gegentor moeglich"
+     ],
+     "at": "2026-06-22T09:00:00+02:00",
+     "changeNote": "NOR 4:1 vs IRQ (Haaland 2 Tore) + SEN 1:3 vs FRA: NOR in Topform mit 3 Punkten, SEN unter Zugzwang -> NOR klarer Favorit"
     }
    ],
    "result": null,
@@ -2673,12 +2719,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Riesiger Klassenunterschied: FRA (FIFA-3, Titelquote 6.0) gegen WM-Aussenseiter IRQ",
-     "FRA-Offensivkader (Mbappe, Dembele, Olise, Cherki) bricht tiefe IRQ-Defensive auf",
-     "FRA will nach Auftakt Gruppensieg sichern -> hohe Motivation, Rotation moeglich",
-     "Tipp 3:0: deutlicher FRA-Sieg ohne Gegenwehr"
+     "Mbappes 100. Laenderspiel: FRA-Startelf bestaetigt (Maignan; Kounde, Upamecano, Saliba, Theo; Tchouameni, Rabiot; Dembele, Olise, Doue; Mbappe)",
+     "FRA nach 3:1 vs SEN in bester Verfassung, Mbappe (14 WM-Tore) in Torlaune",
+     "IRQ 1:4 vs NOR - offensiv und defensiv hoffnungslos unterlegen gegen Weltklasse",
+     "Tipp 3:0 bestaetigt: deutlicher FRA-Pflichtsieg, IRQ kaum Gegenwehr"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-22T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2730,12 +2776,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Argentinien (#1) als Titelkandidat deutlich vor Oesterreich (#24)",
-     "ARG in Topform (7 Siege), Messi-gefuehrte Offensive ueberlegen",
-     "Oesterreich vermutlich auf Konter angewiesen, Chancen begrenzt",
-     "Mittagsanstoss/Hitze in Arlington beguenstigt kontrollierte ARG-Spielweise"
+     "ARG nach 3:0 vs ALG (Messi-Hattrick) mit 3 Punkten und Momentum - Messi leicht angeschlagen, Einsatz aber erwartet",
+     "AUT nach 3:1 vs JOR mit starker Leistung - Alaba kehrt als Kapitaen in Startelf zurueck (fehlte noch in MD1)",
+     "Argentiniens Angriff (Messi/L.Martinez/J.Alvarez) qualitativ zu stark fuer AUT-Abwehr auch mit Alaba",
+     "2:0 ARG: klarer Pflichtsieg, Messi-Ausstieg nach gutem Spiel zur Schonung moeglich"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-22T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2787,12 +2833,12 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Algerien (#28) klar besser platziert als Jordanien, individuell ueberlegen",
-     "Beide vermutlich nach Auftakt punktlos -> direktes Duell um letzte Aufstiegschance",
-     "Algerien torgefaehrlicher, Jordanien defensiv aber nicht chancenlos",
-     "Fraglicher ALG-Keeper L. Zidane laesst ein Gegentor zu"
+     "Beide nach MD1 punktlos: JOR 1:3 vs AUT (konnte 1 Tor erzielen), ALG 0:3 vs ARG (klar unterlegen)",
+     "Bensebaini kehrt in ALG-Startelf zurueck (fehlte in MD1) - Abwehr staerker als gegen ARG",
+     "Algerien (Mahrez/Gouiri) offensiv qualitativer als Jordanien, direktes Duell um letzte Achtelfinal-Chance",
+     "JOR kann per Standard/Konter treffen (Al-Taamari), ALG-Keeper Zidane unsicherer Faktor"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-22T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
