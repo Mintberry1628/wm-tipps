@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-22T09:00:00+02:00",
+  "lastUpdate": "2026-06-22T11:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -2653,7 +2653,7 @@ window.WM_DATA = {
      "SEN muss offensiv aufmachen -> Raeume fuer Haaland-Konter, NOR kann kontrolliert gewinnen",
      "Kein Verletzungsausfall bei NOR (Haaland/Oedegaard/Soerloth fit), Mane/Koulibaly fuer SEN aber gefaehrlich - ein Gegentor moeglich"
     ],
-    "updatedAt": "2026-06-22T09:00:00+02:00",
+    "updatedAt": "2026-06-22T11:00:00+02:00",
     "changed": true,
     "changeNote": "NOR 4:1 vs IRQ (Haaland 2 Tore) + SEN 1:3 vs FRA: NOR in Topform mit 3 Punkten, SEN unter Zugzwang -> NOR klarer Favorit"
    },
@@ -2724,7 +2724,7 @@ window.WM_DATA = {
      "IRQ 1:4 vs NOR - offensiv und defensiv hoffnungslos unterlegen gegen Weltklasse",
      "Tipp 3:0 bestaetigt: deutlicher FRA-Pflichtsieg, IRQ kaum Gegenwehr"
     ],
-    "updatedAt": "2026-06-22T09:00:00+02:00",
+    "updatedAt": "2026-06-22T11:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2776,12 +2776,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "ARG nach 3:0 vs ALG (Messi-Hattrick) mit 3 Punkten und Momentum - Messi leicht angeschlagen, Einsatz aber erwartet",
-     "AUT nach 3:1 vs JOR mit starker Leistung - Alaba kehrt als Kapitaen in Startelf zurueck (fehlte noch in MD1)",
-     "Argentiniens Angriff (Messi/L.Martinez/J.Alvarez) qualitativ zu stark fuer AUT-Abwehr auch mit Alaba",
-     "2:0 ARG: klarer Pflichtsieg, Messi-Ausstieg nach gutem Spiel zur Schonung moeglich"
+     "Messi (Startelf bestaetigt, angeschlagen aber spielbereit), J.Alvarez und N.Gonzalez als Sturmtrio - ARG-Offensive top besetzt",
+     "AUT mit Alaba (Kapitaen, Startelf bestaetigt), Arnautovic als Sturmspitze - beste AUT-Besetzung verfuegbar",
+     "ARG-Mittelfeld (De Paul, MacAllister, E.Fernandez) klar ueberlegen, Abwehr mit Romero/L.Martinez (CB) solid",
+     "2:0 ARG: klarer Pflichtsieg, Messi moeglicherweise in zweiter Haelfte zur Schonung ausgewechselt"
     ],
-    "updatedAt": "2026-06-22T09:00:00+02:00",
+    "updatedAt": "2026-06-22T11:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2838,7 +2838,7 @@ window.WM_DATA = {
      "Algerien (Mahrez/Gouiri) offensiv qualitativer als Jordanien, direktes Duell um letzte Achtelfinal-Chance",
      "JOR kann per Standard/Konter treffen (Al-Taamari), ALG-Keeper Zidane unsicherer Faktor"
     ],
-    "updatedAt": "2026-06-22T09:00:00+02:00",
+    "updatedAt": "2026-06-22T11:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
