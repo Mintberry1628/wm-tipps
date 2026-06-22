@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-22T11:00:00+02:00",
+  "lastUpdate": "2026-06-22T11:30:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -2719,12 +2719,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Mbappes 100. Laenderspiel: FRA-Startelf bestaetigt (Maignan; Kounde, Upamecano, Saliba, Theo; Tchouameni, Rabiot; Dembele, Olise, Doue; Mbappe)",
-     "FRA nach 3:1 vs SEN in bester Verfassung, Mbappe (14 WM-Tore) in Torlaune",
+     "FRA-Rotation: Digne statt Theo (LV), Kone statt Tchouameni (DM), Barcola statt Doue - Mbappe/Dembele/Olise klar gesetzt",
+     "Mbappe fit und startend; FRA nach 3:1 vs SEN in bester Verfassung (Mbappes 100. Laenderspiel)",
      "IRQ 1:4 vs NOR - offensiv und defensiv hoffnungslos unterlegen gegen Weltklasse",
-     "Tipp 3:0 bestaetigt: deutlicher FRA-Pflichtsieg, IRQ kaum Gegenwehr"
+     "Tipp 3:0 bestaetigt: deutlicher FRA-Pflichtsieg trotz Rotation, IRQ ohne echte Gegenwehr"
     ],
-    "updatedAt": "2026-06-22T11:00:00+02:00",
+    "updatedAt": "2026-06-22T11:30:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2776,12 +2776,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Messi (Startelf bestaetigt, angeschlagen aber spielbereit), J.Alvarez und N.Gonzalez als Sturmtrio - ARG-Offensive top besetzt",
-     "AUT mit Alaba (Kapitaen, Startelf bestaetigt), Arnautovic als Sturmspitze - beste AUT-Besetzung verfuegbar",
-     "ARG-Mittelfeld (De Paul, MacAllister, E.Fernandez) klar ueberlegen, Abwehr mit Romero/L.Martinez (CB) solid",
-     "2:0 ARG: klarer Pflichtsieg, Messi moeglicherweise in zweiter Haelfte zur Schonung ausgewechselt"
+     "Messi spielbereit; J.Alvarez wackelt (fraglich), Lautaro Martinez als Ersatz bereit - ARG-Offensive bleibt top besetzt",
+     "AUT geschwaecht: Posch verletzt (Kiefer), Laimer rueckt in Abwehr, Wanner startet erstmals im Mittelfeld",
+     "ARG-Mittelfeld (De Paul, MacAllister, E.Fernandez) klar ueberlegen, Abwehr mit Romero/L.Martinez solid",
+     "2:0 ARG: klarer Pflichtsieg auch bei moeglichem Alvarez-Ausfall - Lautaro gleichwertiger Ersatz"
     ],
-    "updatedAt": "2026-06-22T11:00:00+02:00",
+    "updatedAt": "2026-06-22T11:30:00+02:00",
     "changed": false,
     "changeNote": null
    },
