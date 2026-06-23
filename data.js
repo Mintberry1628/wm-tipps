@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-22T11:30:00+02:00",
+  "lastUpdate": "2026-06-23T09:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -2639,7 +2639,7 @@ window.WM_DATA = {
    "city": "East Rutherford",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -2653,8 +2653,8 @@ window.WM_DATA = {
      "SEN muss offensiv aufmachen -> Raeume fuer Haaland-Konter, NOR kann kontrolliert gewinnen",
      "Kein Verletzungsausfall bei NOR (Haaland/Oedegaard/Soerloth fit), Mane/Koulibaly fuer SEN aber gefaehrlich - ein Gegentor moeglich"
     ],
-    "updatedAt": "2026-06-22T11:00:00+02:00",
-    "changed": true,
+    "updatedAt": "2026-06-23T09:00:00+02:00",
+    "changed": false,
     "changeNote": "NOR 4:1 vs IRQ (Haaland 2 Tore) + SEN 1:3 vs FRA: NOR in Topform mit 3 Punkten, SEN unter Zugzwang -> NOR klarer Favorit"
    },
    "history": [
@@ -2687,8 +2687,16 @@ window.WM_DATA = {
      "changeNote": "NOR 4:1 vs IRQ (Haaland 2 Tore) + SEN 1:3 vs FRA: NOR in Topform mit 3 Punkten, SEN unter Zugzwang -> NOR klarer Favorit"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 2,
+    "notes": "Pedersen (43'), Haaland (48'/58') Doppelpack fuer NOR; Sarr (53'/90+3') Doppelpack fuer SEN - spannendes 3:2, NOR mit 6 Punkten vorzeitig durch",
+    "at": "2026-06-23T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-23T01:00:00+02:00"
   },
@@ -2710,7 +2718,7 @@ window.WM_DATA = {
    "city": "Philadelphia",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -2744,8 +2752,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 0,
+    "notes": "Mbappe (14'/54') Doppelpack und Dembele (66'); Spiel nach Halbzeit wegen Gewitters ueber Philadelphia ~2h unterbrochen; Tipp 3:0 exakt getroffen",
+    "at": "2026-06-23T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-22T22:00:00+02:00"
   },
@@ -2767,7 +2783,7 @@ window.WM_DATA = {
    "city": "Arlington",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -2801,8 +2817,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 0,
+    "notes": "Messi (38'/90+') Doppelpack - neuer WM-Rekordtorschuetze (17. Tor, verfehlt Elfmeter 9'); AUT ohne klare Chance; Tipp 2:0 exakt getroffen",
+    "at": "2026-06-23T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-22T18:00:00+02:00"
   },
@@ -2824,7 +2848,7 @@ window.WM_DATA = {
    "city": "Santa Clara",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -2858,8 +2882,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 2,
+    "notes": "Al-Rashdan (36') Fuehrung JOR; Benbouali (69') und Gouiri (82'/Konter nach Ecke) drehen fuer ALG - Tipp 1:2 ALG exakt getroffen",
+    "at": "2026-06-23T09:00:00+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-23T04:00:00+02:00"
   },
@@ -2890,11 +2922,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Klares Qualitaets- und Rang-Gefaelle (POR 5 vs UZB ausserhalb Top30)",
-     "Portugal kann mit Sieg vorzeitig Achtelfinale sichern -> hohe Motivation",
-     "Usbekistan tritt voraussichtlich defensiv-kompakt an, Portugal bricht dies durch -> sicherer aber nicht zweistelliger Sieg"
+     "Portugal nach 1:1 vs DR Kongo (MD1-Schock) unter maximalem Druck - Muss-Sieg, hoechste Motivation",
+     "Usbekistan 1:3 vs Kolumbien (MD1): klar unterlegen und offensiv ohne echten Druckmittel auf diesem Niveau",
+     "Voller POR-Kader (Ronaldo, B.Fernandez, Vitinha, Cancelo) fit - Qualitaet setzt sich klar durch"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-23T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -2940,18 +2972,18 @@ window.WM_DATA = {
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
-    "scoreAway": 0,
+    "scoreAway": 1,
     "winnerCode": "COL",
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Kolumbien (Rang 13) deutlich favorisiert gegen den Gruppen-Aussenseiter DR Kongo",
-     "Mit Sieg waere Kolumbien dem Achtelfinale sehr nahe -> ergebnisorientiertes Auftreten",
-     "DR Kongo athletisch, aber gegen kolumbianische Klasse offensiv chancenarm"
+     "Kolumbien 3:1 vs UZB (MD1): Luis Diaz und James Rodriguez offensiv in Bestform, auf Kurs Achtelfinale",
+     "DR Kongo 1:1 vs Portugal (MD1-Sensation): zeigt echte Torgefahr gegen Topgegner - nicht mehr harmlos",
+     "COL-Klasse (Rang 13) bleibt ueberlegen, aber CODs offensives Potenzial reicht fuer Ehrentreffer"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-06-23T09:00:00+02:00",
+    "changed": true,
+    "changeNote": "COD 1:1 vs POR (MD1): zeigte Torgefahr gegen Top-Team; Tipp von 2:0 auf 2:1 COL angepasst"
    },
    "history": [
     {
@@ -2966,6 +2998,19 @@ window.WM_DATA = {
      ],
      "at": "2026-06-13T12:00:00+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "COL",
+     "confidence": "mittel",
+     "reasons": [
+      "Kolumbien 3:1 vs UZB (MD1): Luis Diaz und James Rodriguez offensiv in Bestform, auf Kurs Achtelfinale",
+      "DR Kongo 1:1 vs Portugal (MD1-Sensation): zeigt echte Torgefahr gegen Topgegner - nicht mehr harmlos",
+      "COL-Klasse (Rang 13) bleibt ueberlegen, aber CODs offensives Potenzial reicht fuer Ehrentreffer"
+     ],
+     "at": "2026-06-23T09:00:00+02:00",
+     "changeNote": "COD 1:1 vs POR (MD1): zeigte Torgefahr gegen Top-Team; Tipp von 2:0 auf 2:1 COL angepasst"
     }
    ],
    "result": null,
@@ -3000,12 +3045,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Klare Klassendifferenz: England Rang 4 vs Ghana Rang weit dahinter",
-     "Englands Defensive unter Tuchel sehr stabil, Ghana (Kudus fraglich) offensiv limitiert",
-     "England voraussichtlich mit Sieg im Auftakt, kann hier den Gruppensieg festigen",
-     "Solider, kontrollierter 2:0-Erfolg ohne grosses Risiko erwartbar"
+     "England 4:2 vs CRO (MD1): Kane-Doppelpack, Bellingham und Rashford - starke Offensive, auch 2 Gegentore kassiert",
+     "Ghana 1:0 vs PAN (MD1): Pflichtaufgabe erfuellt, defensiv solide - Kudus aber weiterhin nicht im Kader",
+     "Beide Teams mit 3 Punkten: Spitzenspiel Gruppe L - Englands Kaderbreite und Klasse gibt Ausschlag",
+     "Projektierte ENG-XI: Pickford, Rice, Bellingham, Kane; Madueke startet erneut fuer Saka auf Rechts"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-23T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -3057,12 +3102,12 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Kroatien (Rang 11) deutlich hoeher eingestuft als Panama, individuelle Klasse entscheidet",
-     "Nach moeglicher Auftaktniederlage gegen England steht Kroatien unter Zugzwang - Muss-Sieg",
-     "Panama defensiv stark, aber gegen kroatisches Mittelfeld auf Dauer unterlegen",
-     "Kroatische Routine setzt sich in der zweiten Halbzeit durch"
+     "Panama 0:1 vs Ghana (MD1): defensiv diszipliniert, aber offensiv klar begrenzt - ohne Sieg vor dem Aus",
+     "Kroatien 2:4 vs England (MD1): Baturina/Musa trafen, aber Abwehr ueberfordert - voller Kader verfuegbar",
+     "Fast K.o.-Spiel fuer beide - Kroatiens individuelle Klasse (Modric, Kovacic, Gvardiol) entscheidet",
+     "Volle CRO-Besetzung bestaetigt; gegen schwache PAN-Offensive Zu-Null realistisch - 0:2 CRO"
     ],
-    "updatedAt": "2026-06-13T12:00:00+02:00",
+    "updatedAt": "2026-06-23T09:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
