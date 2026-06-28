@@ -1,36 +1,41 @@
-# Automatische Tipp-Updates über GitHub Actions (läuft ohne PC)
+# Automatische Tipp-Updates über GitHub Actions (läuft ohne PC, kostenlos)
 
 Die Aktualisierung läuft als **GitHub Action** in der Cloud — unabhängig von deinem
-PC und vom Claude-Abo/-Limit. Der Roboter (`update_bot.py`) trägt Ergebnisse ein,
-erstellt/aktualisiert Tipps (per Anthropic-API mit Websuche) und schreibt die K.-o.-Runde
-fort; die Action committet die Änderung, GitHub Pages veröffentlicht sie aufs Handy.
+PC und vom Claude-Abo/-Limit. Der Roboter (`update_bot.py`) nutzt die **Google-Gemini-API
+(Gratis-Kontingent)** mit Google-Suche: er trägt Ergebnisse ein, erstellt/aktualisiert Tipps
+und schreibt die K.-o.-Runde fort; die Action committet die Änderung, GitHub Pages
+veröffentlicht sie aufs Handy.
 
 ## Einmalige Einrichtung
 
-**1. Anthropic-API-Schlüssel mit Guthaben anlegen** (getrennt vom Claude-Abo):
-   - https://console.anthropic.com → anmelden (gleiche E-Mail möglich).
-   - **Billing** → Zahlungsmittel hinterlegen → **5 $ Guthaben** kaufen (reicht fürs ganze Turnier).
-   - **API keys** → **Create Key** → Schlüssel kopieren (beginnt mit `sk-ant-...`).
+**1. Kostenlosen Gemini-API-Schlüssel holen** (keine Kreditkarte nötig):
+   - https://aistudio.google.com/apikey → mit Google-Konto anmelden.
+   - **Create API key** → Schlüssel kopieren (beginnt mit `AIza…`).
 
 **2. Schlüssel als GitHub-Secret hinterlegen:**
    - https://github.com/Mintberry1628/wm-tipps/settings/secrets/actions
-   - **New repository secret** → Name exakt: **`ANTHROPIC_API_KEY`** → Value: Schlüssel einfügen → **Add secret**.
+   - **New repository secret** → Name exakt: **`GEMINI_API_KEY`** → Value: Schlüssel einfügen → **Add secret**.
 
 **3. Testen:**
-   - https://github.com/Mintberry1628/wm-tipps/actions → **WM-Tipps Update** → **Run workflow**.
-   - Nach ~1–2 Min sollte der Lauf grün sein; danach zeigt das Handy den frischen Stand.
+   - https://github.com/Mintberry1628/wm-tipps/actions → **WM-Tipps Update** → **Run workflow**
+     (manueller Lauf nutzt `--force`, läuft also sofort, egal welche Uhrzeit).
+   - Nach ~1–2 Min sollte der Lauf grün sein; danach App am Handy neu öffnen.
 
 ## Zeitplan
-- Läuft automatisch **3× täglich** (ca. 10:00 / 18:00 / 21:00 deutscher Zeit), siehe
-  `.github/workflows/update.yml` (`cron` in UTC). Häufigkeit dort anpassbar.
-- Modell: **Haiku 4.5** (günstig). Über die Env-Variable `WM_MODEL` umstellbar.
+- Die Action wird stündlich 13–21 Uhr (deutscher Zeit) angestoßen, der Roboter **feuert
+  aber nur EINMAL pro Tag** — ca. **3 Std. vor dem ersten Spiel des Tages, spätestens 21 Uhr**.
+  Alle anderen Aufrufe brechen sofort & kostenlos ab.
+- Einstellbar in `update_bot.py` (`LEAD_HOURS`, `CAP_HOUR`) und `.github/workflows/update.yml` (cron).
+- Modell: **`gemini-2.5-flash`** (Free Tier). Über Env-Variable `WM_MODEL` umstellbar
+  (z. B. `gemini-2.5-flash-lite` noch sparsamer).
 
 ## Kosten
 - GitHub Actions: kostenlos (öffentliches Repo).
-- Anthropic-API: ~0,10 $/Lauf → grob **5–10 $ fürs restliche Turnier**.
+- Gemini Free Tier: bei 1 Lauf/Tag mit wenigen Such-Anfragen **0 €** (Google-Suche-Grounding
+  ist bis 500 Anfragen/Tag gratis; keine Kreditkarte).
 
-## Was der Roboter tut (pro Lauf)
+## Was der Roboter tut (pro Tageslauf)
 1. Endergebnisse fälliger Spiele recherchieren und eintragen (+ Tipp-Bewertung).
 2. K.-o.-Baum fortschreiben (Sieger rückt deterministisch ins Folgespiel).
 3. Tipps für Spiele in den nächsten ~30 Std. erstellen/auffrischen (geänderte markiert).
-4. Nur bei Änderung: `data.js` committen & pushen.
+4. `data.js` committen & pushen (Zeitstempel täglich, Inhalt nur bei Änderung).

@@ -26,11 +26,11 @@ jobs:
           python-version: "3.12"
 
       - name: Abhaengigkeiten
-        run: pip install anthropic
+        run: pip install google-genai
 
       - name: Tipps aktualisieren
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             python update_bot.py --force

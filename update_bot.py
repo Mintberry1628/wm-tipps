@@ -1,20 +1,20 @@
 # -*- coding: utf-8 -*-
 """
 WM-2026 Update-Roboter fuer GitHub Actions (laeuft in der Cloud, PC aus).
-- traegt Endergebnisse gespielter Spiele ein (per Claude + Websuche)
-- erstellt/aktualisiert Tipps fuer anstehende Spiele (per Claude + Websuche)
+- traegt Endergebnisse gespielter Spiele ein (per Gemini + Google-Suche)
+- erstellt/aktualisiert Tipps fuer anstehende Spiele (per Gemini + Google-Suche)
 - loest die K.-o.-Runde deterministisch fort (Sieger -> Folgespiel)
 - aktualisiert meta.lastUpdate; schreibt data.js
 
 Aufrufe:
   python update_bot.py --selftest   # ohne API: zeigt nur, was zu tun waere
-  python update_bot.py              # echter Lauf (braucht ANTHROPIC_API_KEY)
+  python update_bot.py              # echter Lauf (braucht GEMINI_API_KEY)
 """
 import json, io, os, sys, datetime, re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data.js")
-MODEL = os.environ.get("WM_MODEL", "claude-haiku-4-5")
+MODEL = os.environ.get("WM_MODEL", "gemini-2.5-flash")
 SELFTEST = "--selftest" in sys.argv
 FORCE = "--force" in sys.argv   # manueller Lauf: Zeitfenster-Pruefung ueberspringen
 LEAD_HOURS = 3                  # ~3h vor dem ersten Spiel des Tages
@@ -115,17 +115,12 @@ def select(data):
     return need_result, need_pred
 
 # ---------- Claude-Aufrufe ----------
-def claude_json(client, prompt, max_uses=3):
-    """Ein Aufruf mit Websuche; gibt geparstes JSON aus dem letzten Textblock zurueck."""
-    tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": max_uses}]
-    messages = [{"role": "user", "content": prompt}]
-    for _ in range(6):  # server-tool-Schleife (pause_turn)
-        resp = client.messages.create(model=MODEL, max_tokens=1200, tools=tools, messages=messages)
-        if resp.stop_reason == "pause_turn":
-            messages = [messages[0], {"role": "assistant", "content": resp.content}]
-            continue
-        break
-    text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
+def llm_json(client, prompt):
+    """Ein Gemini-Aufruf mit Google-Suche (Grounding); parst JSON aus dem Antworttext."""
+    from google.genai import types
+    cfg = types.GenerateContentConfig(tools=[types.Tool(google_search=types.GoogleSearch())])
+    resp = client.models.generate_content(model=MODEL, contents=prompt, config=cfg)
+    text = resp.text or ""
     mobj = re.search(r"\{.*\}", text, re.S)
     if not mobj:
         raise ValueError("Keine JSON-Antwort: " + text[:200])
@@ -143,7 +138,7 @@ def research_result(client, m):
               '{"scoreHome": <Tore Heim>, "scoreAway": <Tore Auswaerts>, '
               '"notes": "<1 kurzer Satz: Torschuetzen/Verlauf>"' + adv_field + "}. "
               'Wenn das Spiel noch nicht beendet ist, antworte NUR mit {"played": false}.' + adv_hint)
-    return claude_json(client, prompt)
+    return llm_json(client, prompt)
 
 def research_pred(client, m):
     ko = D(m["kickoffBerlin"]).strftime("%d.%m.%Y %H:%M")
@@ -154,7 +149,7 @@ def research_pred(client, m):
               f'Anstoss {ko} (deutsche Zeit). Recherchiere kurz Form/Verletzungen/Sperren/Quoten und erstelle eine Ergebnisprognose. {rule} '
               f'Antworte NUR mit JSON: {{"scoreHome": <int>, "scoreAway": <int>, "winnerCode": "<Code oder X>", '
               f'"confidence": "niedrig|mittel|hoch", "reasons": ["2-3 kurze deutsche Stichpunkte"]}}.')
-    return claude_json(client, prompt)
+    return llm_json(client, prompt)
 
 # ---------- Anwenden ----------
 def apply_result(m, r):
@@ -234,8 +229,8 @@ def main():
         print("(Selftest – keine API-Aufrufe, nichts geschrieben.)")
         return
 
-    import anthropic
-    client = anthropic.Anthropic()  # liest ANTHROPIC_API_KEY
+    from google import genai
+    client = genai.Client()  # liest GEMINI_API_KEY (oder GOOGLE_API_KEY)
     touched = bool(prop)
     for m in need_result:
         try:
