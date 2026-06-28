@@ -2,8 +2,10 @@ name: WM-Tipps Update
 
 on:
   schedule:
-    # UTC-Zeiten -> 10:00 / 18:00 / 21:00 deutscher Zeit (MESZ). 3x taeglich.
-    - cron: "0 8,16,19 * * *"
+    # Stuendlich 13:00-21:00 deutscher Zeit (UTC 11-19). Der Roboter "feuert"
+    # aber nur EINMAL pro Tag (~3 Std. vor dem ersten Spiel, spaetestens 21:00);
+    # alle anderen Aufrufe brechen sofort und kostenlos ab.
+    - cron: "0 11-19 * * *"
   workflow_dispatch: {}   # erlaubt manuelles Starten ("Run workflow")
 
 permissions:
@@ -29,7 +31,12 @@ jobs:
       - name: Tipps aktualisieren
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python update_bot.py
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python update_bot.py --force
+          else
+            python update_bot.py
+          fi
 
       - name: Aenderungen committen & pushen
         run: |

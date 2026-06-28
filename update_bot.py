@@ -16,6 +16,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data.js")
 MODEL = os.environ.get("WM_MODEL", "claude-haiku-4-5")
 SELFTEST = "--selftest" in sys.argv
+FORCE = "--force" in sys.argv   # manueller Lauf: Zeitfenster-Pruefung ueberspringen
+LEAD_HOURS = 3                  # ~3h vor dem ersten Spiel des Tages
+CAP_HOUR = 21                   # spaetestens 21:00 deutscher Zeit
 
 def now_berlin():
     # Cloud laeuft in UTC; WM-2026 ist im Sommer -> MESZ = UTC+2
@@ -187,10 +190,35 @@ def apply_pred(m, p):
     m.setdefault("history", []).append(snap)
     return changed
 
+# ---------- Zeitfenster: nur 1x/Tag, ~3h vor dem 1. Spiel, spaetestens 21:00 ----------
+def decide_run(data):
+    if FORCE:
+        return True, "manueller Lauf (--force)"
+    now = now_berlin().replace(tzinfo=None)
+    last = data.get("meta", {}).get("lastUpdate")
+    if last and D(last) and D(last).date() == now.date():
+        return False, "heute bereits aktualisiert"
+    horizon = now + datetime.timedelta(hours=18)
+    upcoming = sorted([D(m["kickoffBerlin"]).replace(tzinfo=None) for m in data["matches"]
+                       if m.get("teamsKnown", True) and not m.get("result")
+                       and now < D(m["kickoffBerlin"]).replace(tzinfo=None) <= horizon])
+    if not upcoming:
+        return False, "kein Spiel in den naechsten 18 Std."
+    target = upcoming[0] - datetime.timedelta(hours=LEAD_HOURS)
+    if now >= target:
+        return True, f"innerhalb {LEAD_HOURS} Std. vor Anstoss ({upcoming[0].strftime('%H:%M')})"
+    if now.hour >= CAP_HOUR:
+        return True, f"{CAP_HOUR}:00-Grenze erreicht (Spiel um {upcoming[0].strftime('%H:%M')})"
+    return False, f"zu frueh – Lauf ab {target.strftime('%H:%M')} oder {CAP_HOUR}:00"
+
 # ---------- main ----------
 def main():
     prefix, data = load()
     now = now_berlin().replace(tzinfo=None)
+    run, reason = decide_run(data)
+    print(f"Zeitfenster-Entscheidung: {'LAUFEN' if run else 'ueberspringen'} – {reason}")
+    if not run and not SELFTEST:
+        return
     # vergangene Spiele: alte "changed"-Markierung entfernen
     for m in data["matches"]:
         ko = D(m["kickoffBerlin"]); pr = m.get("prediction")
@@ -227,12 +255,10 @@ def main():
             print(f"Tipp {m['matchNo']}: {p['scoreHome']}:{p['scoreAway']}" + (" (geaendert)" if ch else "")); touched = True
         except Exception as e:
             print(f"! Tipp {m['matchNo']} fehlgeschlagen: {e}")
-    if touched:
-        data["meta"]["lastUpdate"] = iso_now()
-        save(prefix, data)
-        print("data.js geschrieben.")
-    else:
-        print("Keine Aenderung.")
+    # Tageslauf immer stempeln + speichern, damit weitere Aufrufe heute abbrechen
+    data["meta"]["lastUpdate"] = iso_now()
+    save(prefix, data)
+    print("data.js geschrieben." if touched else "Nur Zeitstempel aktualisiert (keine inhaltliche Aenderung).")
 
 if __name__ == "__main__":
     main()
