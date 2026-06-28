@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-28T14:00:00+02:00",
+  "lastUpdate": "2026-06-28T11:39:57+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -4725,19 +4725,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 0,
-    "scoreAway": 1,
+    "scoreHome": 1,
+    "scoreAway": 2,
     "winnerCode": "CAN",
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Kanada bei Buchmachern Favorit (Moneyline ~-140, Weiterkommen -310); beide Teams als Gruppenzweite mit je 4 Punkten stark defensiv.",
-     "Tendenz zu wenig Toren: RSA traf bei jedem Turnierspiel maximal 1x, Kanada spielt abwartend – Under 2.5 erwartet, daher knappes 0:1.",
-     "Davies (Hamstring) bisher WM-Pause, laut aktuellen Berichten evtl. als Joker auf Bank; Kone (Tibia-Fraktur) fehlt definitiv, Eustaquio (Muskel) und Jones (Fitness) fraglich – CAN trotz Verletzungssorgen weiter Favorit."
+     "Kanada hat eine höhere FIFA-Weltrangliste (Platz 30) im Vergleich zu Südafrika (Platz 60) und zeigte in den letzten Jahren einen Aufwärtstrend.",
+     "Südafrika ist kämpferisch und gewann 1996 den Afrika-Cup, stagniert aber seit 2002 tendenziell in der Entwicklung und ist in der Offensive voraussichtlich weniger durchschlagskräftig.",
+     "Aufgrund der engen Natur eines K.-o.-Spiels ist ein Sieg Kanadas in der Verlängerung (n.V.) wahrscheinlich."
     ],
-    "updatedAt": "2026-06-28T14:00:00+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-06-28T11:39:57+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 0:1)"
    },
    "history": [
     {
@@ -4752,6 +4752,19 @@ window.WM_DATA = {
      ],
      "at": "2026-06-28T10:58:14+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "CAN",
+     "confidence": "mittel",
+     "reasons": [
+      "Kanada hat eine höhere FIFA-Weltrangliste (Platz 30) im Vergleich zu Südafrika (Platz 60) und zeigte in den letzten Jahren einen Aufwärtstrend.",
+      "Südafrika ist kämpferisch und gewann 1996 den Afrika-Cup, stagniert aber seit 2002 tendenziell in der Entwicklung und ist in der Offensive voraussichtlich weniger durchschlagskräftig.",
+      "Aufgrund der engen Natur eines K.-o.-Spiels ist ein Sieg Kanadas in der Verlängerung (n.V.) wahrscheinlich."
+     ],
+     "at": "2026-06-28T11:39:57+02:00",
+     "changeNote": "Tipp angepasst (vorher 0:1)"
     }
    ],
    "result": null,
