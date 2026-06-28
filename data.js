@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-28T10:58:14+02:00",
+  "lastUpdate": "2026-06-28T14:00:00+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -4733,9 +4733,9 @@ window.WM_DATA = {
     "reasons": [
      "Kanada bei Buchmachern Favorit (Moneyline ~-140, Weiterkommen -310); beide Teams als Gruppenzweite mit je 4 Punkten stark defensiv.",
      "Tendenz zu wenig Toren: RSA traf bei jedem Turnierspiel maximal 1x, Kanada spielt abwartend – Under 2.5 erwartet, daher knappes 0:1.",
-     "Davies (Hamstring) fehlt Kanada offensiv; bei Gleichstand nach 90 Min evtl. n.V./Elfmeter, dann leicht favorisiertes Kanada vorn."
+     "Davies (Hamstring) bisher WM-Pause, laut aktuellen Berichten evtl. als Joker auf Bank; Kone (Tibia-Fraktur) fehlt definitiv, Eustaquio (Muskel) und Jones (Fitness) fraglich – CAN trotz Verletzungssorgen weiter Favorit."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-06-28T14:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -4787,10 +4787,10 @@ window.WM_DATA = {
     "confidence": "hoch",
     "reasons": [
      "Deutschland gewann Gruppe E mit starker Offensive (u.a. 7:1 vs Curacao, 2:1 vs Elfenbeinkueste); Quoten klar pro DFB (ML -280, -700 aufs Weiterkommen).",
-     "Paraguay kam nur als schwaechster Gruppendritter weiter (4 Punkte, negative Tordifferenz, kaum Offensive) und muss die Sperre von Schluesselspieler Diego Gomez verkraften.",
-     "Mit Wirtz, Musiala und Havertz hat die individuelle Klasse Deutschlands deutliches Uebergewicht; Paraguays Tiefstapel duerfte spaet brechen."
+     "Paraguay kam nur als schwaechster Gruppendritter weiter (4 Punkte, negative Tordifferenz, kaum Offensive) und verliert mit Almiron (Rote Karte vs Tuerkei) und Gomez (Sperre) gleich zwei Schluesselspieler.",
+     "Mit Wirtz, Musiala und Havertz hat die individuelle Klasse Deutschlands deutliches Uebergewicht; Schlotterbeck (Kniebandverletzung) faellt aus, Ruediger uebernimmt solide."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-06-28T14:00:00+02:00",
     "changed": false,
     "changeNote": null
    },
