@@ -1,0 +1,44 @@
+name: WM-Tipps Update
+
+on:
+  schedule:
+    # UTC-Zeiten -> 10:00 / 18:00 / 21:00 deutscher Zeit (MESZ). 3x taeglich.
+    - cron: "0 8,16,19 * * *"
+  workflow_dispatch: {}   # erlaubt manuelles Starten ("Run workflow")
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wm-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhaengigkeiten
+        run: pip install anthropic
+
+      - name: Tipps aktualisieren
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python update_bot.py
+
+      - name: Aenderungen committen & pushen
+        run: |
+          if git diff --quiet -- data.js; then
+            echo "Keine Aenderung an data.js."
+          else
+            git config user.name "WM-Tipps Bot"
+            git config user.email "actions@github.com"
+            git add data.js
+            git commit -m "Auto-Update Tipps $(TZ=Europe/Berlin date '+%d.%m.%Y %H:%M')"
+            git push
+          fi
