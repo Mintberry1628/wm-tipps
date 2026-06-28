@@ -114,7 +114,7 @@ def select(data):
 # ---------- Claude-Aufrufe ----------
 def claude_json(client, prompt, max_uses=3):
     """Ein Aufruf mit Websuche; gibt geparstes JSON aus dem letzten Textblock zurueck."""
-    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": max_uses}]
+    tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": max_uses}]
     messages = [{"role": "user", "content": prompt}]
     for _ in range(6):  # server-tool-Schleife (pause_turn)
         resp = client.messages.create(model=MODEL, max_tokens=1200, tools=tools, messages=messages)
