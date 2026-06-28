@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-23T09:00:00+02:00",
+  "lastUpdate": "2026-06-28T10:58:14+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -2913,7 +2913,7 @@ window.WM_DATA = {
    "city": "Houston",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -2945,8 +2945,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 5,
+    "away": 0,
+    "notes": "Portugal zerlegt Usbekistan: Cristiano Ronaldo trifft doppelt (6., 39.), dazu Nuno Mendes, ein Eigentor von Nematov und Rafael Leao.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-23T18:00:00+02:00"
   },
@@ -2968,7 +2976,7 @@ window.WM_DATA = {
    "city": "Guadalajara",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -2982,7 +2990,7 @@ window.WM_DATA = {
      "COL-Klasse (Rang 13) bleibt ueberlegen, aber CODs offensives Potenzial reicht fuer Ehrentreffer"
     ],
     "updatedAt": "2026-06-23T09:00:00+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "COD 1:1 vs POR (MD1): zeigte Torgefahr gegen Top-Team; Tipp von 2:0 auf 2:1 COL angepasst"
    },
    "history": [
@@ -3013,8 +3021,16 @@ window.WM_DATA = {
      "changeNote": "COD 1:1 vs POR (MD1): zeigte Torgefahr gegen Top-Team; Tipp von 2:0 auf 2:1 COL angepasst"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 0,
+    "notes": "Kolumbien gewinnt knapp durch den spaeten Treffer von Daniel Munoz (76.) gegen die DR Kongo.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-24T03:00:00+02:00"
   },
@@ -3036,7 +3052,7 @@ window.WM_DATA = {
    "city": "Foxborough",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -3070,8 +3086,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 0,
+    "notes": "England und Ghana trennen sich torlos 0:0; trotz Druck der Three Lions bleibt Ghanas Defensive stabil.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-23T21:00:00+02:00"
   },
@@ -3093,7 +3117,7 @@ window.WM_DATA = {
    "city": "Toronto",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -3127,8 +3151,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 1,
+    "notes": "Kroatien gewinnt 1:0 in Panama durch Budimirs Treffer (54.).",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-24T00:00:00+02:00"
   },
@@ -3150,7 +3182,7 @@ window.WM_DATA = {
    "city": "Miami Gardens",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -3184,8 +3216,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 3,
+    "notes": "Brasilien gewinnt souveraen 3:0 durch Vinicius (7., 45+3) und Cunha (60.) und sichert sich Platz 1.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-24T23:00:00+02:00"
   },
@@ -3207,7 +3247,7 @@ window.WM_DATA = {
    "city": "Atlanta",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -3241,8 +3281,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 4,
+    "away": 2,
+    "notes": "Marokko siegt 4:2 (Hakimi 39., Saibari 45+1, Rahimi 78., Yassine 89.) gegen Haiti (Isidor 43. + Eigentor) und zieht ins Sechzehntelfinale ein.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-24T23:00:00+02:00"
   },
@@ -3264,7 +3312,7 @@ window.WM_DATA = {
    "city": "Vancouver",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -3298,8 +3346,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 1,
+    "notes": "Die Schweiz dreht in Vancouver auf: Vargas (46.) und Manzambi (57.) treffen, Promise David (76.) gelingt nur der Anschluss - SUI ueberholt Kanada an der Tabellenspitze.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-24T20:00:00+02:00"
   },
@@ -3321,7 +3377,7 @@ window.WM_DATA = {
    "city": "Seattle",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -3355,8 +3411,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 1,
+    "notes": "Bosnien gewinnt durch Alajbegovic (29.), ein Eigentor von Abunada (34.) und Mahmic (80.); Al-Haydos (42.) trifft fuer das bereits ausgeschiedene Katar.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-24T20:00:00+02:00"
   },
@@ -3378,7 +3442,7 @@ window.WM_DATA = {
    "city": "Mexiko-Stadt",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -3410,8 +3474,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 3,
+    "notes": "Mexiko gewinnt 3:0 durch Tore von M. Chavez (55.), Quinones (61.) und Fidalgo (90.+4) und schliesst die Gruppe makellos ab; Tschechien scheidet aus.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-25T02:00:00+02:00"
   },
@@ -3433,7 +3505,7 @@ window.WM_DATA = {
    "city": "Monterrey",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -3465,8 +3537,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 0,
+    "notes": "Suedafrika siegt 1:0 dank Masekos Treffer (63.) und zieht als Gruppenzweiter ins Sechzehntelfinale ein.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-25T02:00:00+02:00"
   },
@@ -3488,7 +3568,7 @@ window.WM_DATA = {
    "city": "Philadelphia",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -3522,8 +3602,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 2,
+    "notes": "Nicolas Pepe traf doppelt (7. und 64. Minute) und sicherte der Elfenbeinkueste einen 2:0-Sieg gegen Curacao.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-25T21:00:00+02:00"
   },
@@ -3545,7 +3633,7 @@ window.WM_DATA = {
    "city": "East Rutherford",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -3579,8 +3667,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 1,
+    "notes": "Sane brachte Deutschland frueh in Fuehrung (2.), doch Angulo (9.) und Plata (77.) drehten das Spiel zum 2:1-Sieg Ecuadors.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-25T21:00:00+02:00"
   },
@@ -3602,7 +3698,7 @@ window.WM_DATA = {
    "city": "Arlington",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -3636,8 +3732,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Japan und Schweden trennen sich 1:1: Daizen Maeda (56.) traf fuer Japan, Anthony Elanga (62.) glich fuer Schweden aus; beide Teams ziehen in die K.o.-Runde ein.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-26T00:00:00+02:00"
   },
@@ -3659,7 +3763,7 @@ window.WM_DATA = {
    "city": "Kansas City",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -3693,8 +3797,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 3,
+    "notes": "Die Niederlande gewinnen 3:1 und sichern Platz 1: fruehes Skhiri-Eigentor (3.) und Brobbey (7.), van Hecke (62.); Mastouri (54.) gelang nur der Ehrentreffer fuer Tunesien.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-26T00:00:00+02:00"
   },
@@ -3716,7 +3828,7 @@ window.WM_DATA = {
    "city": "Inglewood",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -3748,8 +3860,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 2,
+    "notes": "Tuerkei schlaegt die bereits als Gruppensieger feststehende USA durch Kaan Ayhans Tor in der Nachspielzeit; Trusty und Berhalter trafen fuer die USA, Guler und Kokcu/Yilmaz fuer die Tuerkei.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-26T03:00:00+02:00"
   },
@@ -3771,7 +3891,7 @@ window.WM_DATA = {
    "city": "Santa Clara",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -3803,8 +3923,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 0,
+    "notes": "Torloses Remis: Australien sichert sich mit dem Punkt Platz 2, Paraguay qualifiziert sich als einer der besten Gruppendritten.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-26T03:00:00+02:00"
   },
@@ -3826,7 +3954,7 @@ window.WM_DATA = {
    "city": "Foxborough",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -3860,8 +3988,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 4,
+    "notes": "Norwegen verlor 1:4 gegen Frankreich; Dembele erzielte einen Erstrhalbzeit-Hattrick (7., 20., 32.), Aasgaard (21.) traf zwischenzeitlich fuer Norwegen, Doue (90.+4) machte den Endstand.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-26T20:00:00+02:00"
   },
@@ -3883,7 +4019,7 @@ window.WM_DATA = {
    "city": "Toronto",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -3917,8 +4053,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 5,
+    "away": 0,
+    "notes": "Senegal fertigte Irak mit 5:0 ab; Tore durch Diarra (4.), I. Sarr (56.), Gueye (59., 71.) und Ndiaye (82.).",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-26T20:00:00+02:00"
   },
@@ -3940,7 +4084,7 @@ window.WM_DATA = {
    "city": "Seattle",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -3972,8 +4116,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Aegypten und Iran trennen sich 1:1: Saber (5.) traf fuer Aegypten, Rezaeian (14.) glich fuer den Iran aus; ein spaeter Iran-Treffer wurde per VAR wegen Abseits aberkannt.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-27T04:00:00+02:00"
   },
@@ -3995,7 +4147,7 @@ window.WM_DATA = {
    "city": "Vancouver",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -4027,8 +4179,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 5,
+    "notes": "Belgien gewinnt klar mit 5:1; Trossard (28., 50.) doppelt, De Bruyne (66.), Lukaku (86.) und Saelemaekers (90.+4) treffen, Just (84.) erzielt den NZL-Ehrentreffer.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-27T04:00:00+02:00"
   },
@@ -4050,7 +4210,7 @@ window.WM_DATA = {
    "city": "Houston",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -4082,8 +4242,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 0,
+    "notes": "Kap Verde und Saudi-Arabien trennten sich in Houston (NRG Stadium) torlos 0:0; durch das Remis sicherte sich Kap Verde als WM-Debütant Platz 2 und die K.o.-Runde.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-27T01:00:00+02:00"
   },
@@ -4105,7 +4273,7 @@ window.WM_DATA = {
    "city": "Guadalajara",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -4137,8 +4305,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 1,
+    "notes": "Spanien gewann im Estadio Akron in Zapopan 1:0 dank des Treffers von Álex Baena in der 42. Minute und wurde souverän Gruppensieger, Uruguay schied aus.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-27T01:00:00+02:00"
   },
@@ -4160,7 +4336,7 @@ window.WM_DATA = {
    "city": "East Rutherford",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -4194,8 +4370,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 2,
+    "notes": "England schlaegt Panama 2:0 mit Toren von Bellingham (62.) und Kane (67.) und sichert Platz 1.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-27T22:00:00+02:00"
   },
@@ -4217,7 +4401,7 @@ window.WM_DATA = {
    "city": "Philadelphia",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -4251,8 +4435,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 1,
+    "notes": "Kroatien besiegt Ghana 2:1 (Sucic 31., Vlasic 83.; Luckassen 73.) und zieht als Zweiter ins Sechzehntelfinale ein.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-27T22:00:00+02:00"
   },
@@ -4274,7 +4466,7 @@ window.WM_DATA = {
    "city": "Kansas City",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -4308,8 +4500,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 2,
+    "notes": "2:2 in Kansas City: Arnautovic (28.) und Sabitzer (55.) trafen fuer OEsterreich, Belghali (45.) und Mahrez (60.) glichen jeweils fuer Algerien aus.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-28T03:00:00+02:00"
   },
@@ -4331,7 +4531,7 @@ window.WM_DATA = {
    "city": "Arlington",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -4365,8 +4565,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 3,
+    "notes": "Argentinien gewinnt 3:1 in Dallas durch Lo Celso, Lautaro Martinez (Elfmeter) und einen Messi-Freistoss (79.); Al-Taamari (55.) erzielte Jordaniens Ehrentreffer.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-28T03:00:00+02:00"
   },
@@ -4388,7 +4596,7 @@ window.WM_DATA = {
    "city": "Miami Gardens",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -4420,8 +4628,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 0,
+    "notes": "Torloses Remis zwischen Kolumbien und Portugal, mit dem sich beide Teams fuer die K.o.-Runde sicherten.",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-28T00:30:00+02:00"
   },
@@ -4443,7 +4659,7 @@ window.WM_DATA = {
    "city": "Atlanta",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -4475,8 +4691,16 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 1,
+    "notes": "DR Kongo dreht das Spiel: Yoane Wissa (68. Elfmeter, 90+1) und Fiston Mayele (78.) drehen den fruehen Shomurodov-Treffer (10.).",
+    "at": "2026-06-28T10:58:14+02:00"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-28T00:30:00+02:00"
   },
@@ -4486,12 +4710,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Zweiter Gruppe A",
-   "awayPlaceholder": "Zweiter Gruppe B",
+   "home": "Südafrika",
+   "away": "Kanada",
+   "homeCode": "RSA",
+   "awayCode": "CAN",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-06-28T21:00:00+02:00",
    "kickoffLocal": "",
    "venue": "SoFi Stadium",
@@ -4499,9 +4723,37 @@ window.WM_DATA = {
    "feedsInto": 90,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 0,
+    "scoreAway": 1,
+    "winnerCode": "CAN",
+    "outcome": "2",
+    "confidence": "mittel",
+    "reasons": [
+     "Kanada bei Buchmachern Favorit (Moneyline ~-140, Weiterkommen -310); beide Teams als Gruppenzweite mit je 4 Punkten stark defensiv.",
+     "Tendenz zu wenig Toren: RSA traf bei jedem Turnierspiel maximal 1x, Kanada spielt abwartend – Under 2.5 erwartet, daher knappes 0:1.",
+     "Davies (Hamstring) fehlt Kanada offensiv; bei Gleichstand nach 90 Min evtl. n.V./Elfmeter, dann leicht favorisiertes Kanada vorn."
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 0,
+     "scoreAway": 1,
+     "winnerCode": "CAN",
+     "confidence": "mittel",
+     "reasons": [
+      "Kanada bei Buchmachern Favorit (Moneyline ~-140, Weiterkommen -310); beide Teams als Gruppenzweite mit je 4 Punkten stark defensiv.",
+      "Tendenz zu wenig Toren: RSA traf bei jedem Turnierspiel maximal 1x, Kanada spielt abwartend – Under 2.5 erwartet, daher knappes 0:1.",
+      "Davies (Hamstring) fehlt Kanada offensiv; bei Gleichstand nach 90 Min evtl. n.V./Elfmeter, dann leicht favorisiertes Kanada vorn."
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4513,12 +4765,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe E",
-   "awayPlaceholder": "Dritter Gruppe A/B/C/D/F",
+   "home": "Deutschland",
+   "away": "Paraguay",
+   "homeCode": "GER",
+   "awayCode": "PAR",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-06-29T22:30:00+02:00",
    "kickoffLocal": "",
    "venue": "Gillette Stadium",
@@ -4526,9 +4778,37 @@ window.WM_DATA = {
    "feedsInto": 89,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 0,
+    "winnerCode": "GER",
+    "outcome": "1",
+    "confidence": "hoch",
+    "reasons": [
+     "Deutschland gewann Gruppe E mit starker Offensive (u.a. 7:1 vs Curacao, 2:1 vs Elfenbeinkueste); Quoten klar pro DFB (ML -280, -700 aufs Weiterkommen).",
+     "Paraguay kam nur als schwaechster Gruppendritter weiter (4 Punkte, negative Tordifferenz, kaum Offensive) und muss die Sperre von Schluesselspieler Diego Gomez verkraften.",
+     "Mit Wirtz, Musiala und Havertz hat die individuelle Klasse Deutschlands deutliches Uebergewicht; Paraguays Tiefstapel duerfte spaet brechen."
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 0,
+     "winnerCode": "GER",
+     "confidence": "hoch",
+     "reasons": [
+      "Deutschland gewann Gruppe E mit starker Offensive (u.a. 7:1 vs Curacao, 2:1 vs Elfenbeinkueste); Quoten klar pro DFB (ML -280, -700 aufs Weiterkommen).",
+      "Paraguay kam nur als schwaechster Gruppendritter weiter (4 Punkte, negative Tordifferenz, kaum Offensive) und muss die Sperre von Schluesselspieler Diego Gomez verkraften.",
+      "Mit Wirtz, Musiala und Havertz hat die individuelle Klasse Deutschlands deutliches Uebergewicht; Paraguays Tiefstapel duerfte spaet brechen."
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4540,12 +4820,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe F",
-   "awayPlaceholder": "Zweiter Gruppe C",
+   "home": "Niederlande",
+   "away": "Marokko",
+   "homeCode": "NED",
+   "awayCode": "MAR",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-06-30T03:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Estadio BBVA",
@@ -4553,9 +4833,37 @@ window.WM_DATA = {
    "feedsInto": 90,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "NED",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "Oranje als Gruppensieger F mit starker Offensive (10 Tore in der Gruppe, u.a. 3:1 vs Tunesien), Buchmacher-Favorit (ca. -170).",
+     "Marokko defensiv extrem stabil (innerhalb 90 Min seit 32 Spielen ungeschlagen, Hakimi/Mazraoui/Saibari zurueck) - knappes, zaehes Spiel erwartet.",
+     "Bei moeglichem Gleichstand nach 90 Min decisive fuer NED durch individuelle Klasse (Gakpo, De Jong) - evtl. erst n.V./Elfmeter."
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "NED",
+     "confidence": "mittel",
+     "reasons": [
+      "Oranje als Gruppensieger F mit starker Offensive (10 Tore in der Gruppe, u.a. 3:1 vs Tunesien), Buchmacher-Favorit (ca. -170).",
+      "Marokko defensiv extrem stabil (innerhalb 90 Min seit 32 Spielen ungeschlagen, Hakimi/Mazraoui/Saibari zurueck) - knappes, zaehes Spiel erwartet.",
+      "Bei moeglichem Gleichstand nach 90 Min decisive fuer NED durch individuelle Klasse (Gakpo, De Jong) - evtl. erst n.V./Elfmeter."
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4567,12 +4875,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe C",
-   "awayPlaceholder": "Zweiter Gruppe F",
+   "home": "Brasilien",
+   "away": "Japan",
+   "homeCode": "BRA",
+   "awayCode": "JPN",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-06-29T19:00:00+02:00",
    "kickoffLocal": "",
    "venue": "NRG Stadium",
@@ -4580,9 +4888,37 @@ window.WM_DATA = {
    "feedsInto": 91,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 3,
+    "scoreAway": 1,
+    "winnerCode": "BRA",
+    "outcome": "1",
+    "confidence": "hoch",
+    "reasons": [
+     "Brasilien gewann Gruppe C dominant (7 Tore, 3:0 gg. Haiti & Schottland), Vinicius Jr. (4) und Cunha (3) in Topform",
+     "Japan stark in der Offensive (4:0 vs Tunesien, Remis gg. Niederlande & Schweden), aber defensiv der brasilianischen Qualitaet unterlegen",
+     "Quoten klar pro Brasilien (4/6 vs 9/2); individuelle Klasse und Kaderbreite geben den Ausschlag, Japan trifft zum Ehrentreffer"
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 3,
+     "scoreAway": 1,
+     "winnerCode": "BRA",
+     "confidence": "hoch",
+     "reasons": [
+      "Brasilien gewann Gruppe C dominant (7 Tore, 3:0 gg. Haiti & Schottland), Vinicius Jr. (4) und Cunha (3) in Topform",
+      "Japan stark in der Offensive (4:0 vs Tunesien, Remis gg. Niederlande & Schweden), aber defensiv der brasilianischen Qualitaet unterlegen",
+      "Quoten klar pro Brasilien (4/6 vs 9/2); individuelle Klasse und Kaderbreite geben den Ausschlag, Japan trifft zum Ehrentreffer"
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4594,12 +4930,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe I",
-   "awayPlaceholder": "Dritter Gruppe C/D/F/G/H",
+   "home": "Frankreich",
+   "away": "Schweden",
+   "homeCode": "FRA",
+   "awayCode": "SWE",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-06-30T23:00:00+02:00",
    "kickoffLocal": "",
    "venue": "MetLife Stadium",
@@ -4607,9 +4943,37 @@ window.WM_DATA = {
    "feedsInto": 89,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 3,
+    "scoreAway": 1,
+    "winnerCode": "FRA",
+    "outcome": "1",
+    "confidence": "hoch",
+    "reasons": [
+     "Frankreich gewann Gruppe I souveraen (3:1 Senegal, 3:0 Irak) und hat mit Dembele/Olise deutlich mehr individuelle Klasse als das nur als Gruppendritter knapp weitergekommene Schweden",
+     "Schweden zeigte in Gruppe F starke Schwankungen (5:1 Tunesien, aber klare Niederlage gegen Niederlande, 1:1 Japan) und steht defensiv gegen Frankreichs Tempo unter Druck",
+     "Frankreich ist klarer Favorit laut Quoten; Schweden traut man hoechstens den Ehrentreffer zu"
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 3,
+     "scoreAway": 1,
+     "winnerCode": "FRA",
+     "confidence": "hoch",
+     "reasons": [
+      "Frankreich gewann Gruppe I souveraen (3:1 Senegal, 3:0 Irak) und hat mit Dembele/Olise deutlich mehr individuelle Klasse als das nur als Gruppendritter knapp weitergekommene Schweden",
+      "Schweden zeigte in Gruppe F starke Schwankungen (5:1 Tunesien, aber klare Niederlage gegen Niederlande, 1:1 Japan) und steht defensiv gegen Frankreichs Tempo unter Druck",
+      "Frankreich ist klarer Favorit laut Quoten; Schweden traut man hoechstens den Ehrentreffer zu"
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4621,12 +4985,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Zweiter Gruppe E",
-   "awayPlaceholder": "Zweiter Gruppe I",
+   "home": "Elfenbeinküste",
+   "away": "Norwegen",
+   "homeCode": "CIV",
+   "awayCode": "NOR",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-06-30T19:00:00+02:00",
    "kickoffLocal": "",
    "venue": "AT&T Stadium",
@@ -4634,9 +4998,37 @@ window.WM_DATA = {
    "feedsInto": 91,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 1,
+    "scoreAway": 2,
+    "winnerCode": "NOR",
+    "outcome": "2",
+    "confidence": "mittel",
+    "reasons": [
+     "Norwegen ist laut Quoten leichter Favorit (Sieg-Quote ~+105, Weiterkommen -180) und brachte mit Haaland (4 Tore) die torgefaehrlichere Offensive (4:1 Irak, 3:2 Senegal).",
+     "Elfenbeinkueste ist physisch stark und defensiv solide (1:0 Ecuador, 2:0 Curacao, knapp 2:1 gegen Deutschland) – Solbakken warnt explizit vor dem 'physischen' Gegner, daher knappes Ergebnis.",
+     "Enge Partie moeglich; bei Gleichstand nach 90 Min entscheidet evtl. n.V./Elfmeter zugunsten der norwegischen Offensivqualitaet."
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "NOR",
+     "confidence": "mittel",
+     "reasons": [
+      "Norwegen ist laut Quoten leichter Favorit (Sieg-Quote ~+105, Weiterkommen -180) und brachte mit Haaland (4 Tore) die torgefaehrlichere Offensive (4:1 Irak, 3:2 Senegal).",
+      "Elfenbeinkueste ist physisch stark und defensiv solide (1:0 Ecuador, 2:0 Curacao, knapp 2:1 gegen Deutschland) – Solbakken warnt explizit vor dem 'physischen' Gegner, daher knappes Ergebnis.",
+      "Enge Partie moeglich; bei Gleichstand nach 90 Min entscheidet evtl. n.V./Elfmeter zugunsten der norwegischen Offensivqualitaet."
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4648,12 +5040,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe A",
-   "awayPlaceholder": "Dritter Gruppe C/E/F/H/I",
+   "home": "Mexiko",
+   "away": "Ecuador",
+   "homeCode": "MEX",
+   "awayCode": "ECU",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-01T03:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Estadio Azteca",
@@ -4661,9 +5053,37 @@ window.WM_DATA = {
    "feedsInto": 92,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "MEX",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "Mexiko gewann Gruppe A makellos mit 9 Punkten (3 Siege, 0 Gegentore) und hat Heimvorteil im Aztekenstadion",
+     "Ecuador kam nur als Gruppendritter mit 4 Punkten weiter (Remis, Niederlage, spaeter 2:1 gegen Deutschland) und war offensiv lange harmlos",
+     "Ecuadors Defensive ist zaeh, daher knapp - bei Gleichstand evtl. erst in der Verlaengerung/Elfmeterschiessen entschieden"
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "MEX",
+     "confidence": "mittel",
+     "reasons": [
+      "Mexiko gewann Gruppe A makellos mit 9 Punkten (3 Siege, 0 Gegentore) und hat Heimvorteil im Aztekenstadion",
+      "Ecuador kam nur als Gruppendritter mit 4 Punkten weiter (Remis, Niederlage, spaeter 2:1 gegen Deutschland) und war offensiv lange harmlos",
+      "Ecuadors Defensive ist zaeh, daher knapp - bei Gleichstand evtl. erst in der Verlaengerung/Elfmeterschiessen entschieden"
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4675,12 +5095,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe L",
-   "awayPlaceholder": "Dritter Gruppe E/H/I/J/K",
+   "home": "England",
+   "away": "DR Kongo",
+   "homeCode": "ENG",
+   "awayCode": "COD",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-01T18:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Mercedes-Benz Stadium",
@@ -4688,9 +5108,37 @@ window.WM_DATA = {
    "feedsInto": 92,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 0,
+    "winnerCode": "ENG",
+    "outcome": "1",
+    "confidence": "hoch",
+    "reasons": [
+     "England gewann Gruppe L souveraen (Croatia 4:2, Ghana 0:0, Panama 2:0) mit Kane/Bellingham in Topform",
+     "DR Kongo nur Gruppendritter (Niederlage gg. Kolumbien, Remis Portugal), kassierte gegen Topteams Gegentore",
+     "Klarer Favorit laut Quoten; Wissa/Mayele bleiben aber gefaehrlich bei Kontern, daher nur 2:0"
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 0,
+     "winnerCode": "ENG",
+     "confidence": "hoch",
+     "reasons": [
+      "England gewann Gruppe L souveraen (Croatia 4:2, Ghana 0:0, Panama 2:0) mit Kane/Bellingham in Topform",
+      "DR Kongo nur Gruppendritter (Niederlage gg. Kolumbien, Remis Portugal), kassierte gegen Topteams Gegentore",
+      "Klarer Favorit laut Quoten; Wissa/Mayele bleiben aber gefaehrlich bei Kontern, daher nur 2:0"
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4702,12 +5150,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe D",
-   "awayPlaceholder": "Dritter Gruppe B/E/F/I/J",
+   "home": "USA",
+   "away": "Bosnien und Herzegowina",
+   "homeCode": "USA",
+   "awayCode": "BIH",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-02T02:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Levi's Stadium",
@@ -4715,9 +5163,37 @@ window.WM_DATA = {
    "feedsInto": 94,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "USA",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "USA gewann Gruppe D als Gastgeber mit Heimvorteil (Santa Clara) und besserer Gesamtform; BIH nur Gruppendritter (1-1 Kanada, 1:4 Schweiz, 3:1 Katar).",
+     "BIH-Defensive anfaellig (4 Gegentore gegen Schweiz, oft unterlegen in Ballbesitz/xG) - USA kann das nutzen.",
+     "Routinier Dzeko (40) haelt BIH gefaehrlich; knappes Spiel moeglich, evtl. n.V./Elfmeter, daher decisive Tipp 2:1."
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "USA",
+     "confidence": "mittel",
+     "reasons": [
+      "USA gewann Gruppe D als Gastgeber mit Heimvorteil (Santa Clara) und besserer Gesamtform; BIH nur Gruppendritter (1-1 Kanada, 1:4 Schweiz, 3:1 Katar).",
+      "BIH-Defensive anfaellig (4 Gegentore gegen Schweiz, oft unterlegen in Ballbesitz/xG) - USA kann das nutzen.",
+      "Routinier Dzeko (40) haelt BIH gefaehrlich; knappes Spiel moeglich, evtl. n.V./Elfmeter, daher decisive Tipp 2:1."
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4729,12 +5205,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe G",
-   "awayPlaceholder": "Dritter Gruppe A/E/H/I/J",
+   "home": "Belgien",
+   "away": "Senegal",
+   "homeCode": "BEL",
+   "awayCode": "SEN",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-01T22:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Lumen Field",
@@ -4742,9 +5218,37 @@ window.WM_DATA = {
    "feedsInto": 94,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "BEL",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "Belgien als Gruppensieger (G) mit 5:1 gegen Neuseeland offensiv stark; Senegal nur Gruppendritter (3:1-Niederlage gegen Frankreich).",
+     "Buchmacher sehen Belgien als klaren Favoriten; mehr Erfahrung und individuelle Klasse (De Bruyne, Lukaku, Doku).",
+     "Senegals Physis und Tempo (Sarr, Jackson) koennen es eng machen - knappes Resultat, evtl. erst in der Verlaengerung/Elfmeter entschieden."
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "BEL",
+     "confidence": "mittel",
+     "reasons": [
+      "Belgien als Gruppensieger (G) mit 5:1 gegen Neuseeland offensiv stark; Senegal nur Gruppendritter (3:1-Niederlage gegen Frankreich).",
+      "Buchmacher sehen Belgien als klaren Favoriten; mehr Erfahrung und individuelle Klasse (De Bruyne, Lukaku, Doku).",
+      "Senegals Physis und Tempo (Sarr, Jackson) koennen es eng machen - knappes Resultat, evtl. erst in der Verlaengerung/Elfmeter entschieden."
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4756,12 +5260,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Zweiter Gruppe K",
-   "awayPlaceholder": "Zweiter Gruppe L",
+   "home": "Portugal",
+   "away": "Kroatien",
+   "homeCode": "POR",
+   "awayCode": "CRO",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-03T01:00:00+02:00",
    "kickoffLocal": "",
    "venue": "BMO Field",
@@ -4769,9 +5273,37 @@ window.WM_DATA = {
    "feedsInto": 93,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "POR",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "Portugal mit groesserer Offensiv-Qualitaet und historischem Vorteil (7 Siege aus 10 Duellen), beide als Gruppenzweite weiter (POR 5 Pkt., CRO 6 Pkt.)",
+     "Kroatiens starke Mittelfeldkontrolle macht es eng; letztes Duell endete 1:1 (Nations League 2024/25)",
+     "Knappe K.o.-Partie - bei Gleichstand nach 90 Min evtl. Entscheidung erst in der Verlaengerung/Elfmeterschiessen"
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "POR",
+     "confidence": "mittel",
+     "reasons": [
+      "Portugal mit groesserer Offensiv-Qualitaet und historischem Vorteil (7 Siege aus 10 Duellen), beide als Gruppenzweite weiter (POR 5 Pkt., CRO 6 Pkt.)",
+      "Kroatiens starke Mittelfeldkontrolle macht es eng; letztes Duell endete 1:1 (Nations League 2024/25)",
+      "Knappe K.o.-Partie - bei Gleichstand nach 90 Min evtl. Entscheidung erst in der Verlaengerung/Elfmeterschiessen"
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4783,12 +5315,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe H",
-   "awayPlaceholder": "Zweiter Gruppe J",
+   "home": "Spanien",
+   "away": "Oesterreich",
+   "homeCode": "ESP",
+   "awayCode": "AUT",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-02T21:00:00+02:00",
    "kickoffLocal": "",
    "venue": "SoFi Stadium",
@@ -4796,9 +5328,37 @@ window.WM_DATA = {
    "feedsInto": 93,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 0,
+    "winnerCode": "ESP",
+    "outcome": "1",
+    "confidence": "hoch",
+    "reasons": [
+     "Spanien dominant in Gruppe H: 2:0 gegen Uruguay und Saudi-Arabien, defensiv stabil um Rodri",
+     "Oesterreich nur Gruppenzweiter mit wackliger Abwehr (3:3 vs. Algerien, 6 Gegentore in 2 Spielen)",
+     "Hoehere Klasse/Kaderbreite Spaniens; AUT-Offensive (Arnautovic/Sabitzer) kann nur verkuerzen"
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 0,
+     "winnerCode": "ESP",
+     "confidence": "hoch",
+     "reasons": [
+      "Spanien dominant in Gruppe H: 2:0 gegen Uruguay und Saudi-Arabien, defensiv stabil um Rodri",
+      "Oesterreich nur Gruppenzweiter mit wackliger Abwehr (3:3 vs. Algerien, 6 Gegentore in 2 Spielen)",
+      "Hoehere Klasse/Kaderbreite Spaniens; AUT-Offensive (Arnautovic/Sabitzer) kann nur verkuerzen"
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4810,12 +5370,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe B",
-   "awayPlaceholder": "Dritter Gruppe E/F/G/I/J",
+   "home": "Schweiz",
+   "away": "Algerien",
+   "homeCode": "SUI",
+   "awayCode": "ALG",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-03T05:00:00+02:00",
    "kickoffLocal": "",
    "venue": "BC Place",
@@ -4823,9 +5383,37 @@ window.WM_DATA = {
    "feedsInto": 96,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "SUI",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "Schweiz als Gruppensieger (7 Pkt) defensiv stabiler und konstanter als Algerien",
+     "Algerien nur Gruppendritter (-2 Tordifferenz, wacklige Abwehr) - Mahrez aber jederzeit gefaehrlich",
+     "Enges Spiel, evtl. n.V./Elfmeter; Schweiz vorn etwas effizienter"
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "SUI",
+     "confidence": "mittel",
+     "reasons": [
+      "Schweiz als Gruppensieger (7 Pkt) defensiv stabiler und konstanter als Algerien",
+      "Algerien nur Gruppendritter (-2 Tordifferenz, wacklige Abwehr) - Mahrez aber jederzeit gefaehrlich",
+      "Enges Spiel, evtl. n.V./Elfmeter; Schweiz vorn etwas effizienter"
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4837,12 +5425,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe J",
-   "awayPlaceholder": "Zweiter Gruppe H",
+   "home": "Argentinien",
+   "away": "Kap Verde",
+   "homeCode": "ARG",
+   "awayCode": "CPV",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-04T00:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Hard Rock Stadium",
@@ -4850,9 +5438,37 @@ window.WM_DATA = {
    "feedsInto": 95,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 3,
+    "scoreAway": 0,
+    "winnerCode": "ARG",
+    "outcome": "1",
+    "confidence": "hoch",
+    "reasons": [
+     "Argentina als Titelverteidiger gewann die Gruppe souveraen (3:0 Algerien, 2:0 Oesterreich), Messi in Topform als WM-Rekordtorschuetze.",
+     "Kap Verde ist WM-Debuetant und kleinster K.o.-Teilnehmer aller Zeiten; defensiv stark (zwei 0:0 gegen Spanien/Saudi-Arabien), aber offensiv harmlos (kein Sieg).",
+     "Klares Quoten- und Klassengefaelle; Kap Verdes kompakte Abwehr verhindert wohl ein Debakel, Argentiniens Qualitaet setzt sich dennoch deutlich durch."
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 3,
+     "scoreAway": 0,
+     "winnerCode": "ARG",
+     "confidence": "hoch",
+     "reasons": [
+      "Argentina als Titelverteidiger gewann die Gruppe souveraen (3:0 Algerien, 2:0 Oesterreich), Messi in Topform als WM-Rekordtorschuetze.",
+      "Kap Verde ist WM-Debuetant und kleinster K.o.-Teilnehmer aller Zeiten; defensiv stark (zwei 0:0 gegen Spanien/Saudi-Arabien), aber offensiv harmlos (kein Sieg).",
+      "Klares Quoten- und Klassengefaelle; Kap Verdes kompakte Abwehr verhindert wohl ein Debakel, Argentiniens Qualitaet setzt sich dennoch deutlich durch."
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4864,12 +5480,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Gruppe K",
-   "awayPlaceholder": "Dritter Gruppe D/E/I/J/L",
+   "home": "Kolumbien",
+   "away": "Ghana",
+   "homeCode": "COL",
+   "awayCode": "GHA",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-04T03:30:00+02:00",
    "kickoffLocal": "",
    "venue": "Arrowhead Stadium",
@@ -4877,9 +5493,37 @@ window.WM_DATA = {
    "feedsInto": 96,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 0,
+    "winnerCode": "COL",
+    "outcome": "1",
+    "confidence": "hoch",
+    "reasons": [
+     "Kolumbien gewann Gruppe K ungeschlagen (7 Pkt., nur 1 Gegentor), Ghana kam nur als bester Gruppendritter weiter (4 Pkt., Niederlage gegen Kroatien).",
+     "Klar hoehere Kaderqualitaet und Offensivpower (James, Diaz, Lerma) gegen eine defensiv solide, aber harmlose ghanaische Offensive.",
+     "Quoten und Form sehen Kolumbien deutlich vorne; Ghana kann hinten dichtmachen, daher knapper Start, dann Kolumbien-Druck."
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 0,
+     "winnerCode": "COL",
+     "confidence": "hoch",
+     "reasons": [
+      "Kolumbien gewann Gruppe K ungeschlagen (7 Pkt., nur 1 Gegentor), Ghana kam nur als bester Gruppendritter weiter (4 Pkt., Niederlage gegen Kroatien).",
+      "Klar hoehere Kaderqualitaet und Offensivpower (James, Diaz, Lerma) gegen eine defensiv solide, aber harmlose ghanaische Offensive.",
+      "Quoten und Form sehen Kolumbien deutlich vorne; Ghana kann hinten dichtmachen, daher knapper Start, dann Kolumbien-Druck."
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -4891,12 +5535,12 @@ window.WM_DATA = {
    "group": "Sechzehntelfinale",
    "roundCode": "R32",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Zweiter Gruppe D",
-   "awayPlaceholder": "Zweiter Gruppe G",
+   "home": "Australien",
+   "away": "Ägypten",
+   "homeCode": "AUS",
+   "awayCode": "EGY",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-03T20:00:00+02:00",
    "kickoffLocal": "",
    "venue": "AT&T Stadium",
@@ -4904,9 +5548,37 @@ window.WM_DATA = {
    "feedsInto": 95,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 1,
+    "scoreAway": 2,
+    "winnerCode": "EGY",
+    "outcome": "2",
+    "confidence": "niedrig",
+    "reasons": [
+     "Ägypten unbeaten durch Gruppe G (5 Tore, 2 Remis, 1 Sieg) mit mehr Offensivpotenzial – Salah als Unterschiedsspieler.",
+     "Australien defensiv stabil (zwei 0:0-nahe Resultate), aber harmlos im Angriff (nur 2 Tore); enges, kampfbetontes Spiel erwartet.",
+     "Sehr ausgeglichene Partie zweier Gruppenzweiter – evtl. Entscheidung erst n.V./Elfmeter; Tipp daher knapp pro EGY."
+    ],
+    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "EGY",
+     "confidence": "niedrig",
+     "reasons": [
+      "Ägypten unbeaten durch Gruppe G (5 Tore, 2 Remis, 1 Sieg) mit mehr Offensivpotenzial – Salah als Unterschiedsspieler.",
+      "Australien defensiv stabil (zwei 0:0-nahe Resultate), aber harmlos im Angriff (nur 2 Tore); enges, kampfbetontes Spiel erwartet.",
+      "Sehr ausgeglichene Partie zweier Gruppenzweiter – evtl. Entscheidung erst n.V./Elfmeter; Tipp daher knapp pro EGY."
+     ],
+     "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
