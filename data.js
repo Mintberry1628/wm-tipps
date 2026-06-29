@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-28T11:39:57+02:00",
+  "lastUpdate": "2026-06-29T16:49:47+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -4722,7 +4722,7 @@ window.WM_DATA = {
    "city": "Inglewood",
    "feedsInto": 90,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -4736,7 +4736,7 @@ window.WM_DATA = {
      "Aufgrund der engen Natur eines K.-o.-Spiels ist ein Sieg Kanadas in der Verlängerung (n.V.) wahrscheinlich."
     ],
     "updatedAt": "2026-06-28T11:39:57+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "Tipp angepasst (vorher 0:1)"
    },
    "history": [
@@ -4767,8 +4767,17 @@ window.WM_DATA = {
      "changeNote": "Tipp angepasst (vorher 0:1)"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 1,
+    "notes": "Kanada gewann das Spiel in der Nachspielzeit durch ein Tor von Stephen Eustaquio (90.+2).",
+    "at": "2026-06-29T16:48:46+02:00",
+    "advancesCode": "CAN"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-28T20:00:00+02:00"
   },
@@ -4794,18 +4803,19 @@ window.WM_DATA = {
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
-    "scoreAway": 0,
+    "scoreAway": 1,
     "winnerCode": "GER",
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Deutschland gewann Gruppe E mit starker Offensive (u.a. 7:1 vs Curacao, 2:1 vs Elfenbeinkueste); Quoten klar pro DFB (ML -280, -700 aufs Weiterkommen).",
-     "Paraguay kam nur als schwaechster Gruppendritter weiter (4 Punkte, negative Tordifferenz, kaum Offensive) und verliert mit Almiron (Rote Karte vs Tuerkei) und Gomez (Sperre) gleich zwei Schluesselspieler.",
-     "Mit Wirtz, Musiala und Havertz hat die individuelle Klasse Deutschlands deutliches Uebergewicht; Schlotterbeck (Kniebandverletzung) faellt aus, Ruediger uebernimmt solide."
+     "Deutschland gilt als klarer Favorit und zeigte sich in der Gruppenphase offensiv stark.",
+     "Paraguay wird voraussichtlich defensiv agieren und auf Konter sowie Standardsituationen setzen, wobei Julio Enciso eine Schlüsselrolle spielt.",
+     "Trotz verletzungsbedingter Ausfälle in der deutschen Abwehr (Schlotterbeck, Karl) ist die Kadertiefe vorhanden.",
+     "Die Wettquoten favorisieren Deutschland deutlich."
     ],
-    "updatedAt": "2026-06-28T14:00:00+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-06-29T16:49:08+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 2:0)"
    },
    "history": [
     {
@@ -4820,6 +4830,20 @@ window.WM_DATA = {
      ],
      "at": "2026-06-28T10:58:14+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "GER",
+     "confidence": "hoch",
+     "reasons": [
+      "Deutschland gilt als klarer Favorit und zeigte sich in der Gruppenphase offensiv stark.",
+      "Paraguay wird voraussichtlich defensiv agieren und auf Konter sowie Standardsituationen setzen, wobei Julio Enciso eine Schlüsselrolle spielt.",
+      "Trotz verletzungsbedingter Ausfälle in der deutschen Abwehr (Schlotterbeck, Karl) ist die Kadertiefe vorhanden.",
+      "Die Wettquoten favorisieren Deutschland deutlich."
+     ],
+     "at": "2026-06-29T16:49:08+02:00",
+     "changeNote": "Tipp angepasst (vorher 2:0)"
     }
    ],
    "result": null,
@@ -4854,11 +4878,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Oranje als Gruppensieger F mit starker Offensive (10 Tore in der Gruppe, u.a. 3:1 vs Tunesien), Buchmacher-Favorit (ca. -170).",
-     "Marokko defensiv extrem stabil (innerhalb 90 Min seit 32 Spielen ungeschlagen, Hakimi/Mazraoui/Saibari zurueck) - knappes, zaehes Spiel erwartet.",
-     "Bei moeglichem Gleichstand nach 90 Min decisive fuer NED durch individuelle Klasse (Gakpo, De Jong) - evtl. erst n.V./Elfmeter."
+     "Niederlande historisch ein Top-Team mit starker Offensive.",
+     "Marokko hat sich in den letzten Jahren stark entwickelt und ist defensiv stabil.",
+     "Daten zu aktueller Form, Verletzungen, Sperren und Quoten für dieses zukünftige Spiel sind nicht verfügbar."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-06-29T16:49:14+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -4874,6 +4898,19 @@ window.WM_DATA = {
       "Bei moeglichem Gleichstand nach 90 Min decisive fuer NED durch individuelle Klasse (Gakpo, De Jong) - evtl. erst n.V./Elfmeter."
      ],
      "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "NED",
+     "confidence": "mittel",
+     "reasons": [
+      "Niederlande historisch ein Top-Team mit starker Offensive.",
+      "Marokko hat sich in den letzten Jahren stark entwickelt und ist defensiv stabil.",
+      "Daten zu aktueller Form, Verletzungen, Sperren und Quoten für dieses zukünftige Spiel sind nicht verfügbar."
+     ],
+     "at": "2026-06-29T16:49:14+02:00",
      "changeNote": null
     }
    ],
@@ -4903,19 +4940,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 3,
+    "scoreHome": 2,
     "scoreAway": 1,
     "winnerCode": "BRA",
     "outcome": "1",
-    "confidence": "hoch",
+    "confidence": "mittel",
     "reasons": [
-     "Brasilien gewann Gruppe C dominant (7 Tore, 3:0 gg. Haiti & Schottland), Vinicius Jr. (4) und Cunha (3) in Topform",
-     "Japan stark in der Offensive (4:0 vs Tunesien, Remis gg. Niederlande & Schweden), aber defensiv der brasilianischen Qualitaet unterlegen",
-     "Quoten klar pro Brasilien (4/6 vs 9/2); individuelle Klasse und Kaderbreite geben den Ausschlag, Japan trifft zum Ehrentreffer"
+     "Brasilien hat traditionell stärkere Einzelspieler.",
+     "Japan ist oft ein hartnäckiger Gegner.",
+     "Brasilien hat mehr Erfahrung in K.-o.-Spielen."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-06-29T16:49:26+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 3:1)"
    },
    "history": [
     {
@@ -4930,6 +4967,19 @@ window.WM_DATA = {
      ],
      "at": "2026-06-28T10:58:14+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "BRA",
+     "confidence": "mittel",
+     "reasons": [
+      "Brasilien hat traditionell stärkere Einzelspieler.",
+      "Japan ist oft ein hartnäckiger Gegner.",
+      "Brasilien hat mehr Erfahrung in K.-o.-Spielen."
+     ],
+     "at": "2026-06-29T16:49:26+02:00",
+     "changeNote": "Tipp angepasst (vorher 3:1)"
     }
    ],
    "result": null,
@@ -5019,11 +5069,11 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Norwegen ist laut Quoten leichter Favorit (Sieg-Quote ~+105, Weiterkommen -180) und brachte mit Haaland (4 Tore) die torgefaehrlichere Offensive (4:1 Irak, 3:2 Senegal).",
-     "Elfenbeinkueste ist physisch stark und defensiv solide (1:0 Ecuador, 2:0 Curacao, knapp 2:1 gegen Deutschland) – Solbakken warnt explizit vor dem 'physischen' Gegner, daher knappes Ergebnis.",
-     "Enge Partie moeglich; bei Gleichstand nach 90 Min entscheidet evtl. n.V./Elfmeter zugunsten der norwegischen Offensivqualitaet."
+     "Norwegen verfügt über Top-Torjäger Erling Haaland, der in Topform ist und bereits vier Tore im Turnier erzielt hat.",
+     "Die Elfenbeinküste zeigte zwar eine solide Defensive in der Qualifikation, zeigte aber auch Anfälligkeiten gegen stärkere Offensiven (Niederlage gegen Deutschland).",
+     "Norwegen konnte wichtige Spieler wie Haaland im letzten Gruppenspiel aus taktischen Gründen schonen und ist somit ausgeruhter."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-06-29T16:49:47+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5039,6 +5089,19 @@ window.WM_DATA = {
       "Enge Partie moeglich; bei Gleichstand nach 90 Min entscheidet evtl. n.V./Elfmeter zugunsten der norwegischen Offensivqualitaet."
      ],
      "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "NOR",
+     "confidence": "mittel",
+     "reasons": [
+      "Norwegen verfügt über Top-Torjäger Erling Haaland, der in Topform ist und bereits vier Tore im Turnier erzielt hat.",
+      "Die Elfenbeinküste zeigte zwar eine solide Defensive in der Qualifikation, zeigte aber auch Anfälligkeiten gegen stärkere Offensiven (Niederlage gegen Deutschland).",
+      "Norwegen konnte wichtige Spieler wie Haaland im letzten Gruppenspiel aus taktischen Gründen schonen und ist somit ausgeruhter."
+     ],
+     "at": "2026-06-29T16:49:47+02:00",
      "changeNote": null
     }
    ],
