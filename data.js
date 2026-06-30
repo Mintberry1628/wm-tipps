@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-29T16:49:47+02:00",
+  "lastUpdate": "2026-06-30T18:26:39+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -4799,7 +4799,7 @@ window.WM_DATA = {
    "city": "Foxborough",
    "feedsInto": 89,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -4814,7 +4814,7 @@ window.WM_DATA = {
      "Die Wettquoten favorisieren Deutschland deutlich."
     ],
     "updatedAt": "2026-06-29T16:49:08+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "Tipp angepasst (vorher 2:0)"
    },
    "history": [
@@ -4846,8 +4846,17 @@ window.WM_DATA = {
      "changeNote": "Tipp angepasst (vorher 2:0)"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Paraguay gewann nach Toren von Enciso (PAR) und Havertz (GER) im Elfmeterschießen mit 4:3.",
+    "at": "2026-06-30T18:24:27+02:00",
+    "advancesCode": "PAR"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-29T21:30:00+02:00"
   },
@@ -4869,7 +4878,7 @@ window.WM_DATA = {
    "city": "Monterrey",
    "feedsInto": 90,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -4914,8 +4923,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Cody Gakpo (72.) traf für die Niederlande, Issa Diop (90.+1) glich für Marokko aus. Marokko gewann das Elfmeterschießen mit 3:2.",
+    "at": "2026-06-30T18:24:32+02:00",
+    "advancesCode": "MAR"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-30T02:00:00+02:00"
   },
@@ -4937,7 +4955,7 @@ window.WM_DATA = {
    "city": "Houston",
    "feedsInto": 91,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -4951,7 +4969,7 @@ window.WM_DATA = {
      "Brasilien hat mehr Erfahrung in K.-o.-Spielen."
     ],
     "updatedAt": "2026-06-29T16:49:26+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "Tipp angepasst (vorher 3:1)"
    },
    "history": [
@@ -4982,8 +5000,17 @@ window.WM_DATA = {
      "changeNote": "Tipp angepasst (vorher 3:1)"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 1,
+    "notes": "Kaishu Sano brachte Japan in Führung, Casemiro glich aus, und Gabriel Martinelli erzielte in der Nachspielzeit den Siegtreffer für Brasilien.",
+    "at": "2026-06-30T18:24:36+02:00",
+    "advancesCode": "BRA"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-29T18:00:00+02:00"
   },
@@ -5014,11 +5041,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Frankreich gewann Gruppe I souveraen (3:1 Senegal, 3:0 Irak) und hat mit Dembele/Olise deutlich mehr individuelle Klasse als das nur als Gruppendritter knapp weitergekommene Schweden",
-     "Schweden zeigte in Gruppe F starke Schwankungen (5:1 Tunesien, aber klare Niederlage gegen Niederlande, 1:1 Japan) und steht defensiv gegen Frankreichs Tempo unter Druck",
-     "Frankreich ist klarer Favorit laut Quoten; Schweden traut man hoechstens den Ehrentreffer zu"
+     "Frankreich ist ein Topfavorit der WM 2026, hat die Gruppenphase souverän mit drei Siegen und 10:2 Toren abgeschlossen und verfügt über eine starke Offensive sowie Kaderbreite.",
+     "Schweden qualifizierte sich als Gruppendritter mit durchwachsenen Leistungen (ein Sieg, eine Niederlage, ein Unentschieden in der Gruppenphase).",
+     "Buchmacher und KI-Prognosen sehen Frankreich als klaren Sieger der Partie, wobei ein 3:1-Sieg mehrfach vorhergesagt wird."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-06-30T18:24:56+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5034,6 +5061,19 @@ window.WM_DATA = {
       "Frankreich ist klarer Favorit laut Quoten; Schweden traut man hoechstens den Ehrentreffer zu"
      ],
      "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 3,
+     "scoreAway": 1,
+     "winnerCode": "FRA",
+     "confidence": "hoch",
+     "reasons": [
+      "Frankreich ist ein Topfavorit der WM 2026, hat die Gruppenphase souverän mit drei Siegen und 10:2 Toren abgeschlossen und verfügt über eine starke Offensive sowie Kaderbreite.",
+      "Schweden qualifizierte sich als Gruppendritter mit durchwachsenen Leistungen (ein Sieg, eine Niederlage, ein Unentschieden in der Gruppenphase).",
+      "Buchmacher und KI-Prognosen sehen Frankreich als klaren Sieger der Partie, wobei ein 3:1-Sieg mehrfach vorhergesagt wird."
+     ],
+     "at": "2026-06-30T18:24:56+02:00",
      "changeNote": null
     }
    ],
@@ -5069,11 +5109,11 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Norwegen verfügt über Top-Torjäger Erling Haaland, der in Topform ist und bereits vier Tore im Turnier erzielt hat.",
-     "Die Elfenbeinküste zeigte zwar eine solide Defensive in der Qualifikation, zeigte aber auch Anfälligkeiten gegen stärkere Offensiven (Niederlage gegen Deutschland).",
-     "Norwegen konnte wichtige Spieler wie Haaland im letzten Gruppenspiel aus taktischen Gründen schonen und ist somit ausgeruhter."
+     "Norwegens Top-Offensive mit Haaland und Ødegaard, die im letzten Gruppenspiel geschont wurden, geht ausgeruht ins Spiel.",
+     "Die Elfenbeinküste zeigte in der Gruppenphase eine starke Defensive und Konterstärke, wird aber als Außenseiter gehandelt.",
+     "Norwegen gilt am Wettmarkt als klarer Favorit, trotz des Ausfalls von Julian Ryerson in der Abwehr."
     ],
-    "updatedAt": "2026-06-29T16:49:47+02:00",
+    "updatedAt": "2026-06-30T18:25:23+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5102,6 +5142,19 @@ window.WM_DATA = {
       "Norwegen konnte wichtige Spieler wie Haaland im letzten Gruppenspiel aus taktischen Gründen schonen und ist somit ausgeruhter."
      ],
      "at": "2026-06-29T16:49:47+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "NOR",
+     "confidence": "mittel",
+     "reasons": [
+      "Norwegens Top-Offensive mit Haaland und Ødegaard, die im letzten Gruppenspiel geschont wurden, geht ausgeruht ins Spiel.",
+      "Die Elfenbeinküste zeigte in der Gruppenphase eine starke Defensive und Konterstärke, wird aber als Außenseiter gehandelt.",
+      "Norwegen gilt am Wettmarkt als klarer Favorit, trotz des Ausfalls von Julian Ryerson in der Abwehr."
+     ],
+     "at": "2026-06-30T18:25:23+02:00",
      "changeNote": null
     }
    ],
@@ -5135,13 +5188,13 @@ window.WM_DATA = {
     "scoreAway": 1,
     "winnerCode": "MEX",
     "outcome": "1",
-    "confidence": "mittel",
+    "confidence": "hoch",
     "reasons": [
-     "Mexiko gewann Gruppe A makellos mit 9 Punkten (3 Siege, 0 Gegentore) und hat Heimvorteil im Aztekenstadion",
-     "Ecuador kam nur als Gruppendritter mit 4 Punkten weiter (Remis, Niederlage, spaeter 2:1 gegen Deutschland) und war offensiv lange harmlos",
-     "Ecuadors Defensive ist zaeh, daher knapp - bei Gleichstand evtl. erst in der Verlaengerung/Elfmeterschiessen entschieden"
+     "Mexiko zeigte eine exzellente Form in der Gruppenphase mit drei Siegen ohne Gegentor.",
+     "Der Heimvorteil im Estadio Azteca ist ein signifikanter Faktor für Mexiko.",
+     "Ecuador zeigte in der Gruppenphase inkonstante Leistungen, auch wenn sie Deutschland besiegten."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-06-30T18:25:43+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5157,6 +5210,19 @@ window.WM_DATA = {
       "Ecuadors Defensive ist zaeh, daher knapp - bei Gleichstand evtl. erst in der Verlaengerung/Elfmeterschiessen entschieden"
      ],
      "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "MEX",
+     "confidence": "hoch",
+     "reasons": [
+      "Mexiko zeigte eine exzellente Form in der Gruppenphase mit drei Siegen ohne Gegentor.",
+      "Der Heimvorteil im Estadio Azteca ist ein signifikanter Faktor für Mexiko.",
+      "Ecuador zeigte in der Gruppenphase inkonstante Leistungen, auch wenn sie Deutschland besiegten."
+     ],
+     "at": "2026-06-30T18:25:43+02:00",
      "changeNote": null
     }
    ],
@@ -5192,11 +5258,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "England gewann Gruppe L souveraen (Croatia 4:2, Ghana 0:0, Panama 2:0) mit Kane/Bellingham in Topform",
-     "DR Kongo nur Gruppendritter (Niederlage gg. Kolumbien, Remis Portugal), kassierte gegen Topteams Gegentore",
-     "Klarer Favorit laut Quoten; Wissa/Mayele bleiben aber gefaehrlich bei Kontern, daher nur 2:0"
+     "England ist historisch die deutlich stärkere Fussballnation.",
+     "DR Kongo hat in der Vergangenheit selten die K.o.-Phase internationaler Turniere erreicht.",
+     "Qualität und Breite des Kaders sprechen für England."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-06-30T18:25:46+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5212,6 +5278,19 @@ window.WM_DATA = {
       "Klarer Favorit laut Quoten; Wissa/Mayele bleiben aber gefaehrlich bei Kontern, daher nur 2:0"
      ],
      "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 0,
+     "winnerCode": "ENG",
+     "confidence": "hoch",
+     "reasons": [
+      "England ist historisch die deutlich stärkere Fussballnation.",
+      "DR Kongo hat in der Vergangenheit selten die K.o.-Phase internationaler Turniere erreicht.",
+      "Qualität und Breite des Kaders sprechen für England."
+     ],
+     "at": "2026-06-30T18:25:46+02:00",
      "changeNote": null
     }
    ],
@@ -5302,11 +5381,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Belgien als Gruppensieger (G) mit 5:1 gegen Neuseeland offensiv stark; Senegal nur Gruppendritter (3:1-Niederlage gegen Frankreich).",
-     "Buchmacher sehen Belgien als klaren Favoriten; mehr Erfahrung und individuelle Klasse (De Bruyne, Lukaku, Doku).",
-     "Senegals Physis und Tempo (Sarr, Jackson) koennen es eng machen - knappes Resultat, evtl. erst in der Verlaengerung/Elfmeter entschieden."
+     "Belgien hat eine höhere FIFA-Weltrangliste (Platz 9) und zuletzt 2018 den dritten Platz bei einer WM erreicht.",
+     "Senegal (Platz 15) ist eine physisch starke und disziplinierte Mannschaft und Afrikameister 2022 mit Schlüsselspielern.",
+     "Die Prognose basiert auf allgemeinen Teamstärken und historischen Leistungen, da spezifische Form-/Verletzungs-/Sperren-/Quoten-Daten für dieses zukünftige Spiel nicht verfügbar sind. Ein knapper Sieg für Belgien wird erwartet, möglicherweise nach Verlängerung."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-06-30T18:26:06+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5322,6 +5401,19 @@ window.WM_DATA = {
       "Senegals Physis und Tempo (Sarr, Jackson) koennen es eng machen - knappes Resultat, evtl. erst in der Verlaengerung/Elfmeter entschieden."
      ],
      "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "BEL",
+     "confidence": "mittel",
+     "reasons": [
+      "Belgien hat eine höhere FIFA-Weltrangliste (Platz 9) und zuletzt 2018 den dritten Platz bei einer WM erreicht.",
+      "Senegal (Platz 15) ist eine physisch starke und disziplinierte Mannschaft und Afrikameister 2022 mit Schlüsselspielern.",
+      "Die Prognose basiert auf allgemeinen Teamstärken und historischen Leistungen, da spezifische Form-/Verletzungs-/Sperren-/Quoten-Daten für dieses zukünftige Spiel nicht verfügbar sind. Ein knapper Sieg für Belgien wird erwartet, möglicherweise nach Verlängerung."
+     ],
+     "at": "2026-06-30T18:26:06+02:00",
      "changeNote": null
     }
    ],
@@ -5693,12 +5785,12 @@ window.WM_DATA = {
    "group": "Achtelfinale",
    "roundCode": "R16",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 73",
-   "awayPlaceholder": "Sieger Spiel 75",
+   "home": "Kanada",
+   "away": "Marokko",
+   "homeCode": "CAN",
+   "awayCode": "MAR",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-04T19:00:00+02:00",
    "kickoffLocal": "",
    "venue": "NRG Stadium",
@@ -5706,9 +5798,37 @@ window.WM_DATA = {
    "feedsInto": 97,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 1,
+    "scoreAway": 2,
+    "winnerCode": "MAR",
+    "outcome": "2",
+    "confidence": "mittel",
+    "reasons": [
+     "Marokkos taktische Stärke und mentale Robustheit, trotz physischer Belastung durch Verlängerung im Achtelfinale und weniger Erholungszeit.",
+     "Kanadas Offensive mit Jonathan David und Heimvorteil, jedoch mit Schlüsselverletzungen und gemischter Form in den Gruppenspielen.",
+     "Erwartung eines engen K.o.-Spiels, bei dem Marokko voraussichtlich in der Verlängerung (n.V.) die Oberhand behält."
+    ],
+    "updatedAt": "2026-06-30T18:26:39+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "MAR",
+     "confidence": "mittel",
+     "reasons": [
+      "Marokkos taktische Stärke und mentale Robustheit, trotz physischer Belastung durch Verlängerung im Achtelfinale und weniger Erholungszeit.",
+      "Kanadas Offensive mit Jonathan David und Heimvorteil, jedoch mit Schlüsselverletzungen und gemischter Form in den Gruppenspielen.",
+      "Erwartung eines engen K.o.-Spiels, bei dem Marokko voraussichtlich in der Verlängerung (n.V.) die Oberhand behält."
+     ],
+     "at": "2026-06-30T18:26:39+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
