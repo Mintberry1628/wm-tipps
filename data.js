@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-06-30T18:26:39+02:00",
+  "lastUpdate": "2026-07-01T15:42:05+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -5032,7 +5032,7 @@ window.WM_DATA = {
    "city": "East Rutherford",
    "feedsInto": 89,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -5077,8 +5077,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 0,
+    "notes": "Kylian Mbappé erzielte zwei Tore, Bradley Barcola eines; Michael Olise gab zwei Vorlagen.",
+    "at": "2026-07-01T15:35:32+02:00",
+    "advancesCode": "FRA"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-30T22:00:00+02:00"
   },
@@ -5100,7 +5109,7 @@ window.WM_DATA = {
    "city": "Arlington",
    "feedsInto": 91,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -5158,8 +5167,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 2,
+    "notes": "Antonio Nusa brachte Norwegen in Führung, Amad Diallo glich für die Elfenbeinküste aus, bevor Erling Haaland spät den Siegtreffer für Norwegen erzielte.",
+    "at": "2026-07-01T15:35:38+02:00",
+    "advancesCode": "NOR"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-06-30T18:00:00+02:00"
   },
@@ -5181,7 +5199,7 @@ window.WM_DATA = {
    "city": "Mexiko-Stadt",
    "feedsInto": 92,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -5226,8 +5244,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 0,
+    "notes": "Julian Quinones (22.) und Raul Jimenez (31.) erzielten die Tore für Mexiko in der ersten Halbzeit. Piero Hincapié von Ecuador erhielt spät im Spiel eine Rote Karte.",
+    "at": "2026-07-01T15:35:46+02:00",
+    "advancesCode": "MEX"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-01T02:00:00+02:00"
   },
@@ -5320,19 +5347,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 2,
+    "scoreHome": 3,
     "scoreAway": 1,
     "winnerCode": "USA",
     "outcome": "1",
-    "confidence": "mittel",
+    "confidence": "hoch",
     "reasons": [
-     "USA gewann Gruppe D als Gastgeber mit Heimvorteil (Santa Clara) und besserer Gesamtform; BIH nur Gruppendritter (1-1 Kanada, 1:4 Schweiz, 3:1 Katar).",
-     "BIH-Defensive anfaellig (4 Gegentore gegen Schweiz, oft unterlegen in Ballbesitz/xG) - USA kann das nutzen.",
-     "Routinier Dzeko (40) haelt BIH gefaehrlich; knappes Spiel moeglich, evtl. n.V./Elfmeter, daher decisive Tipp 2:1."
+     "USA als klarer Favorit und Gruppensieger mit starker Offensive in der Gruppenphase.",
+     "Bosnien-Herzegowina qualifizierte sich als Gruppendritter und zeigte in der Gruppenphase defensive Schwächen.",
+     "USA hat eine positive Bilanz in den direkten Duellen gegen Bosnien-Herzegowina und genießt Heimvorteil."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-01T15:41:04+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 2:1)"
    },
    "history": [
     {
@@ -5347,6 +5374,19 @@ window.WM_DATA = {
      ],
      "at": "2026-06-28T10:58:14+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 3,
+     "scoreAway": 1,
+     "winnerCode": "USA",
+     "confidence": "hoch",
+     "reasons": [
+      "USA als klarer Favorit und Gruppensieger mit starker Offensive in der Gruppenphase.",
+      "Bosnien-Herzegowina qualifizierte sich als Gruppendritter und zeigte in der Gruppenphase defensive Schwächen.",
+      "USA hat eine positive Bilanz in den direkten Duellen gegen Bosnien-Herzegowina und genießt Heimvorteil."
+     ],
+     "at": "2026-07-01T15:41:04+02:00",
+     "changeNote": "Tipp angepasst (vorher 2:1)"
     }
    ],
    "result": null,
@@ -5381,11 +5421,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Belgien hat eine höhere FIFA-Weltrangliste (Platz 9) und zuletzt 2018 den dritten Platz bei einer WM erreicht.",
-     "Senegal (Platz 15) ist eine physisch starke und disziplinierte Mannschaft und Afrikameister 2022 mit Schlüsselspielern.",
-     "Die Prognose basiert auf allgemeinen Teamstärken und historischen Leistungen, da spezifische Form-/Verletzungs-/Sperren-/Quoten-Daten für dieses zukünftige Spiel nicht verfügbar sind. Ein knapper Sieg für Belgien wird erwartet, möglicherweise nach Verlängerung."
+     "Belgien verfügt über eine Mischung aus erfahrenen und jungen Talenten und hat eine höhere FIFA-Weltranglistenposition.",
+     "Senegal ist physisch stark, schnell und international erfahren, was ein sehr enges Spiel erwarten lässt.",
+     "Trotz Senegals Stärken wird erwartet, dass sich Belgien in diesem hart umkämpften K.-o.-Spiel knapp durchsetzt."
     ],
-    "updatedAt": "2026-06-30T18:26:06+02:00",
+    "updatedAt": "2026-07-01T15:41:19+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5414,6 +5454,19 @@ window.WM_DATA = {
       "Die Prognose basiert auf allgemeinen Teamstärken und historischen Leistungen, da spezifische Form-/Verletzungs-/Sperren-/Quoten-Daten für dieses zukünftige Spiel nicht verfügbar sind. Ein knapper Sieg für Belgien wird erwartet, möglicherweise nach Verlängerung."
      ],
      "at": "2026-06-30T18:26:06+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "BEL",
+     "confidence": "mittel",
+     "reasons": [
+      "Belgien verfügt über eine Mischung aus erfahrenen und jungen Talenten und hat eine höhere FIFA-Weltranglistenposition.",
+      "Senegal ist physisch stark, schnell und international erfahren, was ein sehr enges Spiel erwarten lässt.",
+      "Trotz Senegals Stärken wird erwartet, dass sich Belgien in diesem hart umkämpften K.-o.-Spiel knapp durchsetzt."
+     ],
+     "at": "2026-07-01T15:41:19+02:00",
      "changeNote": null
     }
    ],
@@ -5499,18 +5552,18 @@ window.WM_DATA = {
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
-    "scoreAway": 0,
+    "scoreAway": 1,
     "winnerCode": "ESP",
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Spanien dominant in Gruppe H: 2:0 gegen Uruguay und Saudi-Arabien, defensiv stabil um Rodri",
-     "Oesterreich nur Gruppenzweiter mit wackliger Abwehr (3:3 vs. Algerien, 6 Gegentore in 2 Spielen)",
-     "Hoehere Klasse/Kaderbreite Spaniens; AUT-Offensive (Arnautovic/Sabitzer) kann nur verkuerzen"
+     "Spanien ist amtierender Europameister und Gruppenprimus ohne Gegentor mit 34 ungeschlagenen Spielen in Folge.",
+     "Trotz der Ausfälle von Nico Williams und Yéremy Pino verfügt Spanien über eine höhere individuelle Qualität und Kaderbreite.",
+     "Österreich hat sich zwar als kämpferischer Gegner erwiesen, zeigte in der Gruppenphase aber auch defensive Anfälligkeiten, während Spanien offensiv stark ist und K.o.-Erfahrung mitbringt."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-01T15:41:37+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 2:0)"
    },
    "history": [
     {
@@ -5525,6 +5578,19 @@ window.WM_DATA = {
      ],
      "at": "2026-06-28T10:58:14+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "ESP",
+     "confidence": "hoch",
+     "reasons": [
+      "Spanien ist amtierender Europameister und Gruppenprimus ohne Gegentor mit 34 ungeschlagenen Spielen in Folge.",
+      "Trotz der Ausfälle von Nico Williams und Yéremy Pino verfügt Spanien über eine höhere individuelle Qualität und Kaderbreite.",
+      "Österreich hat sich zwar als kämpferischer Gegner erwiesen, zeigte in der Gruppenphase aber auch defensive Anfälligkeiten, während Spanien offensiv stark ist und K.o.-Erfahrung mitbringt."
+     ],
+     "at": "2026-07-01T15:41:37+02:00",
+     "changeNote": "Tipp angepasst (vorher 2:0)"
     }
    ],
    "result": null,
@@ -5758,12 +5824,12 @@ window.WM_DATA = {
    "group": "Achtelfinale",
    "roundCode": "R16",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 74",
-   "awayPlaceholder": "Sieger Spiel 77",
+   "home": "Paraguay",
+   "away": "Frankreich",
+   "homeCode": "PAR",
+   "awayCode": "FRA",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-04T23:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Lincoln Financial Field",
@@ -5771,9 +5837,37 @@ window.WM_DATA = {
    "feedsInto": 97,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 0,
+    "scoreAway": 2,
+    "winnerCode": "FRA",
+    "outcome": "2",
+    "confidence": "hoch",
+    "reasons": [
+     "Frankreich ist Top-Favorit mit starker Form und Kadertiefe.",
+     "Kylian Mbappé in bestechender Verfassung.",
+     "Paraguay ist defensiv diszipliniert, gilt aber als klarer Außenseiter."
+    ],
+    "updatedAt": "2026-07-01T15:41:52+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 0,
+     "scoreAway": 2,
+     "winnerCode": "FRA",
+     "confidence": "hoch",
+     "reasons": [
+      "Frankreich ist Top-Favorit mit starker Form und Kadertiefe.",
+      "Kylian Mbappé in bestechender Verfassung.",
+      "Paraguay ist defensiv diszipliniert, gilt aber als klarer Außenseiter."
+     ],
+     "at": "2026-07-01T15:41:52+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -5840,12 +5934,12 @@ window.WM_DATA = {
    "group": "Achtelfinale",
    "roundCode": "R16",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 76",
-   "awayPlaceholder": "Sieger Spiel 78",
+   "home": "Brasilien",
+   "away": "Norwegen",
+   "homeCode": "BRA",
+   "awayCode": "NOR",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-05T22:00:00+02:00",
    "kickoffLocal": "",
    "venue": "MetLife Stadium",
@@ -5853,9 +5947,37 @@ window.WM_DATA = {
    "feedsInto": 99,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 0,
+    "winnerCode": "BRA",
+    "outcome": "1",
+    "confidence": "hoch",
+    "reasons": [
+     "Brasilien ist als Rekordweltmeister und Weltranglisten-6. ein Top-Favorit im Turnier.",
+     "Norwegen (FIFA-Rang 31) hat zwar talentierte Spieler wie Haaland, besitzt aber weniger Turniererfahrung und eine geringere Gesamtstärke.",
+     "Brasilien verfügt über einen erfahrenen Trainer und eine ausgewogene Mannschaft mit starker Offensive und Defensive."
+    ],
+    "updatedAt": "2026-07-01T15:42:05+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 0,
+     "winnerCode": "BRA",
+     "confidence": "hoch",
+     "reasons": [
+      "Brasilien ist als Rekordweltmeister und Weltranglisten-6. ein Top-Favorit im Turnier.",
+      "Norwegen (FIFA-Rang 31) hat zwar talentierte Spieler wie Haaland, besitzt aber weniger Turniererfahrung und eine geringere Gesamtstärke.",
+      "Brasilien verfügt über einen erfahrenen Trainer und eine ausgewogene Mannschaft mit starker Offensive und Defensive."
+     ],
+     "at": "2026-07-01T15:42:05+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
