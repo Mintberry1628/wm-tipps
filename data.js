@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-01T15:42:05+02:00",
+  "lastUpdate": "2026-07-02T18:09:14+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -5276,7 +5276,7 @@ window.WM_DATA = {
    "city": "Atlanta",
    "feedsInto": 92,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -5321,8 +5321,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 1,
+    "notes": "DR Congo ging früh durch Brian Cipenga in Führung, aber Harry Kane erzielte zwei späte Tore, um Englands Comeback-Sieg zu sichern und das Weiterkommen ins Achtelfinale zu besiegeln.",
+    "at": "2026-07-02T18:06:41+02:00",
+    "advancesCode": "ENG"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-01T17:00:00+02:00"
   },
@@ -5344,7 +5353,7 @@ window.WM_DATA = {
    "city": "Santa Clara",
    "feedsInto": 94,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -5358,7 +5367,7 @@ window.WM_DATA = {
      "USA hat eine positive Bilanz in den direkten Duellen gegen Bosnien-Herzegowina und genießt Heimvorteil."
     ],
     "updatedAt": "2026-07-01T15:41:04+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "Tipp angepasst (vorher 2:1)"
    },
    "history": [
@@ -5389,8 +5398,17 @@ window.WM_DATA = {
      "changeNote": "Tipp angepasst (vorher 2:1)"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 0,
+    "notes": "Folarin Balogun und Malik Tillman erzielten die Tore für die USA. Balogun erhielt in der 64. Minute eine rote Karte.",
+    "at": "2026-07-02T18:06:45+02:00",
+    "advancesCode": "USA"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-02T01:00:00+02:00"
   },
@@ -5412,7 +5430,7 @@ window.WM_DATA = {
    "city": "Seattle",
    "feedsInto": 94,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -5470,8 +5488,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 2,
+    "notes": "Belgien drehte einen 0:2-Rückstand durch Tore von Lukaku und Tielemans in der regulären Spielzeit und gewann durch einen Elfmeter von Tielemans in der Verlängerung.",
+    "at": "2026-07-02T18:06:50+02:00",
+    "advancesCode": "BEL"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-01T21:00:00+02:00"
   },
@@ -5502,11 +5529,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Portugal mit groesserer Offensiv-Qualitaet und historischem Vorteil (7 Siege aus 10 Duellen), beide als Gruppenzweite weiter (POR 5 Pkt., CRO 6 Pkt.)",
-     "Kroatiens starke Mittelfeldkontrolle macht es eng; letztes Duell endete 1:1 (Nations League 2024/25)",
-     "Knappe K.o.-Partie - bei Gleichstand nach 90 Min evtl. Entscheidung erst in der Verlaengerung/Elfmeterschiessen"
+     "Portugal besitzt eine höhere individuelle Qualität und Kaderbreite.",
+     "Kroatien ist bekannt für seine K.o.-Stärke und taktische Disziplin, jedoch ist die volle Fitness von Schlüsselspieler Luka Modric nach einer Verletzung fraglich.",
+     "Die Buchmacher sehen Portugal als Favoriten, es wird jedoch ein enges Spiel erwartet, das möglicherweise erst in der Verlängerung entschieden wird (n.V.)."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-07-02T18:07:09+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5522,6 +5549,19 @@ window.WM_DATA = {
       "Knappe K.o.-Partie - bei Gleichstand nach 90 Min evtl. Entscheidung erst in der Verlaengerung/Elfmeterschiessen"
      ],
      "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "POR",
+     "confidence": "mittel",
+     "reasons": [
+      "Portugal besitzt eine höhere individuelle Qualität und Kaderbreite.",
+      "Kroatien ist bekannt für seine K.o.-Stärke und taktische Disziplin, jedoch ist die volle Fitness von Schlüsselspieler Luka Modric nach einer Verletzung fraglich.",
+      "Die Buchmacher sehen Portugal als Favoriten, es wird jedoch ein enges Spiel erwartet, das möglicherweise erst in der Verlängerung entschieden wird (n.V.)."
+     ],
+     "at": "2026-07-02T18:07:09+02:00",
      "changeNote": null
     }
    ],
@@ -5557,13 +5597,13 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Spanien ist amtierender Europameister und Gruppenprimus ohne Gegentor mit 34 ungeschlagenen Spielen in Folge.",
-     "Trotz der Ausfälle von Nico Williams und Yéremy Pino verfügt Spanien über eine höhere individuelle Qualität und Kaderbreite.",
-     "Österreich hat sich zwar als kämpferischer Gegner erwiesen, zeigte in der Gruppenphase aber auch defensive Anfälligkeiten, während Spanien offensiv stark ist und K.o.-Erfahrung mitbringt."
+     "Spanien ist der klare Favorit und zeigte eine starke Defensive in der Gruppenphase.",
+     "Trotz Verletzungssorgen hat Spanien die höhere individuelle Qualität und Turniererfahrung.",
+     "Österreich hat offensive Ansätze, aber auch defensive Anfälligkeiten gezeigt."
     ],
-    "updatedAt": "2026-07-01T15:41:37+02:00",
-    "changed": true,
-    "changeNote": "Tipp angepasst (vorher 2:0)"
+    "updatedAt": "2026-07-02T18:07:25+02:00",
+    "changed": false,
+    "changeNote": null
    },
    "history": [
     {
@@ -5591,6 +5631,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-01T15:41:37+02:00",
      "changeNote": "Tipp angepasst (vorher 2:0)"
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "ESP",
+     "confidence": "hoch",
+     "reasons": [
+      "Spanien ist der klare Favorit und zeigte eine starke Defensive in der Gruppenphase.",
+      "Trotz Verletzungssorgen hat Spanien die höhere individuelle Qualität und Turniererfahrung.",
+      "Österreich hat offensive Ansätze, aber auch defensive Anfälligkeiten gezeigt."
+     ],
+     "at": "2026-07-02T18:07:25+02:00",
+     "changeNote": null
     }
    ],
    "result": null,
@@ -5623,13 +5676,13 @@ window.WM_DATA = {
     "scoreAway": 1,
     "winnerCode": "SUI",
     "outcome": "1",
-    "confidence": "mittel",
+    "confidence": "hoch",
     "reasons": [
-     "Schweiz als Gruppensieger (7 Pkt) defensiv stabiler und konstanter als Algerien",
-     "Algerien nur Gruppendritter (-2 Tordifferenz, wacklige Abwehr) - Mahrez aber jederzeit gefaehrlich",
-     "Enges Spiel, evtl. n.V./Elfmeter; Schweiz vorn etwas effizienter"
+     "Die Schweiz geht mit einer ausgezeichneten Form und neun ungeschlagenen Spielen in die Partie, wobei sie als taktisch disziplinierte Mannschaft bekannt ist.",
+     "Algerien zeigt Offensivpotenzial, ist aber defensiv anfälliger, wie die sieben Gegentore in den letzten fünf Spielen zeigen.",
+     "Experten und KI-Prognosen sehen die Schweiz als leichten Favoriten für einen knappen Sieg, oft mit einem Ergebnis von 2:1."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-07-02T18:07:43+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5645,6 +5698,19 @@ window.WM_DATA = {
       "Enges Spiel, evtl. n.V./Elfmeter; Schweiz vorn etwas effizienter"
      ],
      "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "SUI",
+     "confidence": "hoch",
+     "reasons": [
+      "Die Schweiz geht mit einer ausgezeichneten Form und neun ungeschlagenen Spielen in die Partie, wobei sie als taktisch disziplinierte Mannschaft bekannt ist.",
+      "Algerien zeigt Offensivpotenzial, ist aber defensiv anfälliger, wie die sieben Gegentore in den letzten fünf Spielen zeigen.",
+      "Experten und KI-Prognosen sehen die Schweiz als leichten Favoriten für einen knappen Sieg, oft mit einem Ergebnis von 2:1."
+     ],
+     "at": "2026-07-02T18:07:43+02:00",
      "changeNote": null
     }
    ],
@@ -5680,11 +5746,12 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Argentina als Titelverteidiger gewann die Gruppe souveraen (3:0 Algerien, 2:0 Oesterreich), Messi in Topform als WM-Rekordtorschuetze.",
-     "Kap Verde ist WM-Debuetant und kleinster K.o.-Teilnehmer aller Zeiten; defensiv stark (zwei 0:0 gegen Spanien/Saudi-Arabien), aber offensiv harmlos (kein Sieg).",
-     "Klares Quoten- und Klassengefaelle; Kap Verdes kompakte Abwehr verhindert wohl ein Debakel, Argentiniens Qualitaet setzt sich dennoch deutlich durch."
+     "Argentinien ist amtierender Weltmeister und Weltranglistenerster, Kap Verde ist WM-Debütant und auf Platz 67 der FIFA-Weltrangliste.",
+     "Argentinien zeigte eine starke Form mit zehn Siegen in Folge in der WM und 8:1 Toren in der Gruppenphase.",
+     "Kap Verde qualifizierte sich mit drei Unentschieden und ohne Gruppensieg und ist defensiv orientiert, aber offensiv limitiert.",
+     "Die Wettquoten sprechen klar für einen Sieg Argentiniens (z.B. 1.14 für Argentinien, 18.00 für Kap Verde bei Tipico)."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
+    "updatedAt": "2026-07-02T18:07:58+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5700,6 +5767,20 @@ window.WM_DATA = {
       "Klares Quoten- und Klassengefaelle; Kap Verdes kompakte Abwehr verhindert wohl ein Debakel, Argentiniens Qualitaet setzt sich dennoch deutlich durch."
      ],
      "at": "2026-06-28T10:58:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 3,
+     "scoreAway": 0,
+     "winnerCode": "ARG",
+     "confidence": "hoch",
+     "reasons": [
+      "Argentinien ist amtierender Weltmeister und Weltranglistenerster, Kap Verde ist WM-Debütant und auf Platz 67 der FIFA-Weltrangliste.",
+      "Argentinien zeigte eine starke Form mit zehn Siegen in Folge in der WM und 8:1 Toren in der Gruppenphase.",
+      "Kap Verde qualifizierte sich mit drei Unentschieden und ohne Gruppensieg und ist defensiv orientiert, aber offensiv limitiert.",
+      "Die Wettquoten sprechen klar für einen Sieg Argentiniens (z.B. 1.14 für Argentinien, 18.00 für Kap Verde bei Tipico)."
+     ],
+     "at": "2026-07-02T18:07:58+02:00",
      "changeNote": null
     }
    ],
@@ -5784,19 +5865,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 1,
-    "scoreAway": 2,
+    "scoreHome": 0,
+    "scoreAway": 1,
     "winnerCode": "EGY",
     "outcome": "2",
     "confidence": "niedrig",
     "reasons": [
-     "Ägypten unbeaten durch Gruppe G (5 Tore, 2 Remis, 1 Sieg) mit mehr Offensivpotenzial – Salah als Unterschiedsspieler.",
-     "Australien defensiv stabil (zwei 0:0-nahe Resultate), aber harmlos im Angriff (nur 2 Tore); enges, kampfbetontes Spiel erwartet.",
-     "Sehr ausgeglichene Partie zweier Gruppenzweiter – evtl. Entscheidung erst n.V./Elfmeter; Tipp daher knapp pro EGY."
+     "Ägypten wird trotz Verletzungssorgen als leichter Favorit gehandelt.",
+     "Australien zeichnet sich durch eine disziplinierte und defensivstarke Spielweise aus.",
+     "Der potenzielle Ausfall von Superstar Mohamed Salah (Oberschenkelzerrung) stellt eine erhebliche Schwächung für Ägyptens Offensive dar."
     ],
-    "updatedAt": "2026-06-28T10:58:14+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-02T18:08:32+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 1:2)"
    },
    "history": [
     {
@@ -5811,6 +5892,19 @@ window.WM_DATA = {
      ],
      "at": "2026-06-28T10:58:14+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 0,
+     "scoreAway": 1,
+     "winnerCode": "EGY",
+     "confidence": "niedrig",
+     "reasons": [
+      "Ägypten wird trotz Verletzungssorgen als leichter Favorit gehandelt.",
+      "Australien zeichnet sich durch eine disziplinierte und defensivstarke Spielweise aus.",
+      "Der potenzielle Ausfall von Superstar Mohamed Salah (Oberschenkelzerrung) stellt eine erhebliche Schwächung für Ägyptens Offensive dar."
+     ],
+     "at": "2026-07-02T18:08:32+02:00",
+     "changeNote": "Tipp angepasst (vorher 1:2)"
     }
    ],
    "result": null,
@@ -5989,12 +6083,12 @@ window.WM_DATA = {
    "group": "Achtelfinale",
    "roundCode": "R16",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 79",
-   "awayPlaceholder": "Sieger Spiel 80",
+   "home": "Mexiko",
+   "away": "England",
+   "homeCode": "MEX",
+   "awayCode": "ENG",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-06T02:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Estadio Azteca",
@@ -6002,9 +6096,37 @@ window.WM_DATA = {
    "feedsInto": 99,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 0,
+    "scoreAway": 1,
+    "winnerCode": "ENG",
+    "outcome": "2",
+    "confidence": "mittel",
+    "reasons": [
+     "England verfügt über eine höhere individuelle Kaderqualität und gilt als einer der Top-Favoriten des Turniers.",
+     "Mexiko spielt vor heimischem Publikum und zeigte eine beeindruckende, gegentorlose Leistung in der Gruppenphase und im Achtelfinale.",
+     "Trotz des Heimvorteils und der starken Defensive Mexikos wird Englands Qualität voraussichtlich den entscheidenden Unterschied machen."
+    ],
+    "updatedAt": "2026-07-02T18:08:52+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 0,
+     "scoreAway": 1,
+     "winnerCode": "ENG",
+     "confidence": "mittel",
+     "reasons": [
+      "England verfügt über eine höhere individuelle Kaderqualität und gilt als einer der Top-Favoriten des Turniers.",
+      "Mexiko spielt vor heimischem Publikum und zeigte eine beeindruckende, gegentorlose Leistung in der Gruppenphase und im Achtelfinale.",
+      "Trotz des Heimvorteils und der starken Defensive Mexikos wird Englands Qualität voraussichtlich den entscheidenden Unterschied machen."
+     ],
+     "at": "2026-07-02T18:08:52+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -6043,12 +6165,12 @@ window.WM_DATA = {
    "group": "Achtelfinale",
    "roundCode": "R16",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 81",
-   "awayPlaceholder": "Sieger Spiel 82",
+   "home": "Vereinigte Staaten",
+   "away": "Belgien",
+   "homeCode": "USA",
+   "awayCode": "BEL",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-07T02:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Lumen Field",
@@ -6056,9 +6178,37 @@ window.WM_DATA = {
    "feedsInto": 98,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 1,
+    "scoreAway": 2,
+    "winnerCode": "BEL",
+    "outcome": "2",
+    "confidence": "mittel",
+    "reasons": [
+     "Die USA müssen auf ihren besten Torschützen Folarin Balogun aufgrund einer Rotsperre verzichten.",
+     "Belgien zeigte im Achtelfinale Comeback-Qualitäten und verfügt über eine erfahrene Offensive mit Spielern wie Romelu Lukaku.",
+     "Die historische Bilanz und FIFA-Rankings sprechen eher für Belgien, es wird jedoch eine knappe Partie erwartet, eventuell mit Verlängerung."
+    ],
+    "updatedAt": "2026-07-02T18:09:14+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "BEL",
+     "confidence": "mittel",
+     "reasons": [
+      "Die USA müssen auf ihren besten Torschützen Folarin Balogun aufgrund einer Rotsperre verzichten.",
+      "Belgien zeigte im Achtelfinale Comeback-Qualitäten und verfügt über eine erfahrene Offensive mit Spielern wie Romelu Lukaku.",
+      "Die historische Bilanz und FIFA-Rankings sprechen eher für Belgien, es wird jedoch eine knappe Partie erwartet, eventuell mit Verlängerung."
+     ],
+     "at": "2026-07-02T18:09:14+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
