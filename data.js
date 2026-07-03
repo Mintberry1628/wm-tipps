@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-02T18:09:14+02:00",
+  "lastUpdate": "2026-07-03T07:03:28+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -5588,7 +5588,7 @@ window.WM_DATA = {
    "city": "Inglewood",
    "feedsInto": 93,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -5646,8 +5646,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 0,
+    "notes": "Mikel Oyarzabal traf doppelt, Pedro Porro einmal für Spanien.",
+    "at": "2026-07-03T07:03:11+02:00",
+    "advancesCode": "ESP"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-02T20:00:00+02:00"
   },
@@ -5746,12 +5755,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Argentinien ist amtierender Weltmeister und Weltranglistenerster, Kap Verde ist WM-Debütant und auf Platz 67 der FIFA-Weltrangliste.",
-     "Argentinien zeigte eine starke Form mit zehn Siegen in Folge in der WM und 8:1 Toren in der Gruppenphase.",
-     "Kap Verde qualifizierte sich mit drei Unentschieden und ohne Gruppensieg und ist defensiv orientiert, aber offensiv limitiert.",
-     "Die Wettquoten sprechen klar für einen Sieg Argentiniens (z.B. 1.14 für Argentinien, 18.00 für Kap Verde bei Tipico)."
+     "Argentinien hat eine überragende Kaderqualität und Erfahrung.",
+     "Kap Verde ist ein klarer Außenseiter im Vergleich.",
+     "Argentinien ist der amtierende Weltmeister."
     ],
-    "updatedAt": "2026-07-02T18:07:58+02:00",
+    "updatedAt": "2026-07-03T07:03:13+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -5781,6 +5789,19 @@ window.WM_DATA = {
       "Die Wettquoten sprechen klar für einen Sieg Argentiniens (z.B. 1.14 für Argentinien, 18.00 für Kap Verde bei Tipico)."
      ],
      "at": "2026-07-02T18:07:58+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 3,
+     "scoreAway": 0,
+     "winnerCode": "ARG",
+     "confidence": "hoch",
+     "reasons": [
+      "Argentinien hat eine überragende Kaderqualität und Erfahrung.",
+      "Kap Verde ist ein klarer Außenseiter im Vergleich.",
+      "Argentinien ist der amtierende Weltmeister."
+     ],
+     "at": "2026-07-03T07:03:13+02:00",
      "changeNote": null
     }
    ],
