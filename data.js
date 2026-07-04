@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-03T07:03:28+02:00",
+  "lastUpdate": "2026-07-04T16:40:51+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -5520,7 +5520,7 @@ window.WM_DATA = {
    "city": "Toronto",
    "feedsInto": 93,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -5565,8 +5565,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 1,
+    "notes": "Portugal gewann durch Tore von Cristiano Ronaldo und Gonçalo Ramos, nachdem Ivan Perisic Kroatien in Führung gebracht hatte; ein später Ausgleich Kroatiens wurde per VAR aberkannt.",
+    "at": "2026-07-04T16:40:15+02:00",
+    "advancesCode": "POR"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-03T00:00:00+02:00"
   },
@@ -5678,7 +5687,7 @@ window.WM_DATA = {
    "city": "Vancouver",
    "feedsInto": 96,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -5723,8 +5732,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 0,
+    "notes": "Breel Embolo (10.) und Dan Ndoye (46.) erzielten die Tore für die Schweiz, die souverän ins Achtelfinale einzog.",
+    "at": "2026-07-04T16:40:19+02:00",
+    "advancesCode": "SUI"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-03T04:00:00+02:00"
   },
@@ -5746,7 +5764,7 @@ window.WM_DATA = {
    "city": "Miami Gardens",
    "feedsInto": 95,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -5805,8 +5823,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 2,
+    "notes": "Argentinien gewann nach Verlängerung, nachdem Kap Verde zweimal den Ausgleich erzielt hatte, wobei ein Eigentor die Entscheidung brachte.",
+    "at": "2026-07-04T16:40:28+02:00",
+    "advancesCode": "ARG"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-03T23:00:00+02:00"
   },
@@ -5828,7 +5855,7 @@ window.WM_DATA = {
    "city": "Kansas City",
    "feedsInto": 96,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -5860,8 +5887,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 0,
+    "notes": "Jhon Arias erzielte das einzige Tor in der 14. Minute; Ghana hatte keinen einzigen Torschuss.",
+    "at": "2026-07-04T16:40:33+02:00",
+    "advancesCode": "COL"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-04T02:30:00+02:00"
   },
@@ -5883,7 +5919,7 @@ window.WM_DATA = {
    "city": "Arlington",
    "feedsInto": 95,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -5897,7 +5933,7 @@ window.WM_DATA = {
      "Der potenzielle Ausfall von Superstar Mohamed Salah (Oberschenkelzerrung) stellt eine erhebliche Schwächung für Ägyptens Offensive dar."
     ],
     "updatedAt": "2026-07-02T18:08:32+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "Tipp angepasst (vorher 1:2)"
    },
    "history": [
@@ -5928,8 +5964,17 @@ window.WM_DATA = {
      "changeNote": "Tipp angepasst (vorher 1:2)"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 1,
+    "notes": "Emam Ashour traf für Ägypten in der 13. Minute, Mohamed Hany erzielte in der 55. Minute ein Eigentor für Australien. Ägypten gewann das Elfmeterschießen mit 4:2.",
+    "at": "2026-07-04T16:40:37+02:00",
+    "advancesCode": "EGY"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-03T19:00:00+02:00"
   },
@@ -5955,18 +6000,18 @@ window.WM_DATA = {
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
-    "scoreAway": 2,
+    "scoreAway": 3,
     "winnerCode": "FRA",
     "outcome": "2",
     "confidence": "hoch",
     "reasons": [
-     "Frankreich ist Top-Favorit mit starker Form und Kadertiefe.",
-     "Kylian Mbappé in bestechender Verfassung.",
-     "Paraguay ist defensiv diszipliniert, gilt aber als klarer Außenseiter."
+     "Frankreich verfügt über eine überragende Kaderqualität und eine sehr starke Offensive.",
+     "Der direkte Vergleich spricht historisch klar für Frankreich, mit drei Siegen und zwei Unentschieden in fünf Begegnungen.",
+     "Paraguay ist in der FIFA-Weltrangliste deutlich niedriger platziert und gilt als klarer Außenseiter."
     ],
-    "updatedAt": "2026-07-01T15:41:52+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-04T16:40:51+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 0:2)"
    },
    "history": [
     {
@@ -5981,6 +6026,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-01T15:41:52+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 0,
+     "scoreAway": 3,
+     "winnerCode": "FRA",
+     "confidence": "hoch",
+     "reasons": [
+      "Frankreich verfügt über eine überragende Kaderqualität und eine sehr starke Offensive.",
+      "Der direkte Vergleich spricht historisch klar für Frankreich, mit drei Siegen und zwei Unentschieden in fünf Begegnungen.",
+      "Paraguay ist in der FIFA-Weltrangliste deutlich niedriger platziert und gilt als klarer Außenseiter."
+     ],
+     "at": "2026-07-04T16:40:51+02:00",
+     "changeNote": "Tipp angepasst (vorher 0:2)"
     }
    ],
    "result": null,
@@ -6159,12 +6217,12 @@ window.WM_DATA = {
    "group": "Achtelfinale",
    "roundCode": "R16",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 83",
-   "awayPlaceholder": "Sieger Spiel 84",
+   "home": "Portugal",
+   "away": "Spanien",
+   "homeCode": "POR",
+   "awayCode": "ESP",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-06T21:00:00+02:00",
    "kickoffLocal": "",
    "venue": "AT&T Stadium",
@@ -6172,7 +6230,7 @@ window.WM_DATA = {
    "feedsInto": 98,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
+   "teamsKnown": true,
    "prediction": null,
    "history": [],
    "result": null,
@@ -6241,12 +6299,12 @@ window.WM_DATA = {
    "group": "Achtelfinale",
    "roundCode": "R16",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 86",
-   "awayPlaceholder": "Sieger Spiel 88",
+   "home": "Argentinien",
+   "away": "Aegypten",
+   "homeCode": "ARG",
+   "awayCode": "EGY",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-07T18:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Mercedes-Benz Stadium",
@@ -6254,7 +6312,7 @@ window.WM_DATA = {
    "feedsInto": 100,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
+   "teamsKnown": true,
    "prediction": null,
    "history": [],
    "result": null,
@@ -6268,12 +6326,12 @@ window.WM_DATA = {
    "group": "Achtelfinale",
    "roundCode": "R16",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 85",
-   "awayPlaceholder": "Sieger Spiel 87",
+   "home": "Schweiz",
+   "away": "Kolumbien",
+   "homeCode": "SUI",
+   "awayCode": "COL",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-07T22:00:00+02:00",
    "kickoffLocal": "",
    "venue": "BC Place",
@@ -6281,7 +6339,7 @@ window.WM_DATA = {
    "feedsInto": 100,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
+   "teamsKnown": true,
    "prediction": null,
    "history": [],
    "result": null,
