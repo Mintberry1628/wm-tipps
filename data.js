@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-04T16:40:51+02:00",
+  "lastUpdate": "2026-07-04T21:56:22+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -6231,8 +6231,36 @@ window.WM_DATA = {
    "loserFeedsInto": null,
    "status": "geplant",
    "teamsKnown": true,
-   "prediction": null,
-   "history": [],
+   "prediction": {
+    "scoreHome": 1,
+    "scoreAway": 2,
+    "winnerCode": "ESP",
+    "outcome": "2",
+    "confidence": "niedrig",
+    "reasons": [
+     "Spanien in bestechender Form: 35 Spiele ungeschlagen, noch kein Gegentor bei der WM (3:0 vs. Oesterreich), Titelverteidiger mit mehr Substanz",
+     "Portugal komplett fit und torgefaehrlich (Ronaldo 4 Tore, 2:1 vs. Kroatien), aber Spaniens Ballbesitz/Defensive duerften knapp den Ausschlag geben",
+     "Sehr enges Duell, Gleichstand nach 90 Min. moeglich - evtl. n.V./Elfmeter; Ausfall Nico Williams schwaecht Spaniens Offensive leicht"
+    ],
+    "updatedAt": "2026-07-04T21:56:22+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ESP",
+     "confidence": "niedrig",
+     "reasons": [
+      "Spanien in bestechender Form: 35 Spiele ungeschlagen, noch kein Gegentor bei der WM (3:0 vs. Oesterreich), Titelverteidiger mit mehr Substanz",
+      "Portugal komplett fit und torgefaehrlich (Ronaldo 4 Tore, 2:1 vs. Kroatien), aber Spaniens Ballbesitz/Defensive duerften knapp den Ausschlag geben",
+      "Sehr enges Duell, Gleichstand nach 90 Min. moeglich - evtl. n.V./Elfmeter; Ausfall Nico Williams schwaecht Spaniens Offensive leicht"
+     ],
+     "at": "2026-07-04T21:56:22+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -6313,8 +6341,36 @@ window.WM_DATA = {
    "loserFeedsInto": null,
    "status": "geplant",
    "teamsKnown": true,
-   "prediction": null,
-   "history": [],
+   "prediction": {
+    "scoreHome": 3,
+    "scoreAway": 1,
+    "winnerCode": "ARG",
+    "outcome": "1",
+    "confidence": "hoch",
+    "reasons": [
+     "Argentinien makellos in Gruppe J und mit Messi (7 Tore, Golden-Boot-Favorit) in Topform, deutlich groessere Kaderqualitaet",
+     "Aegypten kam nur muehsam weiter (1:1, 4:2 i.E. gegen Australien), 120 Min in den Beinen und Salah angeschlagen und zuletzt wirkungslos",
+     "Aegyptens Abwehr wirkte anfaellig (Eigentor, fruehe Wackler) - Argentiniens Offensive sollte das ausnutzen"
+    ],
+    "updatedAt": "2026-07-04T21:56:22+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 3,
+     "scoreAway": 1,
+     "winnerCode": "ARG",
+     "confidence": "hoch",
+     "reasons": [
+      "Argentinien makellos in Gruppe J und mit Messi (7 Tore, Golden-Boot-Favorit) in Topform, deutlich groessere Kaderqualitaet",
+      "Aegypten kam nur muehsam weiter (1:1, 4:2 i.E. gegen Australien), 120 Min in den Beinen und Salah angeschlagen und zuletzt wirkungslos",
+      "Aegyptens Abwehr wirkte anfaellig (Eigentor, fruehe Wackler) - Argentiniens Offensive sollte das ausnutzen"
+     ],
+     "at": "2026-07-04T21:56:22+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -6340,8 +6396,36 @@ window.WM_DATA = {
    "loserFeedsInto": null,
    "status": "geplant",
    "teamsKnown": true,
-   "prediction": null,
-   "history": [],
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "SUI",
+    "outcome": "1",
+    "confidence": "niedrig",
+    "reasons": [
+     "Schweiz reist mit der treffsichereren Offensive an (9 Tore in 4 Spielen, u.a. 4:1 gg. Bosnien) und ist ungeschlagen Gruppensieger",
+     "Kolumbien defensiv sehr stabil (nur 2 Gegentore), aber offensiv zuletzt harmlos (drei magere Spiele) - zudem Cordoba mit Leistenverletzung fraglich",
+     "Sehr enges K.-o.-Duell zweier Gruppensieger, Gleichstand nach 90 Min. gut moeglich - evtl. n.V./Elfmeter"
+    ],
+    "updatedAt": "2026-07-04T21:56:22+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "SUI",
+     "confidence": "niedrig",
+     "reasons": [
+      "Schweiz reist mit der treffsichereren Offensive an (9 Tore in 4 Spielen, u.a. 4:1 gg. Bosnien) und ist ungeschlagen Gruppensieger",
+      "Kolumbien defensiv sehr stabil (nur 2 Gegentore), aber offensiv zuletzt harmlos (drei magere Spiele) - zudem Cordoba mit Leistenverletzung fraglich",
+      "Sehr enges K.-o.-Duell zweier Gruppensieger, Gleichstand nach 90 Min. gut moeglich - evtl. n.V./Elfmeter"
+     ],
+     "at": "2026-07-04T21:56:22+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
