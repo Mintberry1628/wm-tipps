@@ -10,7 +10,7 @@ Aufrufe:
   python update_bot.py --selftest   # ohne API: zeigt nur, was zu tun waere
   python update_bot.py              # echter Lauf (braucht GEMINI_API_KEY)
 """
-import json, io, os, sys, datetime, re
+import json, io, os, sys, datetime, re, time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data.js")
@@ -115,16 +115,56 @@ def select(data):
     return need_result, need_pred
 
 # ---------- Claude-Aufrufe ----------
-def llm_json(client, prompt):
-    """Ein Gemini-Aufruf mit Google-Suche (Grounding); parst JSON aus dem Antworttext."""
+def _extract_json(text):
+    """Erstes balanciertes {...}-Objekt aus dem Text holen (robuster als Greedy-Regex)."""
+    if not text:
+        return None
+    start = text.find("{")
+    while start >= 0:
+        depth = 0
+        for i in range(start, len(text)):
+            if text[i] == "{":
+                depth += 1
+            elif text[i] == "}":
+                depth -= 1
+                if depth == 0:
+                    try:
+                        return json.loads(text[start:i+1])
+                    except Exception:
+                        break  # naechstes '{' versuchen
+        start = text.find("{", start + 1)
+    return None
+
+def _gen_text(client, prompt, grounding):
     from google.genai import types
-    cfg = types.GenerateContentConfig(tools=[types.Tool(google_search=types.GoogleSearch())])
+    cfg = None
+    if grounding:
+        cfg = types.GenerateContentConfig(tools=[types.Tool(google_search=types.GoogleSearch())])
     resp = client.models.generate_content(model=MODEL, contents=prompt, config=cfg)
-    text = resp.text or ""
-    mobj = re.search(r"\{.*\}", text, re.S)
-    if not mobj:
-        raise ValueError("Keine JSON-Antwort: " + text[:200])
-    return json.loads(mobj.group(0))
+    txt = resp.text or ""
+    if not txt and getattr(resp, "candidates", None):  # bei Grounding kann .text leer sein
+        parts = []
+        for c in resp.candidates:
+            for p in getattr(getattr(c, "content", None), "parts", None) or []:
+                if getattr(p, "text", None):
+                    parts.append(p.text)
+        txt = "".join(parts)
+    return txt
+
+def llm_json(client, prompt):
+    """Gemini-Aufruf, robust: 3 Versuche (letzter ohne Websuche), balancierte JSON-Extraktion."""
+    last = ""
+    for attempt in range(3):
+        try:
+            txt = _gen_text(client, prompt, grounding=(attempt < 2))
+            last = txt or last
+            obj = _extract_json(txt)
+            if obj is not None:
+                return obj
+        except Exception as e:
+            last = str(e)
+        time.sleep(2)
+    raise ValueError("Keine JSON-Antwort nach 3 Versuchen: " + last[:300])
 
 def research_result(client, m):
     ko = D(m["kickoffBerlin"]).strftime("%d.%m.%Y")
