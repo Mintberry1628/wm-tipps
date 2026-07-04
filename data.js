@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-04T21:56:22+02:00",
+  "lastUpdate": "2026-07-04T22:03:26+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -6005,13 +6005,13 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "hoch",
     "reasons": [
-     "Frankreich verfügt über eine überragende Kaderqualität und eine sehr starke Offensive.",
-     "Der direkte Vergleich spricht historisch klar für Frankreich, mit drei Siegen und zwei Unentschieden in fünf Begegnungen.",
-     "Paraguay ist in der FIFA-Weltrangliste deutlich niedriger platziert und gilt als klarer Außenseiter."
+     "Frankreich verfügt über herausragende individuelle Qualität und eine große Kaderbreite.",
+     "Frankreich zeigte sich im Turnier konstant als Top-Team mit starker Offensive (mindestens drei Tore pro Spiel).",
+     "Paraguay ist defensiv stark, aber offensiv eher limitiert und auf Konter angewiesen."
     ],
-    "updatedAt": "2026-07-04T16:40:51+02:00",
-    "changed": true,
-    "changeNote": "Tipp angepasst (vorher 0:2)"
+    "updatedAt": "2026-07-04T22:03:09+02:00",
+    "changed": false,
+    "changeNote": null
    },
    "history": [
     {
@@ -6039,6 +6039,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-04T16:40:51+02:00",
      "changeNote": "Tipp angepasst (vorher 0:2)"
+    },
+    {
+     "scoreHome": 0,
+     "scoreAway": 3,
+     "winnerCode": "FRA",
+     "confidence": "hoch",
+     "reasons": [
+      "Frankreich verfügt über herausragende individuelle Qualität und eine große Kaderbreite.",
+      "Frankreich zeigte sich im Turnier konstant als Top-Team mit starker Offensive (mindestens drei Tore pro Spiel).",
+      "Paraguay ist defensiv stark, aber offensiv eher limitiert und auf Konter angewiesen."
+     ],
+     "at": "2026-07-04T22:03:09+02:00",
+     "changeNote": null
     }
    ],
    "result": null,
@@ -6064,7 +6077,7 @@ window.WM_DATA = {
    "city": "Houston",
    "feedsInto": 97,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -6096,8 +6109,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 3,
+    "notes": "Azzedine Ounahi traf doppelt, Soufiane Rahimi erzielte das dritte Tor in der Nachspielzeit.",
+    "at": "2026-07-04T22:02:55+02:00",
+    "advancesCode": "MAR"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-04T18:00:00+02:00"
   },
@@ -6123,18 +6145,18 @@ window.WM_DATA = {
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
-    "scoreAway": 0,
+    "scoreAway": 1,
     "winnerCode": "BRA",
     "outcome": "1",
-    "confidence": "hoch",
+    "confidence": "mittel",
     "reasons": [
-     "Brasilien ist als Rekordweltmeister und Weltranglisten-6. ein Top-Favorit im Turnier.",
-     "Norwegen (FIFA-Rang 31) hat zwar talentierte Spieler wie Haaland, besitzt aber weniger Turniererfahrung und eine geringere Gesamtstärke.",
-     "Brasilien verfügt über einen erfahrenen Trainer und eine ausgewogene Mannschaft mit starker Offensive und Defensive."
+     "Brasilien ist historisch und aktuell höher eingestuft und verfügt über talentierte Angreifer.",
+     "Norwegen zeigte in dieser WM starke Leistungen und hat mit Haaland und Ødegaard gefährliche Einzelspieler.",
+     "Trotz norwegischer Erfolge in der K.-o.-Runde ist Brasilien der Favorit."
     ],
-    "updatedAt": "2026-07-01T15:42:05+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-04T22:03:22+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 2:0)"
    },
    "history": [
     {
@@ -6149,6 +6171,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-01T15:42:05+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "BRA",
+     "confidence": "mittel",
+     "reasons": [
+      "Brasilien ist historisch und aktuell höher eingestuft und verfügt über talentierte Angreifer.",
+      "Norwegen zeigte in dieser WM starke Leistungen und hat mit Haaland und Ødegaard gefährliche Einzelspieler.",
+      "Trotz norwegischer Erfolge in der K.-o.-Runde ist Brasilien der Favorit."
+     ],
+     "at": "2026-07-04T22:03:22+02:00",
+     "changeNote": "Tipp angepasst (vorher 2:0)"
     }
    ],
    "result": null,
@@ -6177,19 +6212,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 0,
-    "scoreAway": 1,
+    "scoreHome": 1,
+    "scoreAway": 2,
     "winnerCode": "ENG",
     "outcome": "2",
-    "confidence": "mittel",
+    "confidence": "niedrig",
     "reasons": [
-     "England verfügt über eine höhere individuelle Kaderqualität und gilt als einer der Top-Favoriten des Turniers.",
-     "Mexiko spielt vor heimischem Publikum und zeigte eine beeindruckende, gegentorlose Leistung in der Gruppenphase und im Achtelfinale.",
-     "Trotz des Heimvorteils und der starken Defensive Mexikos wird Englands Qualität voraussichtlich den entscheidenden Unterschied machen."
+     "England hat tendenziell stärkere individuelle Qualität.",
+     "England's Erfahrung in K.o.-Phasen größer.",
+     "Aktuelle Form/Verletzungen/Sperren/Quoten sind für das zukünftige Spiel nicht ermittelbar."
     ],
-    "updatedAt": "2026-07-02T18:08:52+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-04T22:03:26+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 0:1)"
    },
    "history": [
     {
@@ -6204,6 +6239,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-02T18:08:52+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ENG",
+     "confidence": "niedrig",
+     "reasons": [
+      "England hat tendenziell stärkere individuelle Qualität.",
+      "England's Erfahrung in K.o.-Phasen größer.",
+      "Aktuelle Form/Verletzungen/Sperren/Quoten sind für das zukünftige Spiel nicht ermittelbar."
+     ],
+     "at": "2026-07-04T22:03:26+02:00",
+     "changeNote": "Tipp angepasst (vorher 0:1)"
     }
    ],
    "result": null,
