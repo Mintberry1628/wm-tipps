@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-04T22:03:26+02:00",
+  "lastUpdate": "2026-07-05T20:07:42+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -5996,7 +5996,7 @@ window.WM_DATA = {
    "city": "Philadelphia",
    "feedsInto": 97,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 0,
@@ -6054,8 +6054,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 1,
+    "notes": "Kylian Mbappé erzielte in der 70. Minute per Elfmeter das einzige Tor des Spiels und sicherte Frankreich den Viertelfinaleinzug.",
+    "at": "2026-07-05T20:06:12+02:00",
+    "advancesCode": "FRA"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-04T22:00:00+02:00"
   },
@@ -6144,19 +6153,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 2,
+    "scoreHome": 3,
     "scoreAway": 1,
     "winnerCode": "BRA",
     "outcome": "1",
-    "confidence": "mittel",
+    "confidence": "hoch",
     "reasons": [
-     "Brasilien ist historisch und aktuell höher eingestuft und verfügt über talentierte Angreifer.",
-     "Norwegen zeigte in dieser WM starke Leistungen und hat mit Haaland und Ødegaard gefährliche Einzelspieler.",
-     "Trotz norwegischer Erfolge in der K.-o.-Runde ist Brasilien der Favorit."
+     "Brasilien ist laut Wettquoten und Expertenprognosen der klare Favorit.",
+     "Brasilien verfügt über eine starke Offensive und hohe individuelle Klasse.",
+     "Norwegen hat sich defensiv stabil gezeigt und besitzt mit Erling Haaland hohe Torgefahr."
     ],
-    "updatedAt": "2026-07-04T22:03:22+02:00",
+    "updatedAt": "2026-07-05T20:06:25+02:00",
     "changed": true,
-    "changeNote": "Tipp angepasst (vorher 2:0)"
+    "changeNote": "Tipp angepasst (vorher 2:1)"
    },
    "history": [
     {
@@ -6184,6 +6193,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-04T22:03:22+02:00",
      "changeNote": "Tipp angepasst (vorher 2:0)"
+    },
+    {
+     "scoreHome": 3,
+     "scoreAway": 1,
+     "winnerCode": "BRA",
+     "confidence": "hoch",
+     "reasons": [
+      "Brasilien ist laut Wettquoten und Expertenprognosen der klare Favorit.",
+      "Brasilien verfügt über eine starke Offensive und hohe individuelle Klasse.",
+      "Norwegen hat sich defensiv stabil gezeigt und besitzt mit Erling Haaland hohe Torgefahr."
+     ],
+     "at": "2026-07-05T20:06:25+02:00",
+     "changeNote": "Tipp angepasst (vorher 2:1)"
     }
    ],
    "result": null,
@@ -6216,15 +6238,15 @@ window.WM_DATA = {
     "scoreAway": 2,
     "winnerCode": "ENG",
     "outcome": "2",
-    "confidence": "niedrig",
+    "confidence": "mittel",
     "reasons": [
-     "England hat tendenziell stärkere individuelle Qualität.",
-     "England's Erfahrung in K.o.-Phasen größer.",
-     "Aktuelle Form/Verletzungen/Sperren/Quoten sind für das zukünftige Spiel nicht ermittelbar."
+     "England verfügt über höhere individuelle Qualität und eine starke Offensive, angeführt von Harry Kane.",
+     "Mexikos Heimvorteil im Estadio Azteca und die Höhenlage stellen eine erhebliche Herausforderung dar und könnten das Spiel erschweren.",
+     "Trotz Mexikos bisher makelloser Defensive und Heimstärke wird sich Englands Erfahrung und Kaderbreite voraussichtlich durchsetzen."
     ],
-    "updatedAt": "2026-07-04T22:03:26+02:00",
-    "changed": true,
-    "changeNote": "Tipp angepasst (vorher 0:1)"
+    "updatedAt": "2026-07-05T20:06:44+02:00",
+    "changed": false,
+    "changeNote": null
    },
    "history": [
     {
@@ -6252,6 +6274,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-04T22:03:26+02:00",
      "changeNote": "Tipp angepasst (vorher 0:1)"
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ENG",
+     "confidence": "mittel",
+     "reasons": [
+      "England verfügt über höhere individuelle Qualität und eine starke Offensive, angeführt von Harry Kane.",
+      "Mexikos Heimvorteil im Estadio Azteca und die Höhenlage stellen eine erhebliche Herausforderung dar und könnten das Spiel erschweren.",
+      "Trotz Mexikos bisher makelloser Defensive und Heimstärke wird sich Englands Erfahrung und Kaderbreite voraussichtlich durchsetzen."
+     ],
+     "at": "2026-07-05T20:06:44+02:00",
+     "changeNote": null
     }
    ],
    "result": null,
@@ -6284,13 +6319,13 @@ window.WM_DATA = {
     "scoreAway": 2,
     "winnerCode": "ESP",
     "outcome": "2",
-    "confidence": "niedrig",
+    "confidence": "mittel",
     "reasons": [
-     "Spanien in bestechender Form: 35 Spiele ungeschlagen, noch kein Gegentor bei der WM (3:0 vs. Oesterreich), Titelverteidiger mit mehr Substanz",
-     "Portugal komplett fit und torgefaehrlich (Ronaldo 4 Tore, 2:1 vs. Kroatien), aber Spaniens Ballbesitz/Defensive duerften knapp den Ausschlag geben",
-     "Sehr enges Duell, Gleichstand nach 90 Min. moeglich - evtl. n.V./Elfmeter; Ausfall Nico Williams schwaecht Spaniens Offensive leicht"
+     "Spanien zeigt stabile Leistungen und hat ein dominantes Mittelfeld.",
+     "Portugals Form in der Gruppenphase war schwankend.",
+     "Enges Spiel, Entscheidung wird in der Verlängerung erwartet."
     ],
-    "updatedAt": "2026-07-04T21:56:22+02:00",
+    "updatedAt": "2026-07-05T20:07:06+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -6306,6 +6341,19 @@ window.WM_DATA = {
       "Sehr enges Duell, Gleichstand nach 90 Min. moeglich - evtl. n.V./Elfmeter; Ausfall Nico Williams schwaecht Spaniens Offensive leicht"
      ],
      "at": "2026-07-04T21:56:22+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ESP",
+     "confidence": "mittel",
+     "reasons": [
+      "Spanien zeigt stabile Leistungen und hat ein dominantes Mittelfeld.",
+      "Portugals Form in der Gruppenphase war schwankend.",
+      "Enges Spiel, Entscheidung wird in der Verlängerung erwartet."
+     ],
+     "at": "2026-07-05T20:07:06+02:00",
      "changeNote": null
     }
    ],
@@ -6341,11 +6389,11 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Die USA müssen auf ihren besten Torschützen Folarin Balogun aufgrund einer Rotsperre verzichten.",
-     "Belgien zeigte im Achtelfinale Comeback-Qualitäten und verfügt über eine erfahrene Offensive mit Spielern wie Romelu Lukaku.",
-     "Die historische Bilanz und FIFA-Rankings sprechen eher für Belgien, es wird jedoch eine knappe Partie erwartet, eventuell mit Verlängerung."
+     "Belgiens individuelle Qualität und Turniererfahrung werden entscheidend sein.",
+     "Die USA haben zwar Heimvorteil, müssen aber auf den gesperrten Stürmer Folarin Balogun verzichten.",
+     "Es wird ein enges Spiel erwartet, bei dem Belgien sich voraussichtlich in der Verlängerung durchsetzen wird."
     ],
-    "updatedAt": "2026-07-02T18:09:14+02:00",
+    "updatedAt": "2026-07-05T20:07:29+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -6361,6 +6409,19 @@ window.WM_DATA = {
       "Die historische Bilanz und FIFA-Rankings sprechen eher für Belgien, es wird jedoch eine knappe Partie erwartet, eventuell mit Verlängerung."
      ],
      "at": "2026-07-02T18:09:14+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "BEL",
+     "confidence": "mittel",
+     "reasons": [
+      "Belgiens individuelle Qualität und Turniererfahrung werden entscheidend sein.",
+      "Die USA haben zwar Heimvorteil, müssen aber auf den gesperrten Stürmer Folarin Balogun verzichten.",
+      "Es wird ein enges Spiel erwartet, bei dem Belgien sich voraussichtlich in der Verlängerung durchsetzen wird."
+     ],
+     "at": "2026-07-05T20:07:29+02:00",
      "changeNote": null
     }
    ],
@@ -6485,12 +6546,12 @@ window.WM_DATA = {
    "group": "Viertelfinale",
    "roundCode": "QF",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 89",
-   "awayPlaceholder": "Sieger Spiel 90",
+   "home": "Frankreich",
+   "away": "Marokko",
+   "homeCode": "FRA",
+   "awayCode": "MAR",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-09T22:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Gillette Stadium",
@@ -6498,9 +6559,37 @@ window.WM_DATA = {
    "feedsInto": 101,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "FRA",
+    "outcome": "1",
+    "confidence": "niedrig",
+    "reasons": [
+     "Frankreich ist Weltranglistenerster und besitzt höhere individuelle Qualität und Turniererfahrung in K.o.-Spielen.",
+     "Marokko zeigte 2022 eine starke Defensive und Teamgeist (4. Platz WM 2022) und ist auf Platz 7 der Weltrangliste.",
+     "Mohamed Ouahbi ist ein neuer Trainer für Marokko bei der WM 2026, während Frankreich weiterhin von Didier Deschamps trainiert wird, der über große Erfahrung verfügt."
+    ],
+    "updatedAt": "2026-07-05T20:07:42+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "FRA",
+     "confidence": "niedrig",
+     "reasons": [
+      "Frankreich ist Weltranglistenerster und besitzt höhere individuelle Qualität und Turniererfahrung in K.o.-Spielen.",
+      "Marokko zeigte 2022 eine starke Defensive und Teamgeist (4. Platz WM 2022) und ist auf Platz 7 der Weltrangliste.",
+      "Mohamed Ouahbi ist ein neuer Trainer für Marokko bei der WM 2026, während Frankreich weiterhin von Didier Deschamps trainiert wird, der über große Erfahrung verfügt."
+     ],
+     "at": "2026-07-05T20:07:42+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
