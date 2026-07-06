@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-05T20:07:42+02:00",
+  "lastUpdate": "2026-07-06T19:47:35+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -6150,7 +6150,7 @@ window.WM_DATA = {
    "city": "East Rutherford",
    "feedsInto": 99,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 3,
@@ -6164,7 +6164,7 @@ window.WM_DATA = {
      "Norwegen hat sich defensiv stabil gezeigt und besitzt mit Erling Haaland hohe Torgefahr."
     ],
     "updatedAt": "2026-07-05T20:06:25+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "Tipp angepasst (vorher 2:1)"
    },
    "history": [
@@ -6208,8 +6208,17 @@ window.WM_DATA = {
      "changeNote": "Tipp angepasst (vorher 2:1)"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 2,
+    "notes": "Erling Haaland traf doppelt für Norwegen, während Neymar per Elfmeter für Brasilien traf.",
+    "at": "2026-07-06T19:46:20+02:00",
+    "advancesCode": "NOR"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-05T21:00:00+02:00"
   },
@@ -6231,7 +6240,7 @@ window.WM_DATA = {
    "city": "Mexiko-Stadt",
    "feedsInto": 99,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -6289,8 +6298,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 3,
+    "notes": "Jude Bellingham erzielte zwei Tore und Harry Kane verwandelte einen Elfmeter für England, das trotz einer Roten Karte gegen Jarell Quansah 3:2 gewann; die Tore für Mexiko erzielten Julián Quiñones und Raúl Jiménez per Elfmeter.",
+    "at": "2026-07-06T19:46:26+02:00",
+    "advancesCode": "ENG"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-06T01:00:00+02:00"
   },
@@ -6321,11 +6339,12 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Spanien zeigt stabile Leistungen und hat ein dominantes Mittelfeld.",
-     "Portugals Form in der Gruppenphase war schwankend.",
-     "Enges Spiel, Entscheidung wird in der Verlängerung erwartet."
+     "Spanien wird aufgrund besserer aktueller Form und FIFA-Ranking als leichter Favorit gehandelt.",
+     "Historisch gesehen sind Duelle zwischen Portugal und Spanien oft sehr eng und enden häufig unentschieden nach 90 Minuten.",
+     "Spanien zeigte in jüngsten Spielen eine disziplinierte Struktur und eine starke Defensive mit mehreren 'clean sheets', während Portugal zuletzt weniger dominant agierte.",
+     "Ein Sieg nach Verlängerung wird erwartet, da die Partie sehr ausgeglichen sein dürfte."
     ],
-    "updatedAt": "2026-07-05T20:07:06+02:00",
+    "updatedAt": "2026-07-06T19:46:48+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -6355,6 +6374,20 @@ window.WM_DATA = {
      ],
      "at": "2026-07-05T20:07:06+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ESP",
+     "confidence": "mittel",
+     "reasons": [
+      "Spanien wird aufgrund besserer aktueller Form und FIFA-Ranking als leichter Favorit gehandelt.",
+      "Historisch gesehen sind Duelle zwischen Portugal und Spanien oft sehr eng und enden häufig unentschieden nach 90 Minuten.",
+      "Spanien zeigte in jüngsten Spielen eine disziplinierte Struktur und eine starke Defensive mit mehreren 'clean sheets', während Portugal zuletzt weniger dominant agierte.",
+      "Ein Sieg nach Verlängerung wird erwartet, da die Partie sehr ausgeglichen sein dürfte."
+     ],
+     "at": "2026-07-06T19:46:48+02:00",
+     "changeNote": null
     }
    ],
    "result": null,
@@ -6383,19 +6416,20 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 1,
-    "scoreAway": 2,
-    "winnerCode": "BEL",
-    "outcome": "2",
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "USA",
+    "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Belgiens individuelle Qualität und Turniererfahrung werden entscheidend sein.",
-     "Die USA haben zwar Heimvorteil, müssen aber auf den gesperrten Stürmer Folarin Balogun verzichten.",
-     "Es wird ein enges Spiel erwartet, bei dem Belgien sich voraussichtlich in der Verlängerung durchsetzen wird."
+     "Heimvorteil für die USA und positive Dynamik aus der Gruppenphase.",
+     "Rückkehr des wichtigen Stürmers Folarin Balogun stärkt die Offensive der USA.",
+     "Belgien verfügt über starke individuelle Klasse, zeigte aber eine gemischte Form in der Vorrunde und interne Spannungen.",
+     "Ein enges Spiel wird erwartet, das voraussichtlich über die reguläre Spielzeit hinausgeht (n.V.)."
     ],
-    "updatedAt": "2026-07-05T20:07:29+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-06T19:47:05+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 1:2)"
    },
    "history": [
     {
@@ -6423,6 +6457,20 @@ window.WM_DATA = {
      ],
      "at": "2026-07-05T20:07:29+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "USA",
+     "confidence": "mittel",
+     "reasons": [
+      "Heimvorteil für die USA und positive Dynamik aus der Gruppenphase.",
+      "Rückkehr des wichtigen Stürmers Folarin Balogun stärkt die Offensive der USA.",
+      "Belgien verfügt über starke individuelle Klasse, zeigte aber eine gemischte Form in der Vorrunde und interne Spannungen.",
+      "Ein enges Spiel wird erwartet, das voraussichtlich über die reguläre Spielzeit hinausgeht (n.V.)."
+     ],
+     "at": "2026-07-06T19:47:05+02:00",
+     "changeNote": "Tipp angepasst (vorher 1:2)"
     }
    ],
    "result": null,
@@ -6451,19 +6499,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 3,
-    "scoreAway": 1,
+    "scoreHome": 2,
+    "scoreAway": 0,
     "winnerCode": "ARG",
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Argentinien makellos in Gruppe J und mit Messi (7 Tore, Golden-Boot-Favorit) in Topform, deutlich groessere Kaderqualitaet",
-     "Aegypten kam nur muehsam weiter (1:1, 4:2 i.E. gegen Australien), 120 Min in den Beinen und Salah angeschlagen und zuletzt wirkungslos",
-     "Aegyptens Abwehr wirkte anfaellig (Eigentor, fruehe Wackler) - Argentiniens Offensive sollte das ausnutzen"
+     "Argentinien hat historisch eine stärkere Mannschaft und mehr WM-Erfahrung.",
+     "Aegypten hat generell weniger Erfolg in K.-o.-Phasen von Weltmeisterschaften.",
+     "Ohne aktuelle Daten basierend auf allgemeiner Teamstärke entschieden."
     ],
-    "updatedAt": "2026-07-04T21:56:22+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-06T19:47:09+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 3:1)"
    },
    "history": [
     {
@@ -6478,6 +6526,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-04T21:56:22+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 0,
+     "winnerCode": "ARG",
+     "confidence": "hoch",
+     "reasons": [
+      "Argentinien hat historisch eine stärkere Mannschaft und mehr WM-Erfahrung.",
+      "Aegypten hat generell weniger Erfolg in K.-o.-Phasen von Weltmeisterschaften.",
+      "Ohne aktuelle Daten basierend auf allgemeiner Teamstärke entschieden."
+     ],
+     "at": "2026-07-06T19:47:09+02:00",
+     "changeNote": "Tipp angepasst (vorher 3:1)"
     }
    ],
    "result": null,
@@ -6510,13 +6571,13 @@ window.WM_DATA = {
     "scoreAway": 1,
     "winnerCode": "SUI",
     "outcome": "1",
-    "confidence": "niedrig",
+    "confidence": "mittel",
     "reasons": [
-     "Schweiz reist mit der treffsichereren Offensive an (9 Tore in 4 Spielen, u.a. 4:1 gg. Bosnien) und ist ungeschlagen Gruppensieger",
-     "Kolumbien defensiv sehr stabil (nur 2 Gegentore), aber offensiv zuletzt harmlos (drei magere Spiele) - zudem Cordoba mit Leistenverletzung fraglich",
-     "Sehr enges K.-o.-Duell zweier Gruppensieger, Gleichstand nach 90 Min. gut moeglich - evtl. n.V./Elfmeter"
+     "Schweiz mit starker Defensive und taktischer Disziplin.",
+     "Kolumbien mit starker individueller Offensive (Luis Díaz, James Rodríguez).",
+     "Enges K.o.-Spiel, Schweiz hat Erfahrung in Achtelfinals und könnte sich in der Verlängerung durchsetzen."
     ],
-    "updatedAt": "2026-07-04T21:56:22+02:00",
+    "updatedAt": "2026-07-06T19:47:20+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -6532,6 +6593,19 @@ window.WM_DATA = {
       "Sehr enges K.-o.-Duell zweier Gruppensieger, Gleichstand nach 90 Min. gut moeglich - evtl. n.V./Elfmeter"
      ],
      "at": "2026-07-04T21:56:22+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "SUI",
+     "confidence": "mittel",
+     "reasons": [
+      "Schweiz mit starker Defensive und taktischer Disziplin.",
+      "Kolumbien mit starker individueller Offensive (Luis Díaz, James Rodríguez).",
+      "Enges K.o.-Spiel, Schweiz hat Erfahrung in Achtelfinals und könnte sich in der Verlängerung durchsetzen."
+     ],
+     "at": "2026-07-06T19:47:20+02:00",
      "changeNote": null
     }
    ],
@@ -6628,12 +6702,12 @@ window.WM_DATA = {
    "group": "Viertelfinale",
    "roundCode": "QF",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 91",
-   "awayPlaceholder": "Sieger Spiel 92",
+   "home": "Norwegen",
+   "away": "England",
+   "homeCode": "NOR",
+   "awayCode": "ENG",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-11T23:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Hard Rock Stadium",
@@ -6641,9 +6715,37 @@ window.WM_DATA = {
    "feedsInto": 102,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 1,
+    "scoreAway": 2,
+    "winnerCode": "ENG",
+    "outcome": "2",
+    "confidence": "mittel",
+    "reasons": [
+     "England verfügt über einen qualitativ stärkeren und tieferen Kader mit mehr Turniererfahrung.",
+     "Obwohl Norwegen mit Spielern wie Haaland und Ødegaard über eine starke Offensive verfügt und in guter Form ist, wird England von Buchmachern und KI-Prognosen als Favorit gesehen.",
+     "Die Verletzung von Jordan Henderson und die mögliche Sperre von Jarell Quansah könnten England schwächen, aber die allgemeine Teamstärke überwiegt."
+    ],
+    "updatedAt": "2026-07-06T19:47:35+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ENG",
+     "confidence": "mittel",
+     "reasons": [
+      "England verfügt über einen qualitativ stärkeren und tieferen Kader mit mehr Turniererfahrung.",
+      "Obwohl Norwegen mit Spielern wie Haaland und Ødegaard über eine starke Offensive verfügt und in guter Form ist, wird England von Buchmachern und KI-Prognosen als Favorit gesehen.",
+      "Die Verletzung von Jordan Henderson und die mögliche Sperre von Jarell Quansah könnten England schwächen, aber die allgemeine Teamstärke überwiegt."
+     ],
+     "at": "2026-07-06T19:47:35+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
