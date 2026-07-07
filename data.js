@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-06T19:47:35+02:00",
+  "lastUpdate": "2026-07-07T15:23:34+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -6330,7 +6330,7 @@ window.WM_DATA = {
    "city": "Arlington",
    "feedsInto": 98,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -6390,8 +6390,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 1,
+    "notes": "Mikel Merino erzielte in der Nachspielzeit (90.+1) den Siegtreffer für Spanien.",
+    "at": "2026-07-07T15:22:51+02:00",
+    "advancesCode": "ESP"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-06T20:00:00+02:00"
   },
@@ -6413,7 +6422,7 @@ window.WM_DATA = {
    "city": "Seattle",
    "feedsInto": 98,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -6428,7 +6437,7 @@ window.WM_DATA = {
      "Ein enges Spiel wird erwartet, das voraussichtlich über die reguläre Spielzeit hinausgeht (n.V.)."
     ],
     "updatedAt": "2026-07-06T19:47:05+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "Tipp angepasst (vorher 1:2)"
    },
    "history": [
@@ -6473,8 +6482,17 @@ window.WM_DATA = {
      "changeNote": "Tipp angepasst (vorher 1:2)"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 4,
+    "notes": "Charles De Ketelaere (2), Hans Vanaken und Romelu Lukaku trafen für Belgien, Malik Tillman erzielte das einzige Tor für die USA.",
+    "at": "2026-07-07T15:22:56+02:00",
+    "advancesCode": "BEL"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-07T01:00:00+02:00"
   },
@@ -6505,13 +6523,13 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "hoch",
     "reasons": [
-     "Argentinien hat historisch eine stärkere Mannschaft und mehr WM-Erfahrung.",
-     "Aegypten hat generell weniger Erfolg in K.-o.-Phasen von Weltmeisterschaften.",
-     "Ohne aktuelle Daten basierend auf allgemeiner Teamstärke entschieden."
+     "Argentinien ist der klare Favorit mit einer starken Offensive und Lionel Messi in Topform.",
+     "Ägypten erreichte erstmals das Achtelfinale, musste jedoch ein kräftezehrendes Elfmeterschießen überstehen.",
+     "Mohamed Salah, Ägyptens Schlüsselspieler, ist angeschlagen, was ihre Angriffskraft mindern könnte."
     ],
-    "updatedAt": "2026-07-06T19:47:09+02:00",
-    "changed": true,
-    "changeNote": "Tipp angepasst (vorher 3:1)"
+    "updatedAt": "2026-07-07T15:23:13+02:00",
+    "changed": false,
+    "changeNote": null
    },
    "history": [
     {
@@ -6539,6 +6557,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-06T19:47:09+02:00",
      "changeNote": "Tipp angepasst (vorher 3:1)"
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 0,
+     "winnerCode": "ARG",
+     "confidence": "hoch",
+     "reasons": [
+      "Argentinien ist der klare Favorit mit einer starken Offensive und Lionel Messi in Topform.",
+      "Ägypten erreichte erstmals das Achtelfinale, musste jedoch ein kräftezehrendes Elfmeterschießen überstehen.",
+      "Mohamed Salah, Ägyptens Schlüsselspieler, ist angeschlagen, was ihre Angriffskraft mindern könnte."
+     ],
+     "at": "2026-07-07T15:23:13+02:00",
+     "changeNote": null
     }
    ],
    "result": null,
@@ -6567,19 +6598,20 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 2,
-    "scoreAway": 1,
-    "winnerCode": "SUI",
-    "outcome": "1",
+    "scoreHome": 1,
+    "scoreAway": 2,
+    "winnerCode": "COL",
+    "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Schweiz mit starker Defensive und taktischer Disziplin.",
-     "Kolumbien mit starker individueller Offensive (Luis Díaz, James Rodríguez).",
-     "Enges K.o.-Spiel, Schweiz hat Erfahrung in Achtelfinals und könnte sich in der Verlängerung durchsetzen."
+     "Kolumbien als Copa-América-Finalist 2024 zeigt starke Form und offensive Qualität (Luis Díaz, Jhon Durán, James Rodríguez).",
+     "Die Schweiz erreichte das EM-Viertelfinale 2024 mit einer soliden Defensive (Manuel Akanji, Granit Xhaka), könnte aber in der Offensive weniger durchschlagskräftig sein.",
+     "Kolumbien liegt in der FIFA-Weltrangliste höher (13. Platz) als die Schweiz (19. Platz), was auf eine leichte Überlegenheit hindeutet.",
+     "Aufgrund der engen Partie wird ein Sieg Kolumbiens nach Verlängerung erwartet."
     ],
-    "updatedAt": "2026-07-06T19:47:20+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-07T15:23:28+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 2:1)"
    },
    "history": [
     {
@@ -6607,6 +6639,20 @@ window.WM_DATA = {
      ],
      "at": "2026-07-06T19:47:20+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "COL",
+     "confidence": "mittel",
+     "reasons": [
+      "Kolumbien als Copa-América-Finalist 2024 zeigt starke Form und offensive Qualität (Luis Díaz, Jhon Durán, James Rodríguez).",
+      "Die Schweiz erreichte das EM-Viertelfinale 2024 mit einer soliden Defensive (Manuel Akanji, Granit Xhaka), könnte aber in der Offensive weniger durchschlagskräftig sein.",
+      "Kolumbien liegt in der FIFA-Weltrangliste höher (13. Platz) als die Schweiz (19. Platz), was auf eine leichte Überlegenheit hindeutet.",
+      "Aufgrund der engen Partie wird ein Sieg Kolumbiens nach Verlängerung erwartet."
+     ],
+     "at": "2026-07-07T15:23:28+02:00",
+     "changeNote": "Tipp angepasst (vorher 2:1)"
     }
    ],
    "result": null,
@@ -6675,12 +6721,12 @@ window.WM_DATA = {
    "group": "Viertelfinale",
    "roundCode": "QF",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 93",
-   "awayPlaceholder": "Sieger Spiel 94",
+   "home": "Spanien",
+   "away": "Belgien",
+   "homeCode": "ESP",
+   "awayCode": "BEL",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-10T21:00:00+02:00",
    "kickoffLocal": "",
    "venue": "SoFi Stadium",
@@ -6688,9 +6734,35 @@ window.WM_DATA = {
    "feedsInto": 101,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 0,
+    "scoreAway": 0,
+    "winnerCode": "X",
+    "outcome": "X",
+    "confidence": "niedrig",
+    "reasons": [
+     "Das Spiel ist ein zukünftiges, hypothetisches Ereignis im Jahr 2026.",
+     "Es liegen keine aktuellen Daten zu Form, Verletzungen, Sperren oder Quoten für dieses Spiel vor."
+    ],
+    "updatedAt": "2026-07-07T15:23:34+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 0,
+     "scoreAway": 0,
+     "winnerCode": "X",
+     "confidence": "niedrig",
+     "reasons": [
+      "Das Spiel ist ein zukünftiges, hypothetisches Ereignis im Jahr 2026.",
+      "Es liegen keine aktuellen Daten zu Form, Verletzungen, Sperren oder Quoten für dieses Spiel vor."
+     ],
+     "at": "2026-07-07T15:23:34+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
