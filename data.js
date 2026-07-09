@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-07T15:23:34+02:00",
+  "lastUpdate": "2026-07-09T14:49:01+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -6514,7 +6514,7 @@ window.WM_DATA = {
    "city": "Atlanta",
    "feedsInto": 100,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -6572,8 +6572,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 2,
+    "notes": "Ägypten führte mit 2:0 durch Tore von Yasser Ibrahim (15.) und Mostafa Zico (67.), bevor Argentinien durch Cristian Romero (79.), Lionel Messi (83.) und Enzo Fernandez (90.+2) in einem dramatischen Comeback gewann.",
+    "at": "2026-07-09T14:48:21+02:00",
+    "advancesCode": "ARG"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-07T17:00:00+02:00"
   },
@@ -6595,7 +6604,7 @@ window.WM_DATA = {
    "city": "Vancouver",
    "feedsInto": 100,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -6610,7 +6619,7 @@ window.WM_DATA = {
      "Aufgrund der engen Partie wird ein Sieg Kolumbiens nach Verlängerung erwartet."
     ],
     "updatedAt": "2026-07-07T15:23:28+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "Tipp angepasst (vorher 2:1)"
    },
    "history": [
@@ -6655,8 +6664,17 @@ window.WM_DATA = {
      "changeNote": "Tipp angepasst (vorher 2:1)"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 0,
+    "notes": "Das Spiel endete 0:0 nach Verlängerung, die Schweiz gewann das Elfmeterschießen mit 4:3.",
+    "at": "2026-07-09T14:48:25+02:00",
+    "advancesCode": "SUI"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-07T21:00:00+02:00"
   },
@@ -6685,13 +6703,14 @@ window.WM_DATA = {
     "scoreAway": 1,
     "winnerCode": "FRA",
     "outcome": "1",
-    "confidence": "niedrig",
+    "confidence": "hoch",
     "reasons": [
-     "Frankreich ist Weltranglistenerster und besitzt höhere individuelle Qualität und Turniererfahrung in K.o.-Spielen.",
-     "Marokko zeigte 2022 eine starke Defensive und Teamgeist (4. Platz WM 2022) und ist auf Platz 7 der Weltrangliste.",
-     "Mohamed Ouahbi ist ein neuer Trainer für Marokko bei der WM 2026, während Frankreich weiterhin von Didier Deschamps trainiert wird, der über große Erfahrung verfügt."
+     "Frankreich befindet sich in makelloser Form bei der WM 2026 und hat alle bisherigen Spiele gewonnen, mit starker Offensive und solider Defensive.",
+     "Frankreich hat eine klare historische Überlegenheit im direkten Vergleich gegen Marokko, einschließlich eines 2:0-Sieges im WM-Halbfinale 2022.",
+     "Marokko zeigt zwar eine starke Form und eine gut organisierte Defensive, wird aber voraussichtlich Schwierigkeiten haben, Frankreich zu besiegen.",
+     "Die Wettquoten favorisieren Frankreich deutlich als Sieger."
     ],
-    "updatedAt": "2026-07-05T20:07:42+02:00",
+    "updatedAt": "2026-07-09T14:48:39+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -6707,6 +6726,20 @@ window.WM_DATA = {
       "Mohamed Ouahbi ist ein neuer Trainer für Marokko bei der WM 2026, während Frankreich weiterhin von Didier Deschamps trainiert wird, der über große Erfahrung verfügt."
      ],
      "at": "2026-07-05T20:07:42+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "FRA",
+     "confidence": "hoch",
+     "reasons": [
+      "Frankreich befindet sich in makelloser Form bei der WM 2026 und hat alle bisherigen Spiele gewonnen, mit starker Offensive und solider Defensive.",
+      "Frankreich hat eine klare historische Überlegenheit im direkten Vergleich gegen Marokko, einschließlich eines 2:0-Sieges im WM-Halbfinale 2022.",
+      "Marokko zeigt zwar eine starke Form und eine gut organisierte Defensive, wird aber voraussichtlich Schwierigkeiten haben, Frankreich zu besiegen.",
+      "Die Wettquoten favorisieren Frankreich deutlich als Sieger."
+     ],
+     "at": "2026-07-09T14:48:39+02:00",
      "changeNote": null
     }
    ],
@@ -6829,12 +6862,12 @@ window.WM_DATA = {
    "group": "Viertelfinale",
    "roundCode": "QF",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 95",
-   "awayPlaceholder": "Sieger Spiel 96",
+   "home": "Argentinien",
+   "away": "Schweiz",
+   "homeCode": "ARG",
+   "awayCode": "SUI",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-12T03:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Arrowhead Stadium",
@@ -6842,9 +6875,37 @@ window.WM_DATA = {
    "feedsInto": 102,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "ARG",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "Argentinien befindet sich in Topform und reist mit einer makellosen Bilanz in die K.-o.-Phase, mit beeindruckender Offensivleistung in den vorherigen Runden.",
+     "Die Schweiz hat eine kompakte Defensive und gefährliche Konter gezeigt, mit mehreren Spielen ohne Gegentreffer im Turnierverlauf.",
+     "Buchmacher sehen Argentinien als klaren Favoriten für dieses Viertelfinale. Eine ähnliche Begegnung im WM-Achtelfinale 2014 endete 1:0 für Argentinien."
+    ],
+    "updatedAt": "2026-07-09T14:49:01+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "ARG",
+     "confidence": "mittel",
+     "reasons": [
+      "Argentinien befindet sich in Topform und reist mit einer makellosen Bilanz in die K.-o.-Phase, mit beeindruckender Offensivleistung in den vorherigen Runden.",
+      "Die Schweiz hat eine kompakte Defensive und gefährliche Konter gezeigt, mit mehreren Spielen ohne Gegentreffer im Turnierverlauf.",
+      "Buchmacher sehen Argentinien als klaren Favoriten für dieses Viertelfinale. Eine ähnliche Begegnung im WM-Achtelfinale 2014 endete 1:0 für Argentinien."
+     ],
+     "at": "2026-07-09T14:49:01+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
