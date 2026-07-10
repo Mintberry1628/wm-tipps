@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-09T14:49:01+02:00",
+  "lastUpdate": "2026-07-10T18:27:38+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -6696,7 +6696,7 @@ window.WM_DATA = {
    "city": "Foxborough",
    "feedsInto": 101,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -6743,8 +6743,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 0,
+    "notes": "Kylian Mbappé und Ousmane Dembélé erzielten die Tore für Frankreich. Mbappé traf, nachdem er zuvor einen Elfmeter verschossen hatte. Frankreich zieht ins Halbfinale ein.",
+    "at": "2026-07-10T18:26:59+02:00",
+    "advancesCode": "FRA"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-09T21:00:00+02:00"
   },
@@ -6769,18 +6778,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 0,
-    "scoreAway": 0,
-    "winnerCode": "X",
-    "outcome": "X",
-    "confidence": "niedrig",
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "ESP",
+    "outcome": "1",
+    "confidence": "mittel",
     "reasons": [
-     "Das Spiel ist ein zukünftiges, hypothetisches Ereignis im Jahr 2026.",
-     "Es liegen keine aktuellen Daten zu Form, Verletzungen, Sperren oder Quoten für dieses Spiel vor."
+     "Spanien gilt als einer der Top-Favoriten für die WM 2026 und verfügt über eine hohe technische Qualität und Ballbesitzstärke.",
+     "Belgiens „goldene Generation“ könnte 2026 altersbedingt nicht mehr auf dem absoluten Höhepunkt sein, auch wenn neue Talente nachkommen.",
+     "Der direkte Vergleich spricht historisch für Spanien mit mehr Siegen gegen Belgien."
     ],
-    "updatedAt": "2026-07-07T15:23:34+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-10T18:27:14+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 0:0)"
    },
    "history": [
     {
@@ -6794,6 +6804,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-07T15:23:34+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "ESP",
+     "confidence": "mittel",
+     "reasons": [
+      "Spanien gilt als einer der Top-Favoriten für die WM 2026 und verfügt über eine hohe technische Qualität und Ballbesitzstärke.",
+      "Belgiens „goldene Generation“ könnte 2026 altersbedingt nicht mehr auf dem absoluten Höhepunkt sein, auch wenn neue Talente nachkommen.",
+      "Der direkte Vergleich spricht historisch für Spanien mit mehr Siegen gegen Belgien."
+     ],
+     "at": "2026-07-10T18:27:14+02:00",
+     "changeNote": "Tipp angepasst (vorher 0:0)"
     }
    ],
    "result": null,
@@ -6826,13 +6849,13 @@ window.WM_DATA = {
     "scoreAway": 2,
     "winnerCode": "ENG",
     "outcome": "2",
-    "confidence": "mittel",
+    "confidence": "hoch",
     "reasons": [
-     "England verfügt über einen qualitativ stärkeren und tieferen Kader mit mehr Turniererfahrung.",
-     "Obwohl Norwegen mit Spielern wie Haaland und Ødegaard über eine starke Offensive verfügt und in guter Form ist, wird England von Buchmachern und KI-Prognosen als Favorit gesehen.",
-     "Die Verletzung von Jordan Henderson und die mögliche Sperre von Jarell Quansah könnten England schwächen, aber die allgemeine Teamstärke überwiegt."
+     "England verfügt über eine höhere Kaderqualität und mehr K.-o.-Erfahrung, was in einem Viertelfinale entscheidend sein kann.",
+     "Norwegen ist offensiv stark, insbesondere durch Erling Haaland, hat aber defensive Anfälligkeiten und kämpft mit einer Krankheitswelle im Team.",
+     "Trotz Englands Ausfällen wie Jarell Quansah (gesperrt) und Jordan Henderson (verletzt) sowie einer Infektion bei Declan Rice, wird die Kaderbreite der Engländer als ausreichend angesehen."
     ],
-    "updatedAt": "2026-07-06T19:47:35+02:00",
+    "updatedAt": "2026-07-10T18:27:38+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -6848,6 +6871,19 @@ window.WM_DATA = {
       "Die Verletzung von Jordan Henderson und die mögliche Sperre von Jarell Quansah könnten England schwächen, aber die allgemeine Teamstärke überwiegt."
      ],
      "at": "2026-07-06T19:47:35+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ENG",
+     "confidence": "hoch",
+     "reasons": [
+      "England verfügt über eine höhere Kaderqualität und mehr K.-o.-Erfahrung, was in einem Viertelfinale entscheidend sein kann.",
+      "Norwegen ist offensiv stark, insbesondere durch Erling Haaland, hat aber defensive Anfälligkeiten und kämpft mit einer Krankheitswelle im Team.",
+      "Trotz Englands Ausfällen wie Jarell Quansah (gesperrt) und Jordan Henderson (verletzt) sowie einer Infektion bei Declan Rice, wird die Kaderbreite der Engländer als ausreichend angesehen."
+     ],
+     "at": "2026-07-10T18:27:38+02:00",
      "changeNote": null
     }
    ],
