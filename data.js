@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-10T18:27:38+02:00",
+  "lastUpdate": "2026-07-11T21:15:24+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -6775,7 +6775,7 @@ window.WM_DATA = {
    "city": "Inglewood",
    "feedsInto": 101,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -6789,7 +6789,7 @@ window.WM_DATA = {
      "Der direkte Vergleich spricht historisch für Spanien mit mehr Siegen gegen Belgien."
     ],
     "updatedAt": "2026-07-10T18:27:14+02:00",
-    "changed": true,
+    "changed": false,
     "changeNote": "Tipp angepasst (vorher 0:0)"
    },
    "history": [
@@ -6819,8 +6819,17 @@ window.WM_DATA = {
      "changeNote": "Tipp angepasst (vorher 0:0)"
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 2,
+    "away": 1,
+    "notes": "Fabian Ruiz and Mikel Merino scored for Spain, with Merino netting the winner in the 88th minute. Charles De Ketelaere scored for Belgium.",
+    "at": "2026-07-11T21:14:24+02:00",
+    "advancesCode": "ESP"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-10T20:00:00+02:00"
   },
@@ -6849,13 +6858,13 @@ window.WM_DATA = {
     "scoreAway": 2,
     "winnerCode": "ENG",
     "outcome": "2",
-    "confidence": "hoch",
+    "confidence": "mittel",
     "reasons": [
-     "England verfügt über eine höhere Kaderqualität und mehr K.-o.-Erfahrung, was in einem Viertelfinale entscheidend sein kann.",
-     "Norwegen ist offensiv stark, insbesondere durch Erling Haaland, hat aber defensive Anfälligkeiten und kämpft mit einer Krankheitswelle im Team.",
-     "Trotz Englands Ausfällen wie Jarell Quansah (gesperrt) und Jordan Henderson (verletzt) sowie einer Infektion bei Declan Rice, wird die Kaderbreite der Engländer als ausreichend angesehen."
+     "England verfügt trotz einiger Verletzungen und Sperren über die breitere und erfahrenere Mannschaft, die in der K.-o.-Phase Stabilität und Durchschlagskraft gezeigt hat.",
+     "Norwegen präsentiert sich mit einer starken Offensive um Erling Haaland und Martin Ødegaard als Turnierüberraschung, weist aber defensive Anfälligkeiten auf und kämpft mit Krankheitsfällen im Team.",
+     "Es wird ein enges Viertelfinale erwartet, bei dem England sich voraussichtlich in der Verlängerung (n.V.) knapp durchsetzen wird, da die Quoten auf ein Unentschieden nach regulärer Spielzeit hoch sind."
     ],
-    "updatedAt": "2026-07-10T18:27:38+02:00",
+    "updatedAt": "2026-07-11T21:14:47+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -6884,6 +6893,19 @@ window.WM_DATA = {
       "Trotz Englands Ausfällen wie Jarell Quansah (gesperrt) und Jordan Henderson (verletzt) sowie einer Infektion bei Declan Rice, wird die Kaderbreite der Engländer als ausreichend angesehen."
      ],
      "at": "2026-07-10T18:27:38+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ENG",
+     "confidence": "mittel",
+     "reasons": [
+      "England verfügt trotz einiger Verletzungen und Sperren über die breitere und erfahrenere Mannschaft, die in der K.-o.-Phase Stabilität und Durchschlagskraft gezeigt hat.",
+      "Norwegen präsentiert sich mit einer starken Offensive um Erling Haaland und Martin Ødegaard als Turnierüberraschung, weist aber defensive Anfälligkeiten auf und kämpft mit Krankheitsfällen im Team.",
+      "Es wird ein enges Viertelfinale erwartet, bei dem England sich voraussichtlich in der Verlängerung (n.V.) knapp durchsetzen wird, da die Quoten auf ein Unentschieden nach regulärer Spielzeit hoch sind."
+     ],
+     "at": "2026-07-11T21:14:47+02:00",
      "changeNote": null
     }
    ],
@@ -6917,13 +6939,14 @@ window.WM_DATA = {
     "scoreAway": 1,
     "winnerCode": "ARG",
     "outcome": "1",
-    "confidence": "mittel",
+    "confidence": "hoch",
     "reasons": [
-     "Argentinien befindet sich in Topform und reist mit einer makellosen Bilanz in die K.-o.-Phase, mit beeindruckender Offensivleistung in den vorherigen Runden.",
-     "Die Schweiz hat eine kompakte Defensive und gefährliche Konter gezeigt, mit mehreren Spielen ohne Gegentreffer im Turnierverlauf.",
-     "Buchmacher sehen Argentinien als klaren Favoriten für dieses Viertelfinale. Eine ähnliche Begegnung im WM-Achtelfinale 2014 endete 1:0 für Argentinien."
+     "Argentinien verfügt über eine individuell stärkere Offensive, angeführt von Lionel Messi in Topform.",
+     "Der Schweiz fehlt mit Johan Manzambi ihr bester Torschütze aufgrund einer Knieverletzung.",
+     "Die Wettquoten sprechen deutlich für einen Sieg Argentiniens.",
+     "Argentinien hat in WM-Begegnungen eine historische Überlegenheit gegenüber der Schweiz."
     ],
-    "updatedAt": "2026-07-09T14:49:01+02:00",
+    "updatedAt": "2026-07-11T21:15:05+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -6940,6 +6963,20 @@ window.WM_DATA = {
      ],
      "at": "2026-07-09T14:49:01+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "ARG",
+     "confidence": "hoch",
+     "reasons": [
+      "Argentinien verfügt über eine individuell stärkere Offensive, angeführt von Lionel Messi in Topform.",
+      "Der Schweiz fehlt mit Johan Manzambi ihr bester Torschütze aufgrund einer Knieverletzung.",
+      "Die Wettquoten sprechen deutlich für einen Sieg Argentiniens.",
+      "Argentinien hat in WM-Begegnungen eine historische Überlegenheit gegenüber der Schweiz."
+     ],
+     "at": "2026-07-11T21:15:05+02:00",
+     "changeNote": null
     }
    ],
    "result": null,
@@ -6953,12 +6990,12 @@ window.WM_DATA = {
    "group": "Halbfinale",
    "roundCode": "SF",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 97",
-   "awayPlaceholder": "Sieger Spiel 98",
+   "home": "Frankreich",
+   "away": "Spanien",
+   "homeCode": "FRA",
+   "awayCode": "ESP",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-14T21:00:00+02:00",
    "kickoffLocal": "",
    "venue": "AT&T Stadium",
@@ -6966,9 +7003,37 @@ window.WM_DATA = {
    "feedsInto": 104,
    "loserFeedsInto": 103,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "FRA",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "Frankreich wird von Experten und Quoten leicht favorisiert.",
+     "Beide Teams zeigen starke Offensive, sodass Tore auf beiden Seiten erwartet werden.",
+     "Frankreich verfügt über individuelle Qualität und Turniererfahrung, während Spanien mit kompakter Defensive und effizienter Offensive überzeugt."
+    ],
+    "updatedAt": "2026-07-11T21:15:24+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "FRA",
+     "confidence": "mittel",
+     "reasons": [
+      "Frankreich wird von Experten und Quoten leicht favorisiert.",
+      "Beide Teams zeigen starke Offensive, sodass Tore auf beiden Seiten erwartet werden.",
+      "Frankreich verfügt über individuelle Qualität und Turniererfahrung, während Spanien mit kompakter Defensive und effizienter Offensive überzeugt."
+     ],
+     "at": "2026-07-11T21:15:24+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
