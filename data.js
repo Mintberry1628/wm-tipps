@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-11T21:15:24+02:00",
+  "lastUpdate": "2026-07-12T13:47:04+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -6851,7 +6851,7 @@ window.WM_DATA = {
    "city": "Miami Gardens",
    "feedsInto": 102,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -6909,8 +6909,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 2,
+    "notes": "England besiegte Norwegen nach Verlängerung, nachdem Jude Bellingham zwei Tore erzielte, darunter den Siegtreffer, und Andreas Schjelderup für Norwegen traf.",
+    "at": "2026-07-12T13:46:42+02:00",
+    "advancesCode": "ENG"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-11T22:00:00+02:00"
   },
@@ -6932,7 +6941,7 @@ window.WM_DATA = {
    "city": "Kansas City",
    "feedsInto": 102,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -6979,8 +6988,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 3,
+    "away": 1,
+    "notes": "Argentinien gewann nach Verlängerung. Mac Allister, Álvarez und Lautaro Martínez trafen für Argentinien, Ndoye für die Schweiz. Breel Embolo sah für die Schweiz die Rote Karte.",
+    "at": "2026-07-12T13:46:47+02:00",
+    "advancesCode": "ARG"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-12T02:00:00+02:00"
   },
@@ -7045,12 +7063,12 @@ window.WM_DATA = {
    "group": "Halbfinale",
    "roundCode": "SF",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 99",
-   "awayPlaceholder": "Sieger Spiel 100",
+   "home": "England",
+   "away": "Argentinien",
+   "homeCode": "ENG",
+   "awayCode": "ARG",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-15T21:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Mercedes-Benz Stadium",
@@ -7058,9 +7076,37 @@ window.WM_DATA = {
    "feedsInto": 104,
    "loserFeedsInto": 103,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 1,
+    "scoreAway": 2,
+    "winnerCode": "ARG",
+    "outcome": "2",
+    "confidence": "mittel",
+    "reasons": [
+     "Argentinien ist der amtierende Weltmeister und hat Lionel Messi in Topform.",
+     "England hat wichtige Ausfälle in der Defensive (Jarell Quansah ist gesperrt, Jordan Henderson ist verletzt).",
+     "Es wird ein enges Spiel erwartet, das möglicherweise erst in der Verlängerung entschieden wird."
+    ],
+    "updatedAt": "2026-07-12T13:47:04+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ARG",
+     "confidence": "mittel",
+     "reasons": [
+      "Argentinien ist der amtierende Weltmeister und hat Lionel Messi in Topform.",
+      "England hat wichtige Ausfälle in der Defensive (Jarell Quansah ist gesperrt, Jordan Henderson ist verletzt).",
+      "Es wird ein enges Spiel erwartet, das möglicherweise erst in der Verlängerung entschieden wird."
+     ],
+     "at": "2026-07-12T13:47:04+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
