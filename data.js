@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-12T13:47:04+02:00",
+  "lastUpdate": "2026-07-14T18:20:15+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -7029,11 +7029,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Frankreich wird von Experten und Quoten leicht favorisiert.",
-     "Beide Teams zeigen starke Offensive, sodass Tore auf beiden Seiten erwartet werden.",
-     "Frankreich verfügt über individuelle Qualität und Turniererfahrung, während Spanien mit kompakter Defensive und effizienter Offensive überzeugt."
+     "Frankreichs starke Offensive und defensive Stabilität.",
+     "Spaniens formidable Abwehr.",
+     "Frankreich hatte in wichtigen Turnieren zuletzt die Oberhand."
     ],
-    "updatedAt": "2026-07-11T21:15:24+02:00",
+    "updatedAt": "2026-07-14T18:19:50+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -7049,6 +7049,19 @@ window.WM_DATA = {
       "Frankreich verfügt über individuelle Qualität und Turniererfahrung, während Spanien mit kompakter Defensive und effizienter Offensive überzeugt."
      ],
      "at": "2026-07-11T21:15:24+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "FRA",
+     "confidence": "mittel",
+     "reasons": [
+      "Frankreichs starke Offensive und defensive Stabilität.",
+      "Spaniens formidable Abwehr.",
+      "Frankreich hatte in wichtigen Turnieren zuletzt die Oberhand."
+     ],
+     "at": "2026-07-14T18:19:50+02:00",
      "changeNote": null
     }
    ],
@@ -7084,11 +7097,12 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Argentinien ist der amtierende Weltmeister und hat Lionel Messi in Topform.",
-     "England hat wichtige Ausfälle in der Defensive (Jarell Quansah ist gesperrt, Jordan Henderson ist verletzt).",
-     "Es wird ein enges Spiel erwartet, das möglicherweise erst in der Verlängerung entschieden wird."
+     "Argentinien ist amtierender Weltmeister (2022) und Copa América Sieger 2024, was für eine bewährte K.o.-Mentalität spricht.",
+     "England zeigte eine starke Leistung bei der EM 2024, wo sie das Finale erreichten, und verfügt über einen dynamischen Kader.",
+     "Es wird ein enges Spiel erwartet, das in die Verlängerung gehen könnte, mit einem Sieg für Argentinien aufgrund ihrer Erfahrung in entscheidenden Momenten (n.V.).",
+     "Details zu Form, Verletzungen, Sperren und Quoten für Juli 2026 sind zum aktuellen Zeitpunkt nicht seriös recherchierbar und daher hochspekulativ."
     ],
-    "updatedAt": "2026-07-12T13:47:04+02:00",
+    "updatedAt": "2026-07-14T18:20:15+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -7104,6 +7118,20 @@ window.WM_DATA = {
       "Es wird ein enges Spiel erwartet, das möglicherweise erst in der Verlängerung entschieden wird."
      ],
      "at": "2026-07-12T13:47:04+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ARG",
+     "confidence": "mittel",
+     "reasons": [
+      "Argentinien ist amtierender Weltmeister (2022) und Copa América Sieger 2024, was für eine bewährte K.o.-Mentalität spricht.",
+      "England zeigte eine starke Leistung bei der EM 2024, wo sie das Finale erreichten, und verfügt über einen dynamischen Kader.",
+      "Es wird ein enges Spiel erwartet, das in die Verlängerung gehen könnte, mit einem Sieg für Argentinien aufgrund ihrer Erfahrung in entscheidenden Momenten (n.V.).",
+      "Details zu Form, Verletzungen, Sperren und Quoten für Juli 2026 sind zum aktuellen Zeitpunkt nicht seriös recherchierbar und daher hochspekulativ."
+     ],
+     "at": "2026-07-14T18:20:15+02:00",
      "changeNote": null
     }
    ],
