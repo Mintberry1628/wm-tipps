@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-14T18:20:15+02:00",
+  "lastUpdate": "2026-07-15T18:26:11+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -7020,7 +7020,7 @@ window.WM_DATA = {
    "city": "Arlington",
    "feedsInto": 104,
    "loserFeedsInto": 103,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -7065,8 +7065,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 0,
+    "away": 2,
+    "notes": "Mikel Oyarzabal traf per Elfmeter und Pedro Porro erzielte ein weiteres Tor für Spanien.",
+    "at": "2026-07-15T18:25:51+02:00",
+    "advancesCode": "ESP"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-14T20:00:00+02:00"
   },
@@ -7097,12 +7106,11 @@ window.WM_DATA = {
     "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Argentinien ist amtierender Weltmeister (2022) und Copa América Sieger 2024, was für eine bewährte K.o.-Mentalität spricht.",
-     "England zeigte eine starke Leistung bei der EM 2024, wo sie das Finale erreichten, und verfügt über einen dynamischen Kader.",
-     "Es wird ein enges Spiel erwartet, das in die Verlängerung gehen könnte, mit einem Sieg für Argentinien aufgrund ihrer Erfahrung in entscheidenden Momenten (n.V.).",
-     "Details zu Form, Verletzungen, Sperren und Quoten für Juli 2026 sind zum aktuellen Zeitpunkt nicht seriös recherchierbar und daher hochspekulativ."
+     "Argentinien hat den amtierenden Weltmeistertitel und bewies erneut mentale Stärke in knappen K.-o.-Spielen, oft über die volle Distanz.",
+     "England ist zwar im Turnier ungeschlagen, könnte aber in einem Duell auf Augenhöhe gegen den erfahrenen Titelverteidiger im entscheidenden Moment Schwierigkeiten haben.",
+     "Die Prognosen und Quoten deuten auf ein äußerst ausgeglichenes Spiel hin, bei dem eine Verlängerung sehr wahrscheinlich ist."
     ],
-    "updatedAt": "2026-07-14T18:20:15+02:00",
+    "updatedAt": "2026-07-15T18:26:11+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -7132,6 +7140,19 @@ window.WM_DATA = {
       "Details zu Form, Verletzungen, Sperren und Quoten für Juli 2026 sind zum aktuellen Zeitpunkt nicht seriös recherchierbar und daher hochspekulativ."
      ],
      "at": "2026-07-14T18:20:15+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ARG",
+     "confidence": "mittel",
+     "reasons": [
+      "Argentinien hat den amtierenden Weltmeistertitel und bewies erneut mentale Stärke in knappen K.-o.-Spielen, oft über die volle Distanz.",
+      "England ist zwar im Turnier ungeschlagen, könnte aber in einem Duell auf Augenhöhe gegen den erfahrenen Titelverteidiger im entscheidenden Moment Schwierigkeiten haben.",
+      "Die Prognosen und Quoten deuten auf ein äußerst ausgeglichenes Spiel hin, bei dem eine Verlängerung sehr wahrscheinlich ist."
+     ],
+     "at": "2026-07-15T18:26:11+02:00",
      "changeNote": null
     }
    ],
