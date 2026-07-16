@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-15T18:26:11+02:00",
+  "lastUpdate": "2026-07-16T05:58:55+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -7097,7 +7097,7 @@ window.WM_DATA = {
    "city": "Atlanta",
    "feedsInto": 104,
    "loserFeedsInto": 103,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 1,
@@ -7156,8 +7156,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 1,
+    "away": 2,
+    "notes": "Argentinien gewann nach einem Rückstand durch Tore von Enzo Fernandez (85.) und Lautaro Martinez (90.+2), nachdem Anthony Gordon (55.) England in Führung gebracht hatte.",
+    "at": "2026-07-16T05:58:25+02:00",
+    "advancesCode": "ARG"
+   },
+   "evaluation": {
+    "tendency": true,
+    "exact": true
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-15T20:00:00+02:00"
   },
@@ -7167,12 +7176,12 @@ window.WM_DATA = {
    "group": "Spiel um Platz 3",
    "roundCode": "P3",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Verlierer Spiel 101",
-   "awayPlaceholder": "Verlierer Spiel 102",
+   "home": "Frankreich",
+   "away": "England",
+   "homeCode": "FRA",
+   "awayCode": "ENG",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-18T23:00:00+02:00",
    "kickoffLocal": "",
    "venue": "Hard Rock Stadium",
@@ -7180,9 +7189,37 @@ window.WM_DATA = {
    "feedsInto": null,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "FRA",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "Frankreich gilt laut Quoten als leichter Favorit und gewann das letzte WM-Duell.",
+     "Didier Deschamps' letztes Spiel als Trainer und Kylian Mbappés Jagd nach dem Goldenen Schuh könnten Frankreich zusätzliche Motivation geben.",
+     "England könnte nach der dramatischen Halbfinal-Niederlage moralisch angeschlagen sein."
+    ],
+    "updatedAt": "2026-07-16T05:58:40+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "FRA",
+     "confidence": "mittel",
+     "reasons": [
+      "Frankreich gilt laut Quoten als leichter Favorit und gewann das letzte WM-Duell.",
+      "Didier Deschamps' letztes Spiel als Trainer und Kylian Mbappés Jagd nach dem Goldenen Schuh könnten Frankreich zusätzliche Motivation geben.",
+      "England könnte nach der dramatischen Halbfinal-Niederlage moralisch angeschlagen sein."
+     ],
+     "at": "2026-07-16T05:58:40+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
@@ -7194,12 +7231,12 @@ window.WM_DATA = {
    "group": "Finale",
    "roundCode": "FINAL",
    "matchday": null,
-   "home": null,
-   "away": null,
-   "homeCode": null,
-   "awayCode": null,
-   "homePlaceholder": "Sieger Spiel 101",
-   "awayPlaceholder": "Sieger Spiel 102",
+   "home": "Spanien",
+   "away": "Argentinien",
+   "homeCode": "ESP",
+   "awayCode": "ARG",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
    "kickoffBerlin": "2026-07-19T21:00:00+02:00",
    "kickoffLocal": "",
    "venue": "MetLife Stadium",
@@ -7207,9 +7244,39 @@ window.WM_DATA = {
    "feedsInto": null,
    "loserFeedsInto": null,
    "status": "geplant",
-   "teamsKnown": false,
-   "prediction": null,
-   "history": [],
+   "teamsKnown": true,
+   "prediction": {
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "ESP",
+    "outcome": "1",
+    "confidence": "mittel",
+    "reasons": [
+     "Spanien zeigte sich im Turnier extrem defensivstark und kassierte nur ein Gegentor.",
+     "Spanien dominierte seine Gegner in der K.o.-Phase, zuletzt Frankreich im Halbfinale souverän.",
+     "Argentinien bewies Comeback-Qualitäten und individuelle Klasse, insbesondere durch Messi, im Halbfinale gegen England.",
+     "Die Wettquoten sehen Spanien als Favoriten auf den Titel."
+    ],
+    "updatedAt": "2026-07-16T05:58:55+02:00",
+    "changed": false,
+    "changeNote": null
+   },
+   "history": [
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "ESP",
+     "confidence": "mittel",
+     "reasons": [
+      "Spanien zeigte sich im Turnier extrem defensivstark und kassierte nur ein Gegentor.",
+      "Spanien dominierte seine Gegner in der K.o.-Phase, zuletzt Frankreich im Halbfinale souverän.",
+      "Argentinien bewies Comeback-Qualitäten und individuelle Klasse, insbesondere durch Messi, im Halbfinale gegen England.",
+      "Die Wettquoten sehen Spanien als Favoriten auf den Titel."
+     ],
+     "at": "2026-07-16T05:58:55+02:00",
+     "changeNote": null
+    }
+   ],
    "result": null,
    "evaluation": null,
    "countsForStats": true,
