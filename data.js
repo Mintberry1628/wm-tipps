@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-16T05:58:55+02:00",
+  "lastUpdate": "2026-07-18T19:07:13+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -7197,11 +7197,11 @@ window.WM_DATA = {
     "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Frankreich gilt laut Quoten als leichter Favorit und gewann das letzte WM-Duell.",
-     "Didier Deschamps' letztes Spiel als Trainer und Kylian Mbappés Jagd nach dem Goldenen Schuh könnten Frankreich zusätzliche Motivation geben.",
-     "England könnte nach der dramatischen Halbfinal-Niederlage moralisch angeschlagen sein."
+     "Frankreich verfügt über eine starke individuelle Qualität und Turniererfahrung, die oft den Unterschied ausmacht.",
+     "England muss wichtige Ausfälle (Henderson, Quansah) verkraften, zudem gibt es Sorgen um Bellinghams Schulter.",
+     "Buchmacher sehen Frankreich als leichten Favoriten in diesem Spiel um Platz 3."
     ],
-    "updatedAt": "2026-07-16T05:58:40+02:00",
+    "updatedAt": "2026-07-18T19:06:54+02:00",
     "changed": false,
     "changeNote": null
    },
@@ -7217,6 +7217,19 @@ window.WM_DATA = {
       "England könnte nach der dramatischen Halbfinal-Niederlage moralisch angeschlagen sein."
      ],
      "at": "2026-07-16T05:58:40+02:00",
+     "changeNote": null
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "FRA",
+     "confidence": "mittel",
+     "reasons": [
+      "Frankreich verfügt über eine starke individuelle Qualität und Turniererfahrung, die oft den Unterschied ausmacht.",
+      "England muss wichtige Ausfälle (Henderson, Quansah) verkraften, zudem gibt es Sorgen um Bellinghams Schulter.",
+      "Buchmacher sehen Frankreich als leichten Favoriten in diesem Spiel um Platz 3."
+     ],
+     "at": "2026-07-18T19:06:54+02:00",
      "changeNote": null
     }
    ],
@@ -7246,20 +7259,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 2,
-    "scoreAway": 1,
-    "winnerCode": "ESP",
-    "outcome": "1",
+    "scoreHome": 1,
+    "scoreAway": 2,
+    "winnerCode": "ARG",
+    "outcome": "2",
     "confidence": "mittel",
     "reasons": [
-     "Spanien zeigte sich im Turnier extrem defensivstark und kassierte nur ein Gegentor.",
-     "Spanien dominierte seine Gegner in der K.o.-Phase, zuletzt Frankreich im Halbfinale souverän.",
-     "Argentinien bewies Comeback-Qualitäten und individuelle Klasse, insbesondere durch Messi, im Halbfinale gegen England.",
-     "Die Wettquoten sehen Spanien als Favoriten auf den Titel."
+     "Argentiniens Finalerfahrung und Messi-Faktor entscheidend.",
+     "Spanien mit starker Defensive, aber offensive Qualität Argentiniens hoch.",
+     "Knapper Ausgang erwartet, möglicherweise Sieg in der Verlängerung (n.V.)."
     ],
-    "updatedAt": "2026-07-16T05:58:55+02:00",
-    "changed": false,
-    "changeNote": null
+    "updatedAt": "2026-07-18T19:07:13+02:00",
+    "changed": true,
+    "changeNote": "Tipp angepasst (vorher 2:1)"
    },
    "history": [
     {
@@ -7275,6 +7287,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-16T05:58:55+02:00",
      "changeNote": null
+    },
+    {
+     "scoreHome": 1,
+     "scoreAway": 2,
+     "winnerCode": "ARG",
+     "confidence": "mittel",
+     "reasons": [
+      "Argentiniens Finalerfahrung und Messi-Faktor entscheidend.",
+      "Spanien mit starker Defensive, aber offensive Qualität Argentiniens hoch.",
+      "Knapper Ausgang erwartet, möglicherweise Sieg in der Verlängerung (n.V.)."
+     ],
+     "at": "2026-07-18T19:07:13+02:00",
+     "changeNote": "Tipp angepasst (vorher 2:1)"
     }
    ],
    "result": null,
