@@ -4,7 +4,7 @@ window.WM_DATA = {
   "host": "USA / Kanada / Mexiko",
   "timezone": "Europe/Berlin",
   "generatedAt": "2026-06-13T12:00:00+02:00",
-  "lastUpdate": "2026-07-18T19:07:13+02:00",
+  "lastUpdate": "2026-07-19T18:00:32+02:00",
   "updateSchedule": "mehrmals taeglich (ca. 5x), zuletzt ~1 Std. vor Anpfiff",
   "appVersion": 1
  },
@@ -7188,7 +7188,7 @@ window.WM_DATA = {
    "city": "Miami Gardens",
    "feedsInto": null,
    "loserFeedsInto": null,
-   "status": "geplant",
+   "status": "gespielt",
    "teamsKnown": true,
    "prediction": {
     "scoreHome": 2,
@@ -7233,8 +7233,17 @@ window.WM_DATA = {
      "changeNote": null
     }
    ],
-   "result": null,
-   "evaluation": null,
+   "result": {
+    "home": 4,
+    "away": 6,
+    "notes": "England gewann ein torreiches Spiel um Platz 3 mit 6:4, wobei Bukayo Saka einen Hattrick erzielte und Kylian Mbappé zweimal traf.",
+    "at": "2026-07-19T18:00:12+02:00",
+    "advancesCode": "ENG"
+   },
+   "evaluation": {
+    "tendency": false,
+    "exact": false
+   },
    "countsForStats": true,
    "finalCheckBerlin": "2026-07-18T22:00:00+02:00"
   },
@@ -7259,19 +7268,19 @@ window.WM_DATA = {
    "status": "geplant",
    "teamsKnown": true,
    "prediction": {
-    "scoreHome": 1,
-    "scoreAway": 2,
-    "winnerCode": "ARG",
-    "outcome": "2",
+    "scoreHome": 2,
+    "scoreAway": 1,
+    "winnerCode": "ESP",
+    "outcome": "1",
     "confidence": "mittel",
     "reasons": [
-     "Argentiniens Finalerfahrung und Messi-Faktor entscheidend.",
-     "Spanien mit starker Defensive, aber offensive Qualität Argentiniens hoch.",
-     "Knapper Ausgang erwartet, möglicherweise Sieg in der Verlängerung (n.V.)."
+     "Spanien zeigte sich im Turnier in Topform und defensiv stark, mit nur einem Gegentor in sieben Spielen.",
+     "Obwohl Argentinien mit Stars wie Lionel Messi über große Erfahrung und Effizienz verfügt, wird Spanien von den Buchmachern als Favorit gehandelt.",
+     "Beide Teams treten ohne gemeldete Verletzungen oder Sperren an, was ein intensives und hochklassiges Finale erwarten lässt."
     ],
-    "updatedAt": "2026-07-18T19:07:13+02:00",
+    "updatedAt": "2026-07-19T18:00:32+02:00",
     "changed": true,
-    "changeNote": "Tipp angepasst (vorher 2:1)"
+    "changeNote": "Tipp angepasst (vorher 1:2)"
    },
    "history": [
     {
@@ -7300,6 +7309,19 @@ window.WM_DATA = {
      ],
      "at": "2026-07-18T19:07:13+02:00",
      "changeNote": "Tipp angepasst (vorher 2:1)"
+    },
+    {
+     "scoreHome": 2,
+     "scoreAway": 1,
+     "winnerCode": "ESP",
+     "confidence": "mittel",
+     "reasons": [
+      "Spanien zeigte sich im Turnier in Topform und defensiv stark, mit nur einem Gegentor in sieben Spielen.",
+      "Obwohl Argentinien mit Stars wie Lionel Messi über große Erfahrung und Effizienz verfügt, wird Spanien von den Buchmachern als Favorit gehandelt.",
+      "Beide Teams treten ohne gemeldete Verletzungen oder Sperren an, was ein intensives und hochklassiges Finale erwarten lässt."
+     ],
+     "at": "2026-07-19T18:00:32+02:00",
+     "changeNote": "Tipp angepasst (vorher 1:2)"
     }
    ],
    "result": null,
